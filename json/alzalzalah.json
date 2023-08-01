@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "ayat": 1,
+        "arabic": "اِذَا زُلْزِلَتِ الْاَرْضُ زِلْزَالَهَاۙ",
+        "translate": "Iżā zulzilatil-arḍu zilzālahā.",
+        "meaning": "Apabila bumi diguncangkan dengan guncangan yang dahsyat,"
+    },
+    {
+        "id": 2,
+        "ayat": 2,
+        "arabic": "وَاَخْرَجَتِ الْاَرْضُ اَثْقَالَهَاۙ",
+        "translate": "Wa akhrajatil-arḍu aṡqālahā.",
+        "meaning": "bumi mengeluarkan isi perutnya,"
+    },
+    {
+        "id": 3,
+        "ayat": 3,
+        "arabic": "وَقَالَ الْاِنْسَانُ مَا لَهَاۚ",
+        "translate": "Wa qālal-insānu mā lahā.",
+        "meaning": "dan manusia bertanya, “Apa yang terjadi dengannya (bumi)?”"
+    },
+    {
+        "id": 4,
+        "ayat": 4,
+        "arabic": "يَوْمَىِٕذٍ تُحَدِّثُ اَخْبَارَهَاۙ",
+        "translate": "Yauma'iżin tuḥaddiṡu akhbārahā.",
+        "meaning": "Pada hari itu (bumi) menyampaikan berita (tentang apa yang diperbuat manusia di atasnya)"
+    },
+    {
+        "id": 5,
+        "ayat": 5,
+        "arabic": "بِاَنَّ رَبَّكَ اَوْحٰى لَهَاۗ",
+        "translate": "Bi'anna rabbaka auḥā lahā.",
+        "meaning": "karena sesungguhnya Tuhanmu telah memerintahkan (yang demikian itu) kepadanya."
+    },
+    {
+        "id": 6,
+        "ayat": 6,
+        "arabic": "يَوْمَىِٕذٍ يَّصْدُرُ النَّاسُ اَشْتَاتًا ەۙ لِّيُرَوْا اَعْمَالَهُمْۗ",
+        "translate": "Yauma'iżiy yaṣdurun-nāsu asytātā(n), liyurau a‘mālahum.",
+        "meaning": "Pada hari itu manusia keluar (dari kuburnya) dalam keadaan terpencar untuk diperlihatkan kepada mereka (balasan) semua perbuatan mereka."
+    },
+    {
+        "id": 7,
+        "ayat": 7,
+        "arabic": "فَمَنْ يَّعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَّرَهٗۚ",
+        "translate": "Famay ya‘mal miṡqāla żarratin khairay yarah(ū).",
+        "meaning": "Siapa yang mengerjakan kebaikan seberat zarah, dia akan melihat (balasan)-nya."
+    },
+    {
+        "id": 8,
+        "ayat": 8,
+        "arabic": "وَمَنْ يَّعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَّرَهٗ ࣖ",
+        "translate": "Wa may ya‘mal miṡqāla żarratin syarray yarah(ū).",
+        "meaning": "Siapa yang mengerjakan kejahatan seberat zarah, dia akan melihat (balasan)-nya."
+    }
+]

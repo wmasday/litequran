@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "ayat": 1,
+        "arabic": "لَآ اُقْسِمُ بِهٰذَا الْبَلَدِۙ",
+        "translate": "Lā uqsimu bihāżal-balad(i).",
+        "meaning": "Aku bersumpah demi negeri ini (Makkah),"
+    },
+    {
+        "id": 2,
+        "ayat": 2,
+        "arabic": "وَاَنْتَ حِلٌّۢ بِهٰذَا الْبَلَدِۙ",
+        "translate": "Wa anta ḥillum bihāżal-balad(i).",
+        "meaning": "sedangkan engkau (Nabi Muhammad) bertempat tinggal di negeri (Makkah) ini."
+    },
+    {
+        "id": 3,
+        "ayat": 3,
+        "arabic": "وَوَالِدٍ وَّمَا وَلَدَۙ",
+        "translate": "Wa wālidiw wa mā walad(a).",
+        "meaning": "(Aku juga bersumpah) demi bapak dan anaknya,"
+    },
+    {
+        "id": 4,
+        "ayat": 4,
+        "arabic": "لَقَدْ خَلَقْنَا الْاِنْسَانَ فِيْ كَبَدٍۗ",
+        "translate": "Laqad khalaqnal-insāna fī kabad(in).",
+        "meaning": "sungguh, Kami benar-benar telah menciptakan manusia dalam keadaan susah payah."
+    },
+    {
+        "id": 5,
+        "ayat": 5,
+        "arabic": "اَيَحْسَبُ اَنْ لَّنْ يَّقْدِرَ عَلَيْهِ اَحَدٌ ۘ",
+        "translate": "Ayaḥsabu allay yaqdira ‘alaihi aḥad(un).",
+        "meaning": "Apakah dia (manusia) itu mengira bahwa tidak ada seorang pun yang berkuasa atasnya?"
+    },
+    {
+        "id": 6,
+        "ayat": 6,
+        "arabic": "يَقُوْلُ اَهْلَكْتُ مَالًا لُّبَدًاۗ",
+        "translate": "Yaqūlu ahlaktu mālal lubadā(n).",
+        "meaning": "Dia mengatakan, “Aku telah menghabiskan harta yang banyak.”"
+    },
+    {
+        "id": 7,
+        "ayat": 7,
+        "arabic": "اَيَحْسَبُ اَنْ لَّمْ يَرَهٗٓ اَحَدٌۗ",
+        "translate": "Ayaḥsabu allam yarahū aḥad(un).",
+        "meaning": "Apakah dia mengira bahwa tidak ada seorang pun yang melihatnya?"
+    },
+    {
+        "id": 8,
+        "ayat": 8,
+        "arabic": "اَلَمْ نَجْعَلْ لَّهٗ عَيْنَيْنِۙ",
+        "translate": "Alam naj‘al lahū ‘ainain(i).",
+        "meaning": "Bukankah Kami telah menjadikan untuknya sepasang mata,"
+    },
+    {
+        "id": 9,
+        "ayat": 9,
+        "arabic": "وَلِسَانًا وَّشَفَتَيْنِۙ",
+        "translate": "Wa lisānaw wa syafatain(i).",
+        "meaning": "lidah, dan sepasang bibir,"
+    },
+    {
+        "id": 10,
+        "ayat": 10,
+        "arabic": "وَهَدَيْنٰهُ النَّجْدَيْنِۙ",
+        "translate": "Wa hadaināhun-najdain(i).",
+        "meaning": "serta Kami juga telah menunjukkan kepadanya dua jalan (kebajikan dan kejahatan)?"
+    },
+    {
+        "id": 11,
+        "ayat": 11,
+        "arabic": "فَلَا اقْتَحَمَ الْعَقَبَةَ ۖ",
+        "translate": "Falaqtaḥamal-‘aqabah(ta).",
+        "meaning": "Maka, tidakkah sebaiknya dia menempuh jalan (kebajikan) yang mendaki dan sukar?"
+    },
+    {
+        "id": 12,
+        "ayat": 12,
+        "arabic": "وَمَآ اَدْرٰىكَ مَا الْعَقَبَةُ ۗ",
+        "translate": "Wa mā adrāka mal-‘aqabah(tu).",
+        "meaning": "Tahukah kamu apakah jalan yang mendaki dan sukar itu?"
+    },
+    {
+        "id": 13,
+        "ayat": 13,
+        "arabic": "فَكُّ رَقَبَةٍۙ",
+        "translate": "Fakku raqabah(tin).",
+        "meaning": "(Itulah upaya) melepaskan perbudakan"
+    },
+    {
+        "id": 14,
+        "ayat": 14,
+        "arabic": "اَوْ اِطْعَامٌ فِيْ يَوْمٍ ذِيْ مَسْغَبَةٍۙ",
+        "translate": "Au iṭ‘āmun fī yaumin żī masgabah(tin).",
+        "meaning": "atau memberi makan pada hari terjadi kelaparan"
+    },
+    {
+        "id": 15,
+        "ayat": 15,
+        "arabic": "يَّتِيْمًا ذَا مَقْرَبَةٍۙ",
+        "translate": "Yatīman żā maqrabah(tin).",
+        "meaning": "(kepada) anak yatim yang memiliki hubungan kekerabatan"
+    },
+    {
+        "id": 16,
+        "ayat": 16,
+        "arabic": "اَوْ مِسْكِيْنًا ذَا مَتْرَبَةٍۗ",
+        "translate": "Au miskīnan żā matrabah(tin).",
+        "meaning": "atau orang miskin yang sangat membutuhkan."
+    },
+    {
+        "id": 17,
+        "ayat": 17,
+        "arabic": "ثُمَّ كَانَ مِنَ الَّذِيْنَ اٰمَنُوْا وَتَوَاصَوْا بِالصَّبْرِ وَتَوَاصَوْا بِالْمَرْحَمَةِۗ",
+        "translate": "Ṡumma kāna minal-lażīna āmanū wa tawāṣau biṣ-ṣabri wa tawāṣau bil-marḥamah(ti).",
+        "meaning": "Kemudian, dia juga termasuk orang-orang yang beriman dan saling berpesan untuk bersabar serta saling berpesan untuk berkasih sayang."
+    },
+    {
+        "id": 18,
+        "ayat": 18,
+        "arabic": "اُولٰۤىِٕكَ اَصْحٰبُ الْمَيْمَنَةِۗ",
+        "translate": "Ulā'ika aṣḥābul-maimanah(ti).",
+        "meaning": "Mereka itulah golongan kanan."
+    },
+    {
+        "id": 19,
+        "ayat": 19,
+        "arabic": "وَالَّذِيْنَ كَفَرُوْا بِاٰيٰتِنَا هُمْ اَصْحٰبُ الْمَشْـَٔمَةِۗ",
+        "translate": "Wal-lażīna kafarū bi'āyātinā hum aṣḥābul-masy'amah(ti).",
+        "meaning": "Adapun orang-orang yang kufur pada ayat-ayat Kami, merekalah golongan kiri."
+    },
+    {
+        "id": 20,
+        "ayat": 20,
+        "arabic": "عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌ ࣖ",
+        "translate": "‘Alaihim nārum mu'ṣadah(tun).",
+        "meaning": "Mereka berada dalam neraka yang ditutup rapat."
+    }
+]

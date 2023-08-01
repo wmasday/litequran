@@ -1,0 +1,625 @@
+[
+    {
+        "id": 1,
+        "ayat": 1,
+        "arabic": "حٰمۤ ۚ",
+        "translate": "Ḥā mīm.",
+        "meaning": "Ḥā Mīm."
+    },
+    {
+        "id": 2,
+        "ayat": 2,
+        "arabic": "وَالْكِتٰبِ الْمُبِيْنِ ۙ",
+        "translate": "Wal-kitābil-mubīn(i).",
+        "meaning": "Demi Kitab (Al-Qur’an) yang jelas,"
+    },
+    {
+        "id": 3,
+        "ayat": 3,
+        "arabic": "اِنَّا جَعَلْنٰهُ قُرْاٰنًا عَرَبِيًّا لَّعَلَّكُمْ تَعْقِلُوْنَۚ",
+        "translate": "Innā ja‘alnāhu qur'ānan ‘arabiyyal la‘allakum ta‘qilūn(a).",
+        "meaning": "sesungguhnya Kami menjadikannya sebagai Al-Qur’an yang berbahasa Arab agar kamu mengerti"
+    },
+    {
+        "id": 4,
+        "ayat": 4,
+        "arabic": "وَاِنَّهٗ فِيْٓ اُمِّ الْكِتٰبِ لَدَيْنَا لَعَلِيٌّ حَكِيْمٌ ۗ",
+        "translate": "Wa innahū fī ummil-kitābi ladainā la‘aliyyun ḥakīm(un).",
+        "meaning": "dan sesungguhnya (Al-Qur’an) itu berada di dalam Ummul Kitāb (Lauh Mahfuz) di sisi Kami, benar-benar (bernilai) tinggi, dan penuh hikmah."
+    },
+    {
+        "id": 5,
+        "ayat": 5,
+        "arabic": "اَفَنَضْرِبُ عَنْكُمُ الذِّكْرَ صَفْحًا اَنْ كُنْتُمْ قَوْمًا مُّسْرِفِيْنَ",
+        "translate": "Afa naḍribu ‘ankumuż-żikra ṣafḥan an kuntum qaumam musrifīn(a).",
+        "meaning": "Apakah Kami akan menahan (turunnya) Al-Qur’an dan mengabaikanmu (hanya) karena kamu kaum yang melampaui batas?"
+    },
+    {
+        "id": 6,
+        "ayat": 6,
+        "arabic": "وَكَمْ اَرْسَلْنَا مِنْ نَّبِيٍّ فِى الْاَوَّلِيْنَ",
+        "translate": "Wa kam arsalnā min nabiyyin fil-awwalīn(a).",
+        "meaning": "Betapa banyak nabi yang telah Kami utus kepada umat-umat yang terdahulu."
+    },
+    {
+        "id": 7,
+        "ayat": 7,
+        "arabic": "وَمَا يَأْتِيْهِمْ مِّنْ نَّبِيٍّ اِلَّا كَانُوْا بِهٖ يَسْتَهْزِءُوْنَ",
+        "translate": "Wa mā ya'tīhim min nabiyyin illā kānū bihī yastahzi'ūn(a).",
+        "meaning": "Setiap kali seorang nabi datang kepada mereka, mereka selalu memperolok-olokkannya."
+    },
+    {
+        "id": 8,
+        "ayat": 8,
+        "arabic": "فَاَهْلَكْنَآ اَشَدَّ مِنْهُمْ بَطْشًا وَّمَضٰى مَثَلُ الْاَوَّلِيْنَ",
+        "translate": "Fa ahlaknā asyadda minhum baṭsyaw wa maḍā maṡalul-awwalīn(a).",
+        "meaning": "Oleh karena itu, Kami membinasakan orang-orang yang lebih kuat dari mereka (kaum musyrik Quraisy) dan telah berlalu contoh (kehancuran) umat-umat terdahulu."
+    },
+    {
+        "id": 9,
+        "ayat": 9,
+        "arabic": "وَلَىِٕنْ سَاَلْتَهُمْ مَّنْ خَلَقَ السَّمٰوٰتِ وَالْاَرْضَ لَيَقُوْلُنَّ خَلَقَهُنَّ الْعَزِيْزُ الْعَلِيْمُۙ",
+        "translate": "Wa la'in sa'altahum man khalaqas-samāwāti wal-arḍa layaqūlunna khalaqahunnal-‘azīzul-‘alīm(u).",
+        "meaning": "Jika kamu menanyakan kepada mereka, “Siapakah yang menciptakan langit dan bumi,” pastilah mereka akan menjawab, “Yang menciptakannya adalah Zat Yang Mahaperkasa lagi Maha Mengetahui."
+    },
+    {
+        "id": 10,
+        "ayat": 10,
+        "arabic": "الَّذِيْ جَعَلَ لَكُمُ الْاَرْضَ مَهْدًا وَّجَعَلَ لَكُمْ فِيْهَا سُبُلًا لَّعَلَّكُمْ تَهْتَدُوْنَ ۚ",
+        "translate": "Allażī ja‘ala lakumul-arḍa mahdaw wa ja‘ala lakum fīhā subulal la‘allakum tahtadūn(a).",
+        "meaning": "(Dialah) yang menjadikan bumi sebagai tempat menetap bagimu dan menjadikan jalan-jalan di atasnya untukmu agar kamu mendapat petunjuk."
+    },
+    {
+        "id": 11,
+        "ayat": 11,
+        "arabic": "وَالَّذِيْ نَزَّلَ مِنَ السَّمَاۤءِ مَاۤءًۢ بِقَدَرٍۚ فَاَنْشَرْنَا بِهٖ بَلْدَةً مَّيْتًا ۚ كَذٰلِكَ تُخْرَجُوْنَ",
+        "translate": "Wal-lażī nazzala minas-samā'i mā'am biqadar(in), fa'ansyarnā bihī baldatam maitā(n), każālika tukhrajūn(a).",
+        "meaning": "Yang menurunkan air dari langit dengan suatu ukuran, lalu dengan air itu Kami menghidupkan negeri yang mati (tandus). Seperti itulah kamu akan dikeluarkan (dari kubur)."
+    },
+    {
+        "id": 12,
+        "ayat": 12,
+        "arabic": "وَالَّذِيْ خَلَقَ الْاَزْوَاجَ كُلَّهَا وَجَعَلَ لَكُمْ مِّنَ الْفُلْكِ وَالْاَنْعَامِ مَا تَرْكَبُوْنَۙ",
+        "translate": "Wal-lażī khalaqal-azwāja kullahā wa ja‘ala lakum minal-fulki wal-an‘āmi mā tarkabūn(a).",
+        "meaning": "(Dialah) yang menciptakan semua makhluk berpasang-pasangan dan menjadikan kapal laut untukmu serta hewan ternak untuk kamu tunggangi"
+    },
+    {
+        "id": 13,
+        "ayat": 13,
+        "arabic": "لِتَسْتَوٗا عَلٰى ظُهُوْرِهٖ ثُمَّ تَذْكُرُوْا نِعْمَةَ رَبِّكُمْ اِذَا اسْتَوَيْتُمْ عَلَيْهِ وَتَقُوْلُوْا سُبْحٰنَ الَّذِيْ سَخَّرَ لَنَا هٰذَا وَمَا كُنَّا لَهٗ مُقْرِنِيْنَۙ",
+        "translate": "Litastawū ‘alā ẓuhūrihī ṡumma tażkurū ni‘mata rabbikum iżastawaitum ‘alaihi wa taqūlū subḥānal-lażī sakhkhara lanā hāżā wa mā kunnā lahū muqrinīn(a).",
+        "meaning": "agar kamu dapat duduk di atas punggungnya. Kemudian jika kamu sudah duduk (di atas punggung)-nya, kamu akan mengingat nikmat Tuhanmu dan mengucapkan, “Mahasuci Zat yang telah menundukkan (semua) ini bagi kami, padahal kami sebelumnya tidak mampu menguasainya."
+    },
+    {
+        "id": 14,
+        "ayat": 14,
+        "arabic": "وَاِنَّآ اِلٰى رَبِّنَا لَمُنْقَلِبُوْنَ",
+        "translate": "Wa innā ilā rabbinā lamunqalibūn(a).",
+        "meaning": "Sesungguhnya kami pasti akan kembali kepada Tuhan kami.”"
+    },
+    {
+        "id": 15,
+        "ayat": 15,
+        "arabic": "وَجَعَلُوْا لَهٗ مِنْ عِبَادِهٖ جُزْءًا ۗاِنَّ الْاِنْسَانَ لَكَفُوْرٌ مُّبِيْنٌ ۗ ࣖ",
+        "translate": "Wa ja‘alū lahū min ‘ibādihī juz'ā(n), innal-insāna lakafūrum mubīn(un).",
+        "meaning": "Mereka menjadikan sebagian dari hamba-hamba-Nya sebagai bagian dari-Nya. Sesungguhnya manusia itu benar-benar pengingkar (nikmat Tuhan) yang nyata."
+    },
+    {
+        "id": 16,
+        "ayat": 16,
+        "arabic": "اَمِ اتَّخَذَ مِمَّا يَخْلُقُ بَنٰتٍ وَّاَصْفٰىكُمْ بِالْبَنِيْنَ ۗ",
+        "translate": "Amittakhażū mimmā yakhluqu banātiw wa aṣfākum bil-banīn(a).",
+        "meaning": "Patutkah Dia mengambil anak perempuan dari sebagian yang telah Dia ciptakan dan memilihkan anak laki-laki untukmu?"
+    },
+    {
+        "id": 17,
+        "ayat": 17,
+        "arabic": "وَاِذَا بُشِّرَ اَحَدُهُمْ بِمَا ضَرَبَ لِلرَّحْمٰنِ مَثَلًا ظَلَّ وَجْهُهٗ مُسْوَدًّا وَّهُوَ كَظِيْمٌ",
+        "translate": "Wa iżā busysyira aḥaduhum bimā ḍaraba lir-raḥmāni maṡalan ẓalla wajhuhū muswaddaw wa huwa kaẓīm(un).",
+        "meaning": "Apabila salah seorang di antara mereka diberi kabar gembira tentang sesuatu (kelahiran anak perempuan) yang dijadikan sebagai perumpamaan bagi (Allah) Yang Maha Pengasih, jadilah wajahnya merah padam karena menahan sedih (dan marah)."
+    },
+    {
+        "id": 18,
+        "ayat": 18,
+        "arabic": "اَوَمَنْ يُّنَشَّؤُا فِى الْحِلْيَةِ وَهُوَ فِى الْخِصَامِ غَيْرُ مُبِيْنٍ",
+        "translate": "Awamay yunasysya'u fil-ḥilyati wa huwa fil-khiṣāmi gairu mubīn(in).",
+        "meaning": "Apakah patut (menjadi anak Allah) orang yang tumbuh dan berkembang (dengan tabiat) selalu berhias diri, sedangkan dia tidak mampu memberi alasan yang tegas dan jelas dalam pertengkaran."
+    },
+    {
+        "id": 19,
+        "ayat": 19,
+        "arabic": "وَجَعَلُوا الْمَلٰۤىِٕكَةَ الَّذِيْنَ هُمْ عِبٰدُ الرَّحْمٰنِ اِنَاثًا ۗ اَشَهِدُوْا خَلْقَهُمْ ۗسَتُكْتَبُ شَهَادَتُهُمْ وَيُسْـَٔلُوْنَ",
+        "translate": "Wa ja‘alul-malā'ikatal-lażīna hum ‘ibādur raḥmāni ināṡā(n), asyahidū khalqahum, satuktabu syahādatuhum wa yus'alūn(a).",
+        "meaning": "Mereka menganggap para malaikat, hamba-hamba (Allah) Yang Maha Pengasih itu, berjenis perempuan. Apakah mereka menyaksikan penciptaannya? Kelak kesaksian (yang mereka karang sendiri itu) akan dituliskan dan akan dimintakan pertanggungjawaban."
+    },
+    {
+        "id": 20,
+        "ayat": 20,
+        "arabic": "وَقَالُوْا لَوْ شَاۤءَ الرَّحْمٰنُ مَا عَبَدْنٰهُمْ ۗمَا لَهُمْ بِذٰلِكَ مِنْ عِلْمٍ اِنْ هُمْ اِلَّا يَخْرُصُوْنَۗ",
+        "translate": "Wa qālū lau syā'ar-raḥmānu mā ‘abadnāhum, mā lahum biżālika min ‘ilm(in), in hum illā yakhruṣūn(a).",
+        "meaning": "Mereka berkata, “Sekiranya (Allah) Yang Maha Pengasih menghendaki, tentulah kami tidak menyembah mereka (malaikat).” Mereka tidak mempunyai pengetahuan sedikit pun tentang itu. Mereka hanyalah menduga-duga belaka."
+    },
+    {
+        "id": 21,
+        "ayat": 21,
+        "arabic": "اَمْ اٰتَيْنٰهُمْ كِتٰبًا مِّنْ قَبْلِهٖ فَهُمْ بِهٖ مُسْتَمْسِكُوْنَ",
+        "translate": "Am ātaināhum kitābam min qablihī fahum bihī mustamsikūn(a).",
+        "meaning": "Apakah kami pernah memberikan sebuah kitab kepada mereka sebelumnya (Al-Qur’an), lalu mereka berpegang teguh (pada kitab itu)?"
+    },
+    {
+        "id": 22,
+        "ayat": 22,
+        "arabic": "بَلْ قَالُوْٓا اِنَّا وَجَدْنَآ اٰبَاۤءَنَا عَلٰٓى اُمَّةٍ وَّاِنَّا عَلٰٓى اٰثٰرِهِمْ مُّهْتَدُوْنَ",
+        "translate": "Bal qālū innā wajadnā ābā'anā ‘alā ummatiw wa innā ‘alā āṡārihim muhtadūn(a).",
+        "meaning": "Bahkan, mereka berkata, “Sesungguhnya kami telah mendapati nenek moyang kami menganut suatu agama dan kami hanya mengikuti jejak mereka.”"
+    },
+    {
+        "id": 23,
+        "ayat": 23,
+        "arabic": "وَكَذٰلِكَ مَآ اَرْسَلْنَا مِنْ قَبْلِكَ فِيْ قَرْيَةٍ مِّنْ نَّذِيْرٍۙ اِلَّا قَالَ مُتْرَفُوْهَآ ۙاِنَّا وَجَدْنَآ اٰبَاۤءَنَا عَلٰٓى اُمَّةٍ وَّاِنَّا عَلٰٓى اٰثٰرِهِمْ مُّقْتَدُوْنَ",
+        "translate": "Wa każālika mā arsalnā min qablika fī qaryatim min nażīr(in), illā qāla mutrafūhā, innā wajadnā ābā'anā ‘alā ummatiw wa innā ‘alā āṡārihim muqtadūn(a).",
+        "meaning": "Demikian juga ketika Kami mengutus seorang pemberi peringatan sebelum engkau (Nabi Muhammad) ke suatu negeri. Orang-orang yang hidup mewah (di negeri itu) selalu berkata, “Sesungguhnya kami mendapati nenek moyang kami menganut suatu (agama) dan kami hanya mencontoh jejak mereka.”"
+    },
+    {
+        "id": 24,
+        "ayat": 24,
+        "arabic": "۞ قٰلَ اَوَلَوْ جِئْتُكُمْ بِاَهْدٰى مِمَّا وَجَدْتُّمْ عَلَيْهِ اٰبَاۤءَكُمْۗ قَالُوْٓا اِنَّا بِمَآ اُرْسِلْتُمْ بِهٖ كٰفِرُوْنَ",
+        "translate": "Qāla awalau ji'tukum bi'ahdā mimmā wajattum ‘alaihi ābā'akum, qālū innā bimā ursiltum bihī kāfirūn(a).",
+        "meaning": "Dia (pemberi peringatan) berkata, “Masihkah kamu (mengikuti jejak nenek moyangmu), sekalipun aku membawa (agama) yang lebih baik panduannya daripada apa yang kamu peroleh dari nenek moyangmu itu?” Mereka menjawab, “Sesungguhnya kami (tetap) mengingkari kerasulanmu.”"
+    },
+    {
+        "id": 25,
+        "ayat": 25,
+        "arabic": "فَانْتَقَمْنَا مِنْهُمْ فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِيْنَ ࣖ",
+        "translate": "Fantaqamnā minhum fanẓur kaifa kāna ‘āqibatul-mukażżibīn(a).",
+        "meaning": "Lalu kami membinasakan mereka. Maka, perhatikanlah bagaimana kesudahan orang-orang yang mendustakan (kebenaran)."
+    },
+    {
+        "id": 26,
+        "ayat": 26,
+        "arabic": "وَاِذْ قَالَ اِبْرٰهِيْمُ لِاَبِيْهِ وَقَوْمِهٖٓ اِنَّنِيْ بَرَاۤءٌ مِّمَّا تَعْبُدُوْنَۙ",
+        "translate": "Wa iż qāla ibrāhīmu li'abīhi wa qaumihī innanī barā'um mimmā ta‘budūn(a).",
+        "meaning": "(Ingatlah) ketika Ibrahim berkata kepada ayahnya dan kaumnya, “Sesungguhnya aku berlepas diri dari apa yang kamu sembah,"
+    },
+    {
+        "id": 27,
+        "ayat": 27,
+        "arabic": "اِلَّا الَّذِيْ فَطَرَنِيْ فَاِنَّهٗ سَيَهْدِيْنِ",
+        "translate": "Illāl-lażī faṭaranī fa'innahū sayahdīn(i).",
+        "meaning": "kecuali (kamu menyembah) Allah yang menciptakanku. Sesungguhnya Dia akan memberi petunjuk kepadaku.”"
+    },
+    {
+        "id": 28,
+        "ayat": 28,
+        "arabic": "وَجَعَلَهَا كَلِمَةً ۢ بَاقِيَةً فِيْ عَقِبِهٖ لَعَلَّهُمْ يَرْجِعُوْنَۗ",
+        "translate": "Wa ja‘alahā kalimatam bāqiyatan fī ‘aqibihī la‘allahum yarji‘ūn(a).",
+        "meaning": "Dia (Ibrahim) menjadikannya (kalimat tauhid) perkataan yang kekal pada keturunannya agar mereka kembali (kepadanya)."
+    },
+    {
+        "id": 29,
+        "ayat": 29,
+        "arabic": "بَلْ مَتَّعْتُ هٰٓؤُلَاۤءِ وَاٰبَاۤءَهُمْ حَتّٰى جَاۤءَهُمُ الْحَقُّ وَرَسُوْلٌ مُّبِيْنٌ",
+        "translate": "Bal matta‘tu hā'ulā'i wa ābā'ahum ḥattā jā'ahumul-ḥaqqu wa rasūlum mubīn(un).",
+        "meaning": "Bahkan Aku telah memberikan kenikmatan hidup kepada mereka dan nenek moyang mereka sampai kebenaran (Al-Qur’an) datang kepada mereka beserta seorang Rasul yang memberi penjelasan."
+    },
+    {
+        "id": 30,
+        "ayat": 30,
+        "arabic": "وَلَمَّا جَاۤءَهُمُ الْحَقُّ قَالُوْا هٰذَا سِحْرٌ وَّاِنَّا بِهٖ كٰفِرُوْنَ",
+        "translate": "Wa lammā jā'ahumul-ḥaqqu qālū hāżā siḥruw wa innā bihī kāfirūn(a).",
+        "meaning": "Ketika kebenaran (Al-Qur’an) itu datang kepada mereka, mereka berkata, “Ini adalah sihir dan sesungguhnya kami mengingkarinya.”"
+    },
+    {
+        "id": 31,
+        "ayat": 31,
+        "arabic": "وَقَالُوْا لَوْلَا نُزِّلَ هٰذَا الْقُرْاٰنُ عَلٰى رَجُلٍ مِّنَ الْقَرْيَتَيْنِ عَظِيْمٍ",
+        "translate": "Wa qālū lau lā nuzzila hāżal-qur'ānu ‘alā rajulim minal-qaryataini ‘aẓīm(in).",
+        "meaning": "Mereka (juga) berkata, “Mengapa Al-Qur’an ini tidak diturunkan kepada (salah satu) pembesar dari dua negeri ini (Makkah dan Taif)?”"
+    },
+    {
+        "id": 32,
+        "ayat": 32,
+        "arabic": "اَهُمْ يَقْسِمُوْنَ رَحْمَتَ رَبِّكَۗ نَحْنُ قَسَمْنَا بَيْنَهُمْ مَّعِيْشَتَهُمْ فِى الْحَيٰوةِ الدُّنْيَاۙ وَرَفَعْنَا بَعْضَهُمْ فَوْقَ بَعْضٍ دَرَجٰتٍ لِّيَتَّخِذَ بَعْضُهُمْ بَعْضًا سُخْرِيًّا ۗوَرَحْمَتُ رَبِّكَ خَيْرٌ مِّمَّا يَجْمَعُوْنَ",
+        "translate": "Ahum yaqsimūna raḥmata rabbik(a), naḥnu qasamnā bainahum ma‘īsyatahum fil-ḥayātid-dun-yā, wa rafa‘nā ba‘ḍahum fauqa ba‘ḍin darajātil liyattakhiża ba‘ḍuhum ba‘ḍan sukhriyyā(n), wa raḥmatu rabbika khairum mimmā yajma‘ūn(a).",
+        "meaning": "Apakah mereka yang membagi-bagi rahmat Tuhanmu? Kamilah yang menentukan penghidupan mereka dalam kehidupan dunia dan Kami telah meninggikan sebagian mereka atas sebagian yang lain beberapa derajat, agar sebagian mereka dapat memanfaatkan sebagian yang lain. Rahmat Tuhanmu lebih baik dari apa yang mereka kumpulkan."
+    },
+    {
+        "id": 33,
+        "ayat": 33,
+        "arabic": "وَلَوْلَآ اَنْ يَّكُوْنَ النَّاسُ اُمَّةً وَّاحِدَةً لَّجَعَلْنَا لِمَنْ يَّكْفُرُ بِالرَّحْمٰنِ لِبُيُوْتِهِمْ سُقُفًا مِّنْ فِضَّةٍ وَّمَعَارِجَ عَلَيْهَا يَظْهَرُوْنَۙ",
+        "translate": "Wa lau lā ay yakūnan-nāsu ummataw wāḥidatal laja‘alnā limay yakfuru bir-raḥmāni libuyūtihim suqufam min fiḍḍatiw wa ma‘ārija ‘alaihā yaẓharūn(a).",
+        "meaning": "Seandainya bukan karena (Kami tidak menghendaki) manusia menjadi satu umat (yang kufur), pastilah sudah Kami buatkan bagi orang-orang yang ingkar kepada (Allah) Yang Maha Pengasih, loteng-loteng rumah mereka dan tangga-tangga yang mereka naiki dari perak."
+    },
+    {
+        "id": 34,
+        "ayat": 34,
+        "arabic": "وَلِبُيُوْتِهِمْ اَبْوَابًا وَّسُرُرًا عَلَيْهَا يَتَّكِـُٔوْنَۙ",
+        "translate": "Wa libuyūtihim abwābaw wa sururan ‘alaihā yattaki'ūn(a).",
+        "meaning": "Dan, bagi rumah-rumah mereka (Kami buatkan) pintu-pintu (perak) dan dipan-dipan tempat mereka bersandar."
+    },
+    {
+        "id": 35,
+        "ayat": 35,
+        "arabic": "وَزُخْرُفًاۗ وَاِنْ كُلُّ ذٰلِكَ لَمَّا مَتَاعُ الْحَيٰوةِ الدُّنْيَا ۗوَالْاٰخِرَةُ عِنْدَ رَبِّكَ لِلْمُتَّقِيْنَ ࣖ",
+        "translate": "Wa zukhrufā(n), wa in kullu żālika lammā matā‘ul-ḥayātid-dun-yā, wal-ākhiratu ‘inda rabbika lil-muttaqīn(a).",
+        "meaning": "Dan, (Kami buatkan pula) perhiasan-perhiasan dari emas. Semuanya itu tidak lain hanyalah kesenangan hidup dunia, sedangkan (kenikmatan hidup) akhirat di sisi Tuhanmu (dikhususkan) bagi orang-orang bertakwa."
+    },
+    {
+        "id": 36,
+        "ayat": 36,
+        "arabic": "وَمَنْ يَّعْشُ عَنْ ذِكْرِ الرَّحْمٰنِ نُقَيِّضْ لَهٗ شَيْطٰنًا فَهُوَ لَهٗ قَرِيْنٌ",
+        "translate": "Wa may ya‘syu ‘an żikrir-raḥmāni nuqayyiḍ lahū syaiṭānan fahuwa lahū qarīn(un).",
+        "meaning": "Siapa yang berpaling dari pengajaran (Allah) Yang Maha Pengasih (Al-Qur’an), Kami biarkan setan (menyesatkannya). Maka, ia (setan) selalu menemaninya."
+    },
+    {
+        "id": 37,
+        "ayat": 37,
+        "arabic": "وَاِنَّهُمْ لَيَصُدُّوْنَهُمْ عَنِ السَّبِيْلِ وَيَحْسَبُوْنَ اَنَّهُمْ مُّهْتَدُوْنَ",
+        "translate": "Wa innahum layaṣuddūnahum ‘anis-sabīli wa yaḥsabūna annahum muhtadūn(a).",
+        "meaning": "Sesungguhnya mereka (setan-setan itu) benar-benar menghalangi mereka (manusia) dari jalan (yang benar), sedangkan mereka (manusia yang sesat itu) mengira bahwa mereka adalah orang-orang yang mendapat petunjuk."
+    },
+    {
+        "id": 38,
+        "ayat": 38,
+        "arabic": "حَتّٰىٓ اِذَا جَاۤءَنَا قَالَ يٰلَيْتَ بَيْنِيْ وَبَيْنَكَ بُعْدَ الْمَشْرِقَيْنِ فَبِئْسَ الْقَرِيْنُ",
+        "translate": "Ḥattā iżā jā'anā qāla yā laita bainī wa bainaka bu‘dal-masyriqaini fa bi'sal-qarīn(u).",
+        "meaning": "Sehingga, apabila dia (orang yang berpaling itu) datang kepada Kami (pada hari Kiamat) dia berkata, “Aduhai, sekiranya (jarak) antara aku dan kamu seperti jarak antara timur dan barat! Memang (setan itu) teman yang paling buruk (bagi manusia).”"
+    },
+    {
+        "id": 39,
+        "ayat": 39,
+        "arabic": "وَلَنْ يَّنْفَعَكُمُ الْيَوْمَ اِذْ ظَّلَمْتُمْ اَنَّكُمْ فِى الْعَذَابِ مُشْتَرِكُوْنَ",
+        "translate": "Wa lay yanfa‘akumul-yauma iẓ ẓalamtum annakum fil-‘ażābi musytarikūn(a).",
+        "meaning": "(Harapanmu itu) sekali-kali tidak akan memberi manfaat kepadamu pada hari itu karena kamu telah menzalimi (dirimu sendiri). Sesungguhnya kamu (orang yang berpaling dan setan) adalah bersekutu dalam azab itu."
+    },
+    {
+        "id": 40,
+        "ayat": 40,
+        "arabic": "اَفَاَنْتَ تُسْمِعُ الصُّمَّ اَوْ تَهْدِى الْعُمْيَ وَمَنْ كَانَ فِيْ ضَلٰلٍ مُّبِيْنٍ",
+        "translate": "Afa anta tusmi‘uṣ-ṣumma au tahdil-‘umya wa man kāna fī ḍalālim mubīn(in).",
+        "meaning": "Maka, apakah engkau (Nabi Muhammad) dapat menjadikan orang-orang yang tuli bisa mendengar (kebenaran) atau (dapatkah) engkau memberi petunjuk kepada orang-orang yang buta (hatinya) dan kepada orang yang tetap dalam kesesatan yang nyata?"
+    },
+    {
+        "id": 41,
+        "ayat": 41,
+        "arabic": "فَاِمَّا نَذْهَبَنَّ بِكَ فَاِنَّا مِنْهُمْ مُّنْتَقِمُوْنَۙ",
+        "translate": "Fa immā nażhabanna bika fa innā minhum muntaqimūn(a).",
+        "meaning": "Maka, sungguh jika Kami benar-benar mewafatkanmu (sebelum engkau mencapai kemenangan), sesungguhnya kepada mereka Kami akan (tetap) memberikan balasan."
+    },
+    {
+        "id": 42,
+        "ayat": 42,
+        "arabic": "اَوْ نُرِيَنَّكَ الَّذِيْ وَعَدْنٰهُمْ فَاِنَّا عَلَيْهِمْ مُّقْتَدِرُوْنَ",
+        "translate": "Au nuriyannakal-lażī wa‘adnāhum fa'innā ‘alaihim muqtadirūn(a).",
+        "meaning": "Atau, benar-benar Kami perlihatkan kepadamu (azab) yang telah Kami ancamkan kepada mereka. Sesungguhnya Kami Maha Berkuasa atas mereka."
+    },
+    {
+        "id": 43,
+        "ayat": 43,
+        "arabic": "فَاسْتَمْسِكْ بِالَّذِيْٓ اُوْحِيَ اِلَيْكَ ۚاِنَّكَ عَلٰى صِرَاطٍ مُّسْتَقِيْمٍ",
+        "translate": "Fastamsik bil-lażī ūḥiya ilaik(a), innaka ‘alā ṣirāṭim mustaqīm(in).",
+        "meaning": "Maka, berpegang teguhlah pada (Al-Qur’an) yang telah diwahyukan kepadamu. Sesungguhnya engkau berada di jalan yang lurus."
+    },
+    {
+        "id": 44,
+        "ayat": 44,
+        "arabic": "وَاِنَّهٗ لَذِكْرٌ لَّكَ وَلِقَوْمِكَ ۚوَسَوْفَ تُسْـَٔلُوْنَ",
+        "translate": "Wa innahū lażikrul laka wa liqaumik(a), wa saufa tus'alūn(a).",
+        "meaning": "Sesungguhnya ia (Al-Qur’an) benar-benar merupakan kemuliaan bagimu dan bagi kaummu dan kelak kamu akan dimintai pertanggungjawaban."
+    },
+    {
+        "id": 45,
+        "ayat": 45,
+        "arabic": "وَسْـَٔلْ مَنْ اَرْسَلْنَا مِنْ قَبْلِكَ مِنْ رُّسُلِنَآ ۖ اَجَعَلْنَا مِنْ دُوْنِ الرَّحْمٰنِ اٰلِهَةً يُّعْبَدُوْنَ ࣖ",
+        "translate": "Was'al man arsalnā min qablika mir rusulinā, aja‘alnā min dūnir-raḥmāni ālihatay yu‘badūn(a).",
+        "meaning": "Tanyakanlah (Nabi Muhammad) kepada (pengikut) rasul-rasul Kami yang telah Kami utus sebelum engkau, “Apakah Kami menjadikan selain (Allah) yang Maha Pengasih sebagai tuhan-tuhan yang disembah?”"
+    },
+    {
+        "id": 46,
+        "ayat": 46,
+        "arabic": "وَلَقَدْ اَرْسَلْنَا مُوْسٰى بِاٰيٰتِنَآ اِلٰى فِرْعَوْنَ وَمَلَا۟ىِٕهٖ فَقَالَ اِنِّيْ رَسُوْلُ رَبِّ الْعٰلَمِيْنَ",
+        "translate": "Wa laqad arsalnā mūsā bi'āyātinā ilā fir‘auna wa mala'ihī fa qāla innī rasūlu rabbil-‘ālamīn(a).",
+        "meaning": "Sungguh, Kami benar-benar telah mengutus Musa dengan membawa ayat-ayat (mukjizat) Kami kepada Fir‘aun dan para pemuka (kaum)-nya. Dia (Musa) berkata, “Sesungguhnya aku adalah utusan dari Tuhan semesta alam.”"
+    },
+    {
+        "id": 47,
+        "ayat": 47,
+        "arabic": "فَلَمَّا جَاۤءَهُمْ بِاٰيٰتِنَآ اِذَا هُمْ مِّنْهَا يَضْحَكُوْنَ",
+        "translate": "Falammā jā'ahum bi'āyātinā iżā hum minhā yaḍḥakūn(a).",
+        "meaning": "Ketika dia (Musa) datang kepada mereka dengan membawa ayat-ayat (mukjizat) Kami, seketika itu mereka menertawakannya."
+    },
+    {
+        "id": 48,
+        "ayat": 48,
+        "arabic": "وَمَا نُرِيْهِمْ مِّنْ اٰيَةٍ اِلَّا هِيَ اَكْبَرُ مِنْ اُخْتِهَاۗ وَاَخَذْنٰهُمْ بِالْعَذَابِ لَعَلَّهُمْ يَرْجِعُوْنَ",
+        "translate": "Wa mā nurīhim min āyatin illā hiya akbaru min ukhtihā, wa akhażnāhum bil-‘ażābi la‘allahum yarji‘ūn(a).",
+        "meaning": "Tidaklah Kami perlihatkan suatu mukjizat kepada mereka kecuali ia (mukjizat itu) lebih besar daripada mukjizat (sebelumnya) dan Kami timpakan kepada mereka azab agar mereka kembali (ke jalan yang benar)."
+    },
+    {
+        "id": 49,
+        "ayat": 49,
+        "arabic": "وَقَالُوْا يٰٓاَيُّهَ السَّاحِرُ ادْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِنْدَكَۚ اِنَّنَا لَمُهْتَدُوْنَ",
+        "translate": "Wa qālū yā ayyuhas-sāḥirud‘u lanā rabbaka bimā ‘ahida ‘indak(a), innanā lamuhtadūn(a).",
+        "meaning": "Mereka berkata, “Wahai penyihir, berdoalah kepada Tuhanmu untuk (melepaskan) kami sesuai dengan apa yang telah dijanjikan-Nya kepadamu. Sesungguhnya kami benar-benar akan menjadi orang-orang yang mendapat petunjuk.”"
+    },
+    {
+        "id": 50,
+        "ayat": 50,
+        "arabic": "فَلَمَّا كَشَفْنَا عَنْهُمُ الْعَذَابَ اِذَا هُمْ يَنْكُثُوْنَ",
+        "translate": "Falammā kasyafnā ‘anhumul-‘ażāba iżā hum yankuṡūn(a).",
+        "meaning": "Maka, ketika Kami hilangkan azab itu dari mereka, seketika itu (juga) mereka ingkar janji."
+    },
+    {
+        "id": 51,
+        "ayat": 51,
+        "arabic": "وَنَادٰى فِرْعَوْنُ فِيْ قَوْمِهٖ قَالَ يٰقَوْمِ اَلَيْسَ لِيْ مُلْكُ مِصْرَ وَهٰذِهِ الْاَنْهٰرُ تَجْرِيْ مِنْ تَحْتِيْۚ اَفَلَا تُبْصِرُوْنَۗ",
+        "translate": "Wa nādā fir‘aunu fī qaumihī qāla yā qaumi alaisa lī mulku miṣra wa hāżihil-anhāru tajrī min taḥtī, afalā tubṣirūn(a).",
+        "meaning": "Fir‘aun berseru kepada kaumnya (seraya) berkata, “Wahai kaumku, bukankah Kerajaan Mesir itu milikku dan (bukankah) sungai-sungai itu mengalir di bawah (istana-istana)-ku. Apakah kamu tidak melihat?"
+    },
+    {
+        "id": 52,
+        "ayat": 52,
+        "arabic": "اَمْ اَنَا۠ خَيْرٌ مِّنْ هٰذَا الَّذِيْ هُوَ مَهِيْنٌ ەۙ وَّلَا يَكَادُ يُبِيْنُ",
+        "translate": "Am ana khairum min hāżal-lażī huwa mahīn(un), wa lā yakādu yubīn(u).",
+        "meaning": "Bahkan, bukankah aku lebih baik daripada orang yang hina ini (Musa) yang hampir-hampir tidak dapat menjelaskan (maksud perkataannya)?"
+    },
+    {
+        "id": 53,
+        "ayat": 53,
+        "arabic": "فَلَوْلَآ اُلْقِيَ عَلَيْهِ اَسْوِرَةٌ مِّنْ ذَهَبٍ اَوْ جَاۤءَ مَعَهُ الْمَلٰۤىِٕكَةُ مُقْتَرِنِيْنَ",
+        "translate": "Falau lā ulqiya ‘alaihi aswiratum min żahabin au jā'a ma‘ahul-malā'ikatu muqtarinīn(a).",
+        "meaning": "Maka, mengapa tidak dipakaikan kepadanya (Musa) gelang dari emas atau malaikat datang bersama dia mengiringinya?”"
+    },
+    {
+        "id": 54,
+        "ayat": 54,
+        "arabic": "فَاسْتَخَفَّ قَوْمَهٗ فَاَطَاعُوْهُ ۗاِنَّهُمْ كَانُوْا قَوْمًا فٰسِقِيْنَ",
+        "translate": "Fastakhaffa qaumahū fa aṭā‘ūh(u), innahum kānū qauman fāsiqīn(a).",
+        "meaning": "Maka, dia (Fir‘aun) telah memengaruhi kaumnya sehingga mereka patuh kepadanya. Sesungguhnya mereka adalah kaum yang fasik."
+    },
+    {
+        "id": 55,
+        "ayat": 55,
+        "arabic": "فَلَمَّآ اٰسَفُوْنَا انْتَقَمْنَا مِنْهُمْ فَاَغْرَقْنٰهُمْ اَجْمَعِيْنَۙ",
+        "translate": "Falammā āsafūnantaqamnā minhum fa agraqnāhum ajma‘īn(a).",
+        "meaning": "Maka, ketika mereka telah membuat Kami murka, Kami hukum mereka, lalu Kami tenggelamkan mereka semuanya (di laut)."
+    },
+    {
+        "id": 56,
+        "ayat": 56,
+        "arabic": "فَجَعَلْنٰهُمْ سَلَفًا وَّمَثَلًا لِّلْاٰخِرِيْنَ ࣖ",
+        "translate": "Fa ja‘alnāhum salafaw wa maṡalal lil-ākhirīn(a).",
+        "meaning": "Maka, Kami jadikan mereka sebagai (kaum) terdahulu dan pelajaran bagi orang-orang yang kemudian."
+    },
+    {
+        "id": 57,
+        "ayat": 57,
+        "arabic": "۞ وَلَمَّا ضُرِبَ ابْنُ مَرْيَمَ مَثَلًا اِذَا قَوْمُكَ مِنْهُ يَصِدُّوْنَ",
+        "translate": "Wa lammā ḍuribabnu maryama maṡalan iżā qaumuka minhu yaṣiddūn(a).",
+        "meaning": "Ketika putra Maryam (Isa) dijadikan perumpamaan, tiba-tiba kaummu (suku Quraisy) bersorak karenanya."
+    },
+    {
+        "id": 58,
+        "ayat": 58,
+        "arabic": "وَقَالُوْٓا ءَاٰلِهَتُنَا خَيْرٌ اَمْ هُوَ ۗمَا ضَرَبُوْهُ لَكَ اِلَّا جَدَلًا ۗبَلْ هُمْ قَوْمٌ خَصِمُوْنَ",
+        "translate": "Wa qālū a'ālihatunā khairun am huw(a), mā ḍarabūhu laka illā jadalā(n), bal hum qaumun khaṣimūn(a).",
+        "meaning": "Mereka berkata, “Manakah yang lebih baik, tuhan-tuhan kami atau dia (Isa)?” Mereka tidak memberikan (perumpamaan itu) kepadamu, kecuali dengan maksud membantah saja. Sebenarnya mereka adalah kaum yang suka bertengkar."
+    },
+    {
+        "id": 59,
+        "ayat": 59,
+        "arabic": "اِنْ هُوَ اِلَّا عَبْدٌ اَنْعَمْنَا عَلَيْهِ وَجَعَلْنٰهُ مَثَلًا لِّبَنِيْٓ اِسْرَاۤءِيْلَ ۗ",
+        "translate": "In huwa illā ‘abdun an‘amnā ‘alaihi wa ja‘alnāhu maṡalal libanī isrā'īl(a).",
+        "meaning": "Dia (Isa) tidak lain hanyalah seorang hamba yang Kami anugerahkan nikmat (kenabian) kepadanya dan Kami jadikan dia sebagai pelajaran (tanda kekuasaan Kami) bagi Bani Israil."
+    },
+    {
+        "id": 60,
+        "ayat": 60,
+        "arabic": "وَلَوْ نَشَاۤءُ لَجَعَلْنَا مِنْكُمْ مَّلٰۤىِٕكَةً فِى الْاَرْضِ يَخْلُفُوْنَ",
+        "translate": "Wa lau nasyā'u laja‘alnā minkum malā'ikatan fil-arḍi yakhlufūn(a).",
+        "meaning": "Seandainya Kami kehendaki, niscaya Kami jadikan malaikat sebagai penggantimu di bumi secara turun temurun."
+    },
+    {
+        "id": 61,
+        "ayat": 61,
+        "arabic": "وَاِنَّهٗ لَعِلْمٌ لِّلسَّاعَةِ فَلَا تَمْتَرُنَّ بِهَا وَاتَّبِعُوْنِۗ هٰذَا صِرَاطٌ مُّسْتَقِيْمٌ",
+        "translate": "Wa innahū la‘ilmul lis-sā‘ati falā tamtarunna bihā wattabi‘ūn(i), hāżā ṣirāṭum mustaqīm(un).",
+        "meaning": "Sesungguhnya dia (Isa) itu benar-benar menjadi pertanda akan datangnya hari Kiamat. Oleh karena itu, janganlah sekali-kali kamu ragu tentang (kiamat) itu dan ikutilah (petunjuk)-Ku. Ini adalah jalan yang lurus."
+    },
+    {
+        "id": 62,
+        "ayat": 62,
+        "arabic": "وَلَا يَصُدَّنَّكُمُ الشَّيْطٰنُۚ اِنَّهٗ لَكُمْ عَدُوٌّ مُّبِيْنٌ",
+        "translate": "Wa lā yaṣuddannakumusy-syaiṭān(u), innahū lakum ‘aduwwum mubīn(un).",
+        "meaning": "Janganlah sekali-kali kamu dipalingkan oleh setan. Sesungguhnya ia merupakan musuh yang nyata bagimu."
+    },
+    {
+        "id": 63,
+        "ayat": 63,
+        "arabic": "وَلَمَّا جَاۤءَ عِيْسٰى بِالْبَيِّنٰتِ قَالَ قَدْ جِئْتُكُمْ بِالْحِكْمَةِ وَلِاُبَيِّنَ لَكُمْ بَعْضَ الَّذِيْ تَخْتَلِفُوْنَ فِيْهِۚ فَاتَّقُوا اللّٰهَ وَاَطِيْعُوْنِ",
+        "translate": "Wa lammā jā'a ‘īsā bil-bayyināti qāla qad ji'tukum bil-ḥikmati wa li'ubayyina lakum ba‘ḍal-lażī takhtalifūna fīh(i), fattaqullāha wa aṭī‘ūn(i).",
+        "meaning": "Ketika Isa datang membawa bukti-bukti yang nyata, dia berkata, “Sungguh, aku datang kepadamu dengan membawa hikmah dan untuk aku jelaskan kepadamu sebagian dari apa yang kamu perselisihkan. Maka, bertakwalah kepada Allah dan taatilah aku."
+    },
+    {
+        "id": 64,
+        "ayat": 64,
+        "arabic": "اِنَّ اللّٰهَ هُوَ رَبِّيْ وَرَبُّكُمْ فَاعْبُدُوْهُۗ هٰذَا صِرَاطٌ مُّسْتَقِيْمٌ",
+        "translate": "Innallāha huwa rabbī wa rabbukum fa‘budūh(u), hāżā ṣirāṭum mustaqīm(un).",
+        "meaning": "Sesungguhnya Allah, Dialah Tuhanku dan Tuhanmu. Sembahlah Dia! Ini adalah jalan yang lurus.”"
+    },
+    {
+        "id": 65,
+        "ayat": 65,
+        "arabic": "فَاخْتَلَفَ الْاَحْزَابُ مِنْۢ بَيْنِهِمْ ۚفَوَيْلٌ لِّلَّذِيْنَ ظَلَمُوْا مِنْ عَذَابِ يَوْمٍ اَلِيْمٍ",
+        "translate": "Fakhtalafal-aḥzābu mim bainihim, fawailul lil-lażīna ẓalamūmin ‘ażābi yaumin alīm(in).",
+        "meaning": "Golongan-golongan di antara mereka (Yahudi dan Nasrani) berselisih. Celakalah orang-orang yang zalim (karena) azab pada hari yang sangat pedih (kiamat)."
+    },
+    {
+        "id": 66,
+        "ayat": 66,
+        "arabic": "هَلْ يَنْظُرُوْنَ اِلَّا السَّاعَةَ اَنْ تَأْتِيَهُمْ بَغْتَةً وَّهُمْ لَا يَشْعُرُوْنَ",
+        "translate": "Hal yanẓurūna illas-sā‘ata an ta'tiyahum bagtataw wa hum lā yasy‘urūn(a).",
+        "meaning": "Tidaklah mereka (orang-orang kafir) menunggu, kecuali hari Kiamat yang datang kepada mereka secara tiba-tiba, sedangkan mereka tidak menyadari(-nya)."
+    },
+    {
+        "id": 67,
+        "ayat": 67,
+        "arabic": "اَلْاَخِلَّاۤءُ يَوْمَىِٕذٍۢ بَعْضُهُمْ لِبَعْضٍ عَدُوٌّ اِلَّا الْمُتَّقِيْنَ ۗ ࣖ",
+        "translate": "Al-akhillā'u yauma'iżim ba‘ḍuhum liba‘ḍin ‘aduwwun illal-muttaqīn(a).",
+        "meaning": "Teman-teman akrab pada hari itu saling bermusuhan satu sama lain, kecuali orang-orang yang bertakwa."
+    },
+    {
+        "id": 68,
+        "ayat": 68,
+        "arabic": "يٰعِبَادِ لَاخَوْفٌ عَلَيْكُمُ الْيَوْمَ وَلَآ اَنْتُمْ تَحْزَنُوْنَۚ",
+        "translate": "Yā ‘ibādi lā khaufun ‘alaikumul-yauma wa lā antum taḥzanūn(a).",
+        "meaning": "(Dikatakan kepada mereka,) “Wahai hamba-hamba-Ku, tidak ada ketakutan bagimu pada hari ini (kiamat) dan tidak pula kamu bersedih."
+    },
+    {
+        "id": 69,
+        "ayat": 69,
+        "arabic": "اَلَّذِيْنَ اٰمَنُوْا بِاٰيٰتِنَا وَكَانُوْا مُسْلِمِيْنَۚ",
+        "translate": "Allażīna āmanū bi'āyātinā wa kānū muslimīn(a).",
+        "meaning": "(Yaitu) orang-orang yang beriman kepada ayat-ayat Kami dan mereka adalah orang-orang muslim."
+    },
+    {
+        "id": 70,
+        "ayat": 70,
+        "arabic": "اُدْخُلُوا الْجَنَّةَ اَنْتُمْ وَاَزْوَاجُكُمْ تُحْبَرُوْنَ",
+        "translate": "Udkhulul-jannata antum wa azwājukum tuḥbarūn(a).",
+        "meaning": "Masuklah ke dalam surga, kamu dan pasanganmu (dalam keadaan) dibahagiakan.”"
+    },
+    {
+        "id": 71,
+        "ayat": 71,
+        "arabic": "يُطَافُ عَلَيْهِمْ بِصِحَافٍ مِّنْ ذَهَبٍ وَّاَكْوَابٍ ۚوَفِيْهَا مَا تَشْتَهِيْهِ الْاَنْفُسُ وَتَلَذُّ الْاَعْيُنُ ۚوَاَنْتُمْ فِيْهَا خٰلِدُوْنَۚ",
+        "translate": "Yuṭāfu ‘alaihim biṣiḥāfim min żahabiw wa akwāb(in), wa fīhā mā tasytahīhil-anfusu wa talażżul-a‘yun(u), wa antum fīhā khālidūn(a).",
+        "meaning": "Kepada mereka diedarkan piring-piring dan gelas-gelas dari emas dan di dalamnya (surga) terdapat apa yang diingini oleh hati dan dipandang sedap oleh mata serta kamu kekal di dalamnya."
+    },
+    {
+        "id": 72,
+        "ayat": 72,
+        "arabic": "وَتِلْكَ الْجَنَّةُ الَّتِيْٓ اُوْرِثْتُمُوْهَا بِمَا كُنْتُمْ تَعْمَلُوْنَ",
+        "translate": "Wa tilkal-jannatul-latī ūriṡtumūhā bimā kuntum ta‘malūn(a).",
+        "meaning": "Itulah surga yang diwariskan kepada kamu disebabkan apa yang selama ini kamu kerjakan."
+    },
+    {
+        "id": 73,
+        "ayat": 73,
+        "arabic": "لَكُمْ فِيْهَا فَاكِهَةٌ كَثِيْرَةٌ مِّنْهَا تَأْكُلُوْنَ",
+        "translate": "Lakum fīhā fākihatun kaṡīratum minhā ta'kulūn(a).",
+        "meaning": "Untukmu di dalamnya (surga) buah-buahan yang banyak yang sebagiannya kamu makan."
+    },
+    {
+        "id": 74,
+        "ayat": 74,
+        "arabic": "اِنَّ الْمُجْرِمِيْنَ فِيْ عَذَابِ جَهَنَّمَ خٰلِدُوْنَۖ",
+        "translate": "Innal-mujrimīna fī ‘ażābi jahannama khālidūn(a).",
+        "meaning": "Sesungguhnya para pendurhaka itu kekal di dalam azab (neraka) Jahanam."
+    },
+    {
+        "id": 75,
+        "ayat": 75,
+        "arabic": "لَا يُفَتَّرُ عَنْهُمْ وَهُمْ فِيْهِ مُبْلِسُوْنَ ۚ",
+        "translate": "Lā yufattaru ‘anhum wa hum fīhi mublisūn(a).",
+        "meaning": "Tidak diringankan (azab itu) dari mereka dan mereka berputus asa di dalamnya."
+    },
+    {
+        "id": 76,
+        "ayat": 76,
+        "arabic": "وَمَا ظَلَمْنٰهُمْ وَلٰكِنْ كَانُوْا هُمُ الظّٰلِمِيْنَ",
+        "translate": "Wa mā ẓalamnāhum wa lākin kānū humuẓ-ẓālimīn(a).",
+        "meaning": "Tidaklah Kami menzalimi mereka, tetapi mereka adalah orang-orang zalim (terhadap dirinya)."
+    },
+    {
+        "id": 77,
+        "ayat": 77,
+        "arabic": "وَنَادَوْا يٰمٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَۗ قَالَ اِنَّكُمْ مّٰكِثُوْنَ",
+        "translate": "Wa nādau yā māliku liyaqḍi ‘alainā rabbuk(a), qāla innakum mākiṡūn(a).",
+        "meaning": "Mereka menyeru, “Wahai (Malaikat) Malik, hendaklah Tuhanmu mematikan kami saja.” Dia menjawab, “Sesungguhnya kamu akan tetap tinggal (di neraka ini).”"
+    },
+    {
+        "id": 78,
+        "ayat": 78,
+        "arabic": "لَقَدْ جِئْنٰكُمْ بِالْحَقِّ وَلٰكِنَّ اَكْثَرَكُمْ لِلْحَقِّ كٰرِهُوْنَ",
+        "translate": "Laqad ji'nākum bil-ḥaqqi wa lākinna akṡarakum lil-ḥaqqi kārihūn(a).",
+        "meaning": "Sungguh, Kami benar-benar telah datang kepada kamu dengan (membawa) kebenaran, tetapi kebanyakan kamu benci kepada kebenaran itu."
+    },
+    {
+        "id": 79,
+        "ayat": 79,
+        "arabic": "اَمْ اَبْرَمُوْٓا اَمْرًا فَاِنَّا مُبْرِمُوْنَۚ",
+        "translate": "Am abramū amran fa innā mubrimūn(a).",
+        "meaning": "Bahkan, bukankah mereka telah merencanakan suatu tipu daya (jahat)? Sesungguhnya Kami telah berencana (mengatasi tipu daya mereka)."
+    },
+    {
+        "id": 80,
+        "ayat": 80,
+        "arabic": "اَمْ يَحْسَبُوْنَ اَنَّا لَا نَسْمَعُ سِرَّهُمْ وَنَجْوٰىهُمْ ۗ بَلٰى وَرُسُلُنَا لَدَيْهِمْ يَكْتُبُوْنَ",
+        "translate": "Am yaḥsabūna annā lā nasma‘u sirrahum wa najwāhum, balā wa rusulunā ladaihim yaktubūn(a).",
+        "meaning": "Ataukah mereka mengira bahwa Kami tidak mendengar rahasia dan bisikan mereka? Sebenarnya (Kami mendengar) dan utusan-utusan Kami (malaikat) mencatat di sisi mereka."
+    },
+    {
+        "id": 81,
+        "ayat": 81,
+        "arabic": "قُلْ اِنْ كَانَ لِلرَّحْمٰنِ وَلَدٌ ۖفَاَنَا۠ اَوَّلُ الْعٰبِدِيْنَ",
+        "translate": "Qul in kāna lir-raḥmāni walad(un), fa ana awwalul-‘ābidīn(a).",
+        "meaning": "Katakanlah (Nabi Muhammad), “Jika benar Tuhan Yang Maha Pengasih mempunyai anak, akulah orang pertama yang menyembah (anak itu)."
+    },
+    {
+        "id": 82,
+        "ayat": 82,
+        "arabic": "سُبْحٰنَ رَبِّ السَّمٰوٰتِ وَالْاَرْضِ رَبِّ الْعَرْشِ عَمَّا يَصِفُوْنَ",
+        "translate": "Subḥāna rabbis-samāwāti wal-arḍi rabbil-‘arsyi ‘ammā yaṣifūn(a).",
+        "meaning": "Mahasuci Tuhan pemilik langit dan bumi, Tuhan pemilik ʻArasy, dari apa yang mereka sifatkan.”"
+    },
+    {
+        "id": 83,
+        "ayat": 83,
+        "arabic": "فَذَرْهُمْ يَخُوْضُوْا وَيَلْعَبُوْا حَتّٰى يُلٰقُوْا يَوْمَهُمُ الَّذِيْ يُوْعَدُوْنَ",
+        "translate": "Fa żarhum yakhūḍū wa yal‘abū ḥattā yulāqū yaumahumul-lażī yū‘adūn(a).",
+        "meaning": "Maka, biarkanlah mereka tenggelam (dalam kesesatan) dan bermain-main (di dunia) sampai mereka menemui hari yang dijanjikan kepada mereka."
+    },
+    {
+        "id": 84,
+        "ayat": 84,
+        "arabic": "وَهُوَ الَّذِيْ فِى السَّمَاۤءِ اِلٰهٌ وَّ فِى الْاَرْضِ اِلٰهٌ ۗوَهُوَ الْحَكِيْمُ الْعَلِيْمُ",
+        "translate": "Wa huwal-lażī fis-samā'i ilāhuw wa fil-arḍi ilāh(un), wa huwal-ḥakīmul-‘alīm(u).",
+        "meaning": "Dialah Tuhan (yang disembah) di langit dan Tuhan (yang disembah) di bumi. Dialah Yang Mahabijaksana lagi Maha Mengetahui."
+    },
+    {
+        "id": 85,
+        "ayat": 85,
+        "arabic": "وَتَبٰرَكَ الَّذِيْ لَهٗ مُلْكُ السَّمٰوٰتِ وَالْاَرْضِ وَمَا بَيْنَهُمَا ۚوَعِنْدَهٗ عِلْمُ السَّاعَةِۚ وَاِلَيْهِ تُرْجَعُوْنَ",
+        "translate": "Wa tabārakal-lażī lahū mulkus-samāwāti wal-arḍi wa mā bainahumā, wa ‘indahū ‘ilmus-sā‘ah(ti), wa ilaihi turja‘ūn(a).",
+        "meaning": "Mahaberkah (Allah) yang memiliki kerajaan langit dan bumi serta apa yang ada di antara keduanya. Di sisi-Nyalah ilmu tentang hari Kiamat dan hanya kepada-Nyalah kamu dikembalikan."
+    },
+    {
+        "id": 86,
+        "ayat": 86,
+        "arabic": "وَلَا يَمْلِكُ الَّذِيْنَ يَدْعُوْنَ مِنْ دُوْنِهِ الشَّفَاعَةَ اِلَّا مَنْ شَهِدَ بِالْحَقِّ وَهُمْ يَعْلَمُوْنَ",
+        "translate": "Wa lā yamlikul-lażīna yad‘ūna min dūnihisy-syafā‘ata illā man syahida bil-ḥaqqi wa hum ya‘lamūn(a).",
+        "meaning": "Sembahan-sembahan mereka selain Dia tidak bisa memberi syafaat (pertolongan di akhirat), kecuali orang yang bersaksi dengan yang hak (tauhid) dan mereka meyakininya."
+    },
+    {
+        "id": 87,
+        "ayat": 87,
+        "arabic": "وَلَىِٕنْ سَاَلْتَهُمْ مَّنْ خَلَقَهُمْ لَيَقُوْلُنَّ اللّٰهُ فَاَنّٰى يُؤْفَكُوْنَۙ",
+        "translate": "Wa la'in sa'altahum man khalaqahum layaqūlunnallāhu fa annā yu'fakūn(a).",
+        "meaning": "Jika engkau bertanya kepada mereka, siapakah yang menciptakan mereka, niscaya mereka menjawab, “Allah.” Maka, mengapa mereka bisa dipalingkan?"
+    },
+    {
+        "id": 88,
+        "ayat": 88,
+        "arabic": "وَقِيْلِهٖ يٰرَبِّ اِنَّ هٰٓؤُلَاۤءِ قَوْمٌ لَّا يُؤْمِنُوْنَۘ",
+        "translate": "Wa qīlihī yā rabbi inna hā'ulā'i qaumul lā yu'minūn(a).",
+        "meaning": "Demi (kebenaran) ucapannya (Nabi Muhammad), “Ya Tuhanku, sesungguhnya mereka itu adalah kaum yang tidak beriman.”"
+    },
+    {
+        "id": 89,
+        "ayat": 89,
+        "arabic": "فَاصْفَحْ عَنْهُمْ وَقُلْ سَلٰمٌۗ فَسَوْفَ يَعْلَمُوْنَ ࣖ",
+        "translate": "Faṣfaḥ ‘anhum wa qul salām(un), fa saufa ya‘lamūn(a).",
+        "meaning": "Maka, berpalinglah dari mereka dan katakanlah, “Salam (selamat tinggal).” Kelak mereka akan mengetahui (nasibnya yang buruk)."
+    }
+]

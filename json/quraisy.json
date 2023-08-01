@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "ayat": 1,
+        "arabic": "لِاِيْلٰفِ قُرَيْشٍۙ",
+        "translate": "Li'īlāfi quraisy(in).",
+        "meaning": "Disebabkan oleh kebiasaan orang-orang Quraisy,"
+    },
+    {
+        "id": 2,
+        "ayat": 2,
+        "arabic": "اٖلٰفِهِمْ رِحْلَةَ الشِّتَاۤءِ وَالصَّيْفِۚ",
+        "translate": "´lāfihim riḥlatasy-syitā'i waṣ-ṣaif(i).",
+        "meaning": "(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas (sehingga mendapatkan banyak keuntungan),"
+    },
+    {
+        "id": 3,
+        "ayat": 3,
+        "arabic": "فَلْيَعْبُدُوْا رَبَّ هٰذَا الْبَيْتِۙ",
+        "translate": "Falya‘budū rabba hāżal-bait(i).",
+        "meaning": "maka hendaklah mereka menyembah Tuhan (pemilik) rumah ini (Ka‘bah)"
+    },
+    {
+        "id": 4,
+        "ayat": 4,
+        "arabic": "الَّذِيْٓ اَطْعَمَهُمْ مِّنْ جُوْعٍ ەۙ وَّاٰمَنَهُمْ مِّنْ خَوْفٍ ࣖ",
+        "translate": "Allażī aṭ‘amahum min jū‘(in), wa āmanahum min khauf(in).",
+        "meaning": "yang telah memberi mereka makanan untuk menghilangkan lapar dan mengamankan mereka dari rasa takut."
+    }
+]

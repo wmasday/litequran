@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "ayat": 1,
+        "arabic": "اِذَا جَاۤءَ نَصْرُ اللّٰهِ وَالْفَتْحُۙ",
+        "translate": "Iżā jā'a naṣrullāhi wal-fatḥ(u).",
+        "meaning": "Apabila telah datang pertolongan Allah dan kemenangan"
+    },
+    {
+        "id": 2,
+        "ayat": 2,
+        "arabic": "وَرَاَيْتَ النَّاسَ يَدْخُلُوْنَ فِيْ دِيْنِ اللّٰهِ اَفْوَاجًاۙ",
+        "translate": "Wa ra'aitan-nāsa yadkhulūna fī dīnillāhi afwājā(n).",
+        "meaning": "dan engkau melihat manusia berbondong-bondong masuk agama Allah,"
+    },
+    {
+        "id": 3,
+        "ayat": 3,
+        "arabic": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُۗ اِنَّهٗ كَانَ تَوَّابًا ࣖ",
+        "translate": "Fasabbiḥ biḥamdi rabbika wastagfirh(u), innahū kāna tawwābā(n).",
+        "meaning": "bertasbihlah dengan memuji Tuhanmu dan mohonlah ampun kepada-Nya. Sesungguhnya Dia Maha Penerima tobat."
+    }
+]

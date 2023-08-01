@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "ayat": 1,
+        "arabic": "تَبَّتْ يَدَآ اَبِيْ لَهَبٍ وَّتَبَّۗ",
+        "translate": "Tabbat yadā abī lahabiw wa tabb(a).",
+        "meaning": "Binasalah kedua tangan Abu Lahab dan benar-benar binasa dia."
+    },
+    {
+        "id": 2,
+        "ayat": 2,
+        "arabic": "مَآ اَغْنٰى عَنْهُ مَالُهٗ وَمَا كَسَبَۗ",
+        "translate": "Mā agnā ‘anhu māluhū wa mā kasab(a).",
+        "meaning": "Tidaklah berguna baginya hartanya dan apa yang dia usahakan."
+    },
+    {
+        "id": 3,
+        "ayat": 3,
+        "arabic": "سَيَصْلٰى نَارًا ذَاتَ لَهَبٍۙ",
+        "translate": "Sayaṣlā nāran żāta lahab(in).",
+        "meaning": "Kelak dia akan memasuki api yang bergejolak (neraka),"
+    },
+    {
+        "id": 4,
+        "ayat": 4,
+        "arabic": "وَّامْرَاَتُهٗ ۗحَمَّالَةَ الْحَطَبِۚ",
+        "translate": "Wamra'atuh(ū), ḥammālatal-ḥaṭab(i).",
+        "meaning": "(begitu pula) istrinya, pembawa kayu bakar (penyebar fitnah)."
+    },
+    {
+        "id": 5,
+        "ayat": 5,
+        "arabic": "فِيْ جِيْدِهَا حَبْلٌ مِّنْ مَّسَدٍ ࣖ",
+        "translate": "Fī jīdihā ḥablum mim masad(in).",
+        "meaning": "Di lehernya ada tali dari sabut yang dipintal."
+    }
+]

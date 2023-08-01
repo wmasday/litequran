@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "ayat": 1,
+        "arabic": "قُلْ اَعُوْذُ بِرَبِّ الْفَلَقِۙ",
+        "translate": "Qul a‘ūżu birabbil-falaq(i).",
+        "meaning": "Katakanlah (Nabi Muhammad), “Aku berlindung kepada Tuhan yang (menjaga) fajar (subuh)"
+    },
+    {
+        "id": 2,
+        "ayat": 2,
+        "arabic": "مِنْ شَرِّ مَا خَلَقَۙ",
+        "translate": "Min syarri mā khalaq(a).",
+        "meaning": "dari kejahatan (makhluk yang) Dia ciptakan,"
+    },
+    {
+        "id": 3,
+        "ayat": 3,
+        "arabic": "وَمِنْ شَرِّ غَاسِقٍ اِذَا وَقَبَۙ",
+        "translate": "Wa min syarri gāsiqin iżā waqab(a).",
+        "meaning": "dari kejahatan malam apabila telah gelap gulita,"
+    },
+    {
+        "id": 4,
+        "ayat": 4,
+        "arabic": "وَمِنْ شَرِّ النَّفّٰثٰتِ فِى الْعُقَدِۙ",
+        "translate": "Wa min syarrin-naffāṡāti fil-‘uqad(i).",
+        "meaning": "dari kejahatan perempuan-perempuan (penyihir) yang meniup pada buhul-buhul (talinya),"
+    },
+    {
+        "id": 5,
+        "ayat": 5,
+        "arabic": "وَمِنْ شَرِّ حَاسِدٍ اِذَا حَسَدَ ࣖ",
+        "translate": "Wa min syarri ḥāsidin iżā ḥasad(a).",
+        "meaning": "dan dari kejahatan orang yang dengki apabila dia dengki.”"
+    }
+]

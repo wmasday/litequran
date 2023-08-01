@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "ayat": 1,
+        "arabic": "اَلْقَارِعَةُۙ",
+        "translate": "Al-qāri‘ah(tu).",
+        "meaning": "Al-Qāri‘ah (hari Kiamat yang menggetarkan)."
+    },
+    {
+        "id": 2,
+        "ayat": 2,
+        "arabic": "مَا الْقَارِعَةُ ۚ",
+        "translate": "Mal-qāri‘ah(tu).",
+        "meaning": "Apakah al-Qāri‘ah itu?"
+    },
+    {
+        "id": 3,
+        "ayat": 3,
+        "arabic": "وَمَآ اَدْرٰىكَ مَا الْقَارِعَةُ ۗ",
+        "translate": "Wa mā adrāka mal-qāri‘ah(tu).",
+        "meaning": "Tahukah kamu apakah al-Qāri‘ah itu?"
+    },
+    {
+        "id": 4,
+        "ayat": 4,
+        "arabic": "يَوْمَ يَكُوْنُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوْثِۙ",
+        "translate": "Yauma yakūnun-nāsu kal-farāsyil-mabṡūṡ(i).",
+        "meaning": "Pada hari itu manusia seperti laron yang beterbangan"
+    },
+    {
+        "id": 5,
+        "ayat": 5,
+        "arabic": "وَتَكُوْنُ الْجِبَالُ كَالْعِهْنِ الْمَنْفُوْشِۗ",
+        "translate": "Wa takūnul-jibālu kal-‘ihnil-manfūsy(i).",
+        "meaning": "dan gunung-gunung seperti bulu yang berhamburan."
+    },
+    {
+        "id": 6,
+        "ayat": 6,
+        "arabic": "فَاَمَّا مَنْ ثَقُلَتْ مَوَازِينُهٗۙ",
+        "translate": "Fa ammā man ṡaqulat mawāzīnuh(ū).",
+        "meaning": "Siapa yang berat timbangan (kebaikan)-nya,"
+    },
+    {
+        "id": 7,
+        "ayat": 7,
+        "arabic": "فَهُوَ فِيْ عِيْشَةٍ رَّاضِيَةٍۗ",
+        "translate": "Fa huwa fī ‘īsyatir rāḍiyah(tin).",
+        "meaning": "dia berada dalam kehidupan yang menyenangkan."
+    },
+    {
+        "id": 8,
+        "ayat": 8,
+        "arabic": "وَاَمَّا مَنْ خَفَّتْ مَوَازِيْنُهٗۙ",
+        "translate": "Wa ammā man khaffat mawāzīnuh(ū).",
+        "meaning": "Adapun orang yang ringan timbangan (kebaikan)-nya,"
+    },
+    {
+        "id": 9,
+        "ayat": 9,
+        "arabic": "فَاُمُّهٗ هَاوِيَةٌ ۗ",
+        "translate": "Fa ummuhū hāwiyah(tun).",
+        "meaning": "tempat kembalinya adalah (neraka) Hawiyah."
+    },
+    {
+        "id": 10,
+        "ayat": 10,
+        "arabic": "وَمَآ اَدْرٰىكَ مَا هِيَهْۗ",
+        "translate": "Wa mā adrāka mā hiyah.",
+        "meaning": "Tahukah kamu apakah (neraka Hawiyah) itu?"
+    },
+    {
+        "id": 11,
+        "ayat": 11,
+        "arabic": "نَارٌ حَامِيَةٌ ࣖ",
+        "translate": "Nārun ḥāmiyah(tun).",
+        "meaning": "(Ia adalah) api yang sangat panas."
+    }
+]

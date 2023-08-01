@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "ayat": 1,
+        "arabic": "قُلْ اَعُوْذُ بِرَبِّ النَّاسِۙ",
+        "translate": "Qul a‘ūżu birabbin-nās(i).",
+        "meaning": "Katakanlah (Nabi Muhammad), “Aku berlindung kepada Tuhan manusia,"
+    },
+    {
+        "id": 2,
+        "ayat": 2,
+        "arabic": "مَلِكِ النَّاسِۙ",
+        "translate": "Malikin-nās(i).",
+        "meaning": "raja manusia,"
+    },
+    {
+        "id": 3,
+        "ayat": 3,
+        "arabic": "اِلٰهِ النَّاسِۙ",
+        "translate": "Ilāhin-nās(i).",
+        "meaning": "sembahan manusia"
+    },
+    {
+        "id": 4,
+        "ayat": 4,
+        "arabic": "مِنْ شَرِّ الْوَسْوَاسِ ەۙ الْخَنَّاسِۖ",
+        "translate": "Min syarril-waswāsil-khannās(i).",
+        "meaning": "dari kejahatan (setan) pembisik yang bersembunyi"
+    },
+    {
+        "id": 5,
+        "ayat": 5,
+        "arabic": "الَّذِيْ يُوَسْوِسُ فِيْ صُدُوْرِ النَّاسِۙ",
+        "translate": "Allażī yuwaswisu fī ṣudūrin-nās(i).",
+        "meaning": "yang membisikkan (kejahatan) ke dalam dada manusia,"
+    },
+    {
+        "id": 6,
+        "ayat": 6,
+        "arabic": "مِنَ الْجِنَّةِ وَالنَّاسِ ࣖ",
+        "translate": "Minal jinnati wan-nās(i).",
+        "meaning": "dari (golongan) jin dan manusia.”"
+    }
+]

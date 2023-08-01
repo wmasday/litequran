@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "ayat": 1,
+        "arabic": "قُلْ هُوَ اللّٰهُ اَحَدٌۚ",
+        "translate": "Qul huwallāhu aḥad(un).",
+        "meaning": "Katakanlah (Nabi Muhammad), “Dialah Allah Yang Maha Esa."
+    },
+    {
+        "id": 2,
+        "ayat": 2,
+        "arabic": "اَللّٰهُ الصَّمَدُۚ",
+        "translate": "Allāhuṣ-ṣamad(u).",
+        "meaning": "Allah tempat meminta segala sesuatu."
+    },
+    {
+        "id": 3,
+        "ayat": 3,
+        "arabic": "لَمْ يَلِدْ وَلَمْ يُوْلَدْۙ",
+        "translate": "Lam yalid wa lam yūlad.",
+        "meaning": "Dia tidak beranak dan tidak pula diperanakkan"
+    },
+    {
+        "id": 4,
+        "ayat": 4,
+        "arabic": "وَلَمْ يَكُنْ لَّهٗ كُفُوًا اَحَدٌ ࣖ",
+        "translate": "Wa lam yakul lahū kufuwan aḥad(un).",
+        "meaning": "serta tidak ada sesuatu pun yang setara dengan-Nya.”"
+    }
+]

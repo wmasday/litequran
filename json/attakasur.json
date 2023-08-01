@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "ayat": 1,
+        "arabic": "اَلْهٰىكُمُ التَّكَاثُرُۙ",
+        "translate": "Alhākumut-takāṡur(u).",
+        "meaning": "Berbangga-bangga dalam memperbanyak (dunia) telah melalaikanmu"
+    },
+    {
+        "id": 2,
+        "ayat": 2,
+        "arabic": "حَتّٰى زُرْتُمُ الْمَقَابِرَۗ",
+        "translate": "Ḥattā zurtumul-maqābir(a).",
+        "meaning": "sampai kamu masuk ke dalam kubur."
+    },
+    {
+        "id": 3,
+        "ayat": 3,
+        "arabic": "كَلَّا سَوْفَ تَعْلَمُوْنَۙ",
+        "translate": "Kallā saufa ta‘lamūn(a).",
+        "meaning": "Sekali-kali tidak! Kelak kamu akan mengetahui (akibat perbuatanmu itu)."
+    },
+    {
+        "id": 4,
+        "ayat": 4,
+        "arabic": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُوْنَ",
+        "translate": "Ṡumma kallā saufa ta‘lamūn(a).",
+        "meaning": "Sekali-kali tidak (jangan melakukan itu)! Kelak kamu akan mengetahui (akibatnya)."
+    },
+    {
+        "id": 5,
+        "ayat": 5,
+        "arabic": "كَلَّا لَوْ تَعْلَمُوْنَ عِلْمَ الْيَقِيْنِۗ",
+        "translate": "Kallā lau ta‘lamūna ‘ilmal-yaqīn(i).",
+        "meaning": "Sekali-kali tidak (jangan melakukan itu)! Sekiranya kamu mengetahui dengan pasti, (niscaya kamu tidak akan melakukannya)."
+    },
+    {
+        "id": 6,
+        "ayat": 6,
+        "arabic": "لَتَرَوُنَّ الْجَحِيْمَۙ",
+        "translate": "Latarawunnal-jaḥīm(a).",
+        "meaning": "Pasti kamu benar-benar akan melihat (neraka) Jahim."
+    },
+    {
+        "id": 7,
+        "ayat": 7,
+        "arabic": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَقِيْنِۙ",
+        "translate": "Ṡumma latarawunnahā ‘ainal-yaqīn(i).",
+        "meaning": "Kemudian, kamu pasti benar-benar akan melihatnya dengan ainulyakin."
+    },
+    {
+        "id": 8,
+        "ayat": 8,
+        "arabic": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَىِٕذٍ عَنِ النَّعِيْمِ ࣖ",
+        "translate": "Ṡumma latus'alunna yauma'iżin ‘anin-na‘īm(i).",
+        "meaning": "Kemudian, kamu pasti benar-benar akan ditanya pada hari itu tentang kenikmatan (yang megah di dunia itu)."
+    }
+]

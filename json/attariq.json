@@ -1,0 +1,121 @@
+[
+    {
+        "id": 1,
+        "ayat": 1,
+        "arabic": "وَالسَّمَاۤءِ وَالطَّارِقِۙ",
+        "translate": "Was-samā'i waṭ-ṭāriq(i).",
+        "meaning": "Demi langit dan yang datang pada malam hari."
+    },
+    {
+        "id": 2,
+        "ayat": 2,
+        "arabic": "وَمَآ اَدْرٰىكَ مَا الطَّارِقُۙ",
+        "translate": "Wa mā adrāka maṭ-ṭāriq(u).",
+        "meaning": "Tahukah kamu apakah yang datang pada malam hari itu?"
+    },
+    {
+        "id": 3,
+        "ayat": 3,
+        "arabic": "النَّجْمُ الثَّاقِبُۙ",
+        "translate": "An-najmuṡ-ṡāqib(u).",
+        "meaning": "(Itulah) bintang yang bersinar tajam."
+    },
+    {
+        "id": 4,
+        "ayat": 4,
+        "arabic": "اِنْ كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌۗ",
+        "translate": "In kullu nafsil lammā ‘alaihā ḥāfiẓ(un).",
+        "meaning": "Setiap orang pasti ada penjaganya."
+    },
+    {
+        "id": 5,
+        "ayat": 5,
+        "arabic": "فَلْيَنْظُرِ الْاِنْسَانُ مِمَّ خُلِقَ",
+        "translate": "Falyanẓuril-insānu mimma khuliq(a).",
+        "meaning": "Hendaklah manusia memperhatikan dari apa dia diciptakan."
+    },
+    {
+        "id": 6,
+        "ayat": 6,
+        "arabic": "خُلِقَ مِنْ مَّاۤءٍ دَافِقٍۙ",
+        "translate": "Khuliqa mim mā'in dāfiq(in).",
+        "meaning": "Dia diciptakan dari air (mani) yang memancar,"
+    },
+    {
+        "id": 7,
+        "ayat": 7,
+        "arabic": "يَّخْرُجُ مِنْۢ بَيْنِ الصُّلْبِ وَالتَّرَاۤىِٕبِۗ",
+        "translate": "Yakhruju mim bainiṣ-ṣulbi wat-tarā'ib(i).",
+        "meaning": "yang keluar dari antara tulang sulbi (punggung) dan tulang dada."
+    },
+    {
+        "id": 8,
+        "ayat": 8,
+        "arabic": "اِنَّهٗ عَلٰى رَجْعِهٖ لَقَادِرٌۗ",
+        "translate": "Innahū ‘alā raj‘ihī laqādir(un).",
+        "meaning": "Sesungguhnya Dia (Allah) benar-benar kuasa untuk mengembalikannya (hidup setelah mati)"
+    },
+    {
+        "id": 9,
+        "ayat": 9,
+        "arabic": "يَوْمَ تُبْلَى السَّرَاۤىِٕرُۙ",
+        "translate": "Yauma tublas-sarā'ir(u).",
+        "meaning": "pada hari ditampakkan segala rahasia."
+    },
+    {
+        "id": 10,
+        "ayat": 10,
+        "arabic": "فَمَا لَهٗ مِنْ قُوَّةٍ وَّلَا نَاصِرٍۗ",
+        "translate": "Famā lahū min quwwatiw wa lā nāṣir(in).",
+        "meaning": "Maka, baginya (manusia) tidak ada lagi kekuatan dan tidak (pula) ada penolong."
+    },
+    {
+        "id": 11,
+        "ayat": 11,
+        "arabic": "وَالسَّمَاۤءِ ذَاتِ الرَّجْعِۙ",
+        "translate": "Was-samā'i żātir-raj‘(i).",
+        "meaning": "Demi langit yang mengandung hujan"
+    },
+    {
+        "id": 12,
+        "ayat": 12,
+        "arabic": "وَالْاَرْضِ ذَاتِ الصَّدْعِۙ",
+        "translate": "Wal-arḍi żātiṣ-ṣad‘(i).",
+        "meaning": "dan bumi yang memiliki rekahan (tempat tumbuhnya pepohonan),"
+    },
+    {
+        "id": 13,
+        "ayat": 13,
+        "arabic": "اِنَّهٗ لَقَوْلٌ فَصْلٌۙ",
+        "translate": "Innahū laqaulun faṣl(un).",
+        "meaning": "sesungguhnya (Al-Qur’an) itu benar-benar firman pemisah (antara yang hak dan yang batil)"
+    },
+    {
+        "id": 14,
+        "ayat": 14,
+        "arabic": "وَّمَا هُوَ بِالْهَزْلِۗ",
+        "translate": "Wa mā huwa bil-hazl(i).",
+        "meaning": "dan ia (Al-Qur’an) sama sekali bukan perkataan senda gurau."
+    },
+    {
+        "id": 15,
+        "ayat": 15,
+        "arabic": "اِنَّهُمْ يَكِيْدُوْنَ كَيْدًاۙ",
+        "translate": "Innahum yakīdūna kaidā(n).",
+        "meaning": "Sesungguhnya mereka (orang kafir) melakukan tipu daya."
+    },
+    {
+        "id": 16,
+        "ayat": 16,
+        "arabic": "وَّاَكِيْدُ كَيْدًاۖ",
+        "translate": "Wa akīdu kaidā(n).",
+        "meaning": "Aku pun membalasnya dengan tipu daya."
+    },
+    {
+        "id": 17,
+        "ayat": 17,
+        "arabic": "فَمَهِّلِ الْكٰفِرِيْنَ اَمْهِلْهُمْ رُوَيْدًا ࣖ",
+        "translate": "Fa mahhilil-kāfirīna amhilhum ruwaidā(n).",
+        "meaning": "Maka, tangguhkanlah orang-orang kafir itu. Biarkanlah mereka sejenak (bersenang-senang)."
+    }
+]

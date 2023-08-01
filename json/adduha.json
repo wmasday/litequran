@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "ayat": 1,
+        "arabic": "وَالضُّحٰىۙ",
+        "translate": "Waḍ-ḍuḥā.",
+        "meaning": "Demi waktu duha"
+    },
+    {
+        "id": 2,
+        "ayat": 2,
+        "arabic": "وَالَّيْلِ اِذَا سَجٰىۙ",
+        "translate": "Wal-laili iżā sajā.",
+        "meaning": "dan demi waktu malam apabila telah sunyi,"
+    },
+    {
+        "id": 3,
+        "ayat": 3,
+        "arabic": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلٰىۗ",
+        "translate": "Mā wadda‘aka rabbuka wa mā qalā.",
+        "meaning": "Tuhanmu (Nabi Muhammad) tidak meninggalkan dan tidak (pula) membencimu."
+    },
+    {
+        "id": 4,
+        "ayat": 4,
+        "arabic": "وَلَلْاٰخِرَةُ خَيْرٌ لَّكَ مِنَ الْاُوْلٰىۗ",
+        "translate": "Wa lal-ākhiratu khairul laka minal-ūlā.",
+        "meaning": "Sungguh, akhirat itu lebih baik bagimu daripada yang permulaan (dunia)."
+    },
+    {
+        "id": 5,
+        "ayat": 5,
+        "arabic": "وَلَسَوْفَ يُعْطِيْكَ رَبُّكَ فَتَرْضٰىۗ",
+        "translate": "Wa lasaufa yu‘ṭīka rabbuka fa tarḍā.",
+        "meaning": "Sungguh, kelak (di akhirat nanti) Tuhanmu pasti memberikan karunia-Nya kepadamu sehingga engkau rida."
+    },
+    {
+        "id": 6,
+        "ayat": 6,
+        "arabic": "اَلَمْ يَجِدْكَ يَتِيْمًا فَاٰوٰىۖ",
+        "translate": "Alam yajidka yatīman fa āwā.",
+        "meaning": "Bukankah Dia mendapatimu sebagai seorang yatim, lalu Dia melindungi(-mu);"
+    },
+    {
+        "id": 7,
+        "ayat": 7,
+        "arabic": "وَوَجَدَكَ ضَاۤلًّا فَهَدٰىۖ",
+        "translate": "Wa wajadaka ḍāllan fa hadā.",
+        "meaning": "mendapatimu sebagai seorang yang tidak tahu (tentang syariat), lalu Dia memberimu petunjuk (wahyu);"
+    },
+    {
+        "id": 8,
+        "ayat": 8,
+        "arabic": "وَوَجَدَكَ عَاۤىِٕلًا فَاَغْنٰىۗ",
+        "translate": "Wa wajadaka ‘ā'ilan fa agnā.",
+        "meaning": "dan mendapatimu sebagai seorang yang fakir, lalu Dia memberimu kecukupan?"
+    },
+    {
+        "id": 9,
+        "ayat": 9,
+        "arabic": "فَاَمَّا الْيَتِيْمَ فَلَا تَقْهَرْۗ",
+        "translate": "Fa ammal-yatīma falā taqhar.",
+        "meaning": "Terhadap anak yatim, janganlah engkau berlaku sewenang-wenang."
+    },
+    {
+        "id": 10,
+        "ayat": 10,
+        "arabic": "وَاَمَّا السَّاۤىِٕلَ فَلَا تَنْهَرْ",
+        "translate": "Wa ammas-sā'ila falā tanhar.",
+        "meaning": "Terhadap orang yang meminta-minta, janganlah engkau menghardik."
+    },
+    {
+        "id": 11,
+        "ayat": 11,
+        "arabic": "وَاَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ ࣖ",
+        "translate": "Wa ammā bini‘mati rabbika fa ḥaddiṡ.",
+        "meaning": "Terhadap nikmat Tuhanmu, nyatakanlah (dengan bersyukur)."
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "ayat": 1,
+        "arabic": "اَرَءَيْتَ الَّذِيْ يُكَذِّبُ بِالدِّيْنِۗ",
+        "translate": "Ara'aital-lażī yukażżibu bid-dīn(i).",
+        "meaning": "Tahukah kamu (orang) yang mendustakan agama?"
+    },
+    {
+        "id": 2,
+        "ayat": 2,
+        "arabic": "فَذٰلِكَ الَّذِيْ يَدُعُّ الْيَتِيْمَۙ",
+        "translate": "Fa żālikal-lażī yadu‘‘ul-yatīm(a).",
+        "meaning": "Itulah orang yang menghardik anak yatim"
+    },
+    {
+        "id": 3,
+        "ayat": 3,
+        "arabic": "وَلَا يَحُضُّ عَلٰى طَعَامِ الْمِسْكِيْنِۗ",
+        "translate": "Wa lā yaḥuḍḍu ‘alā ṭa‘āmil-miskīn(i).",
+        "meaning": "dan tidak menganjurkan untuk memberi makan orang miskin."
+    },
+    {
+        "id": 4,
+        "ayat": 4,
+        "arabic": "فَوَيْلٌ لِّلْمُصَلِّيْنَۙ",
+        "translate": "Fawailul lil-muṣallīn(a).",
+        "meaning": "Celakalah orang-orang yang melaksanakan salat,"
+    },
+    {
+        "id": 5,
+        "ayat": 5,
+        "arabic": "الَّذِيْنَ هُمْ عَنْ صَلَاتِهِمْ سَاهُوْنَۙ",
+        "translate": "Allażīna hum ‘an ṣalātihim sāhūn(a).",
+        "meaning": "(yaitu) yang lalai terhadap salatnya,"
+    },
+    {
+        "id": 6,
+        "ayat": 6,
+        "arabic": "الَّذِيْنَ هُمْ يُرَاۤءُوْنَۙ",
+        "translate": "Allażīna hum yurā'ūn(a).",
+        "meaning": "yang berbuat riya,"
+    },
+    {
+        "id": 7,
+        "ayat": 7,
+        "arabic": "وَيَمْنَعُوْنَ الْمَاعُوْنَ ࣖ",
+        "translate": "Wa yamna‘ūnal-mā‘ūn(a).",
+        "meaning": "dan enggan (memberi) bantuan."
+    }
+]

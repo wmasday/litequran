@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "ayat": 1,
+        "arabic": "اَلَمْ نَشْرَحْ لَكَ صَدْرَكَۙ",
+        "translate": "Alam nasyraḥ laka ṣadrak(a).",
+        "meaning": "Bukankah Kami telah melapangkan dadamu (Nabi Muhammad),"
+    },
+    {
+        "id": 2,
+        "ayat": 2,
+        "arabic": "وَوَضَعْنَا عَنْكَ وِزْرَكَۙ",
+        "translate": "Wa waḍa‘nā ‘anka wizrak(a).",
+        "meaning": "meringankan beban (tugas-tugas kenabian) darimu"
+    },
+    {
+        "id": 3,
+        "ayat": 3,
+        "arabic": "الَّذِيْٓ اَنْقَضَ ظَهْرَكَۙ",
+        "translate": "Allażī anqaḍa ẓahrak(a).",
+        "meaning": "yang memberatkan punggungmu,"
+    },
+    {
+        "id": 4,
+        "ayat": 4,
+        "arabic": "وَرَفَعْنَا لَكَ ذِكْرَكَۗ",
+        "translate": "Wa rafa‘nā laka żikrak(a).",
+        "meaning": "dan meninggikan (derajat)-mu (dengan selalu) menyebut-nyebut (nama)-mu?"
+    },
+    {
+        "id": 5,
+        "ayat": 5,
+        "arabic": "فَاِنَّ مَعَ الْعُسْرِ يُسْرًاۙ",
+        "translate": "Fa'inna ma‘al-‘usri yusrā(n).",
+        "meaning": "Maka, sesungguhnya beserta kesulitan ada kemudahan."
+    },
+    {
+        "id": 6,
+        "ayat": 6,
+        "arabic": "اِنَّ مَعَ الْعُسْرِ يُسْرًاۗ",
+        "translate": "Inna ma‘al-‘usri yusrā(n).",
+        "meaning": "Sesungguhnya beserta kesulitan ada kemudahan."
+    },
+    {
+        "id": 7,
+        "ayat": 7,
+        "arabic": "فَاِذَا فَرَغْتَ فَانْصَبْۙ",
+        "translate": "Fa iżā faragta fanṣab.",
+        "meaning": "Apabila engkau telah selesai (dengan suatu kebajikan), teruslah bekerja keras (untuk kebajikan yang lain)"
+    },
+    {
+        "id": 8,
+        "ayat": 8,
+        "arabic": "وَاِلٰى رَبِّكَ فَارْغَبْ ࣖ",
+        "translate": "Wa ilā rabbika fargab.",
+        "meaning": "dan hanya kepada Tuhanmu berharaplah!"
+    }
+]

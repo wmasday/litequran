@@ -1,0 +1,184 @@
+[
+    {
+        "id": 1,
+        "ayat": 1,
+        "arabic": "هَلْ اَتٰىكَ حَدِيْثُ الْغَاشِيَةِۗ",
+        "translate": "Hal atāka ḥadīṡul-gāsyiyah(ti).",
+        "meaning": "Sudahkah sampai kepadamu berita tentang al-Gāsyiyah (hari Kiamat yang menutupi kesadaran manusia dengan kedahsyatannya)?"
+    },
+    {
+        "id": 2,
+        "ayat": 2,
+        "arabic": "وُجُوْهٌ يَّوْمَىِٕذٍ خَاشِعَةٌ ۙ",
+        "translate": "Wujūhuy yauma'iżin khāsyi‘ah(tun).",
+        "meaning": "Pada hari itu banyak wajah yang tertunduk hina"
+    },
+    {
+        "id": 3,
+        "ayat": 3,
+        "arabic": "عَامِلَةٌ نَّاصِبَةٌ ۙ",
+        "translate": "‘Amilatun nāṣibah(tun).",
+        "meaning": "(karena) berusaha keras (menghindari azab neraka) lagi kepayahan (karena dibelenggu)."
+    },
+    {
+        "id": 4,
+        "ayat": 4,
+        "arabic": "تَصْلٰى نَارًا حَامِيَةً ۙ",
+        "translate": "Taṣlā nāran ḥāmiyah(tan).",
+        "meaning": "Mereka memasuki api (neraka) yang sangat panas."
+    },
+    {
+        "id": 5,
+        "ayat": 5,
+        "arabic": "تُسْقٰى مِنْ عَيْنٍ اٰنِيَةٍ ۗ",
+        "translate": "Tusqā min ‘ainin āniyah(tin).",
+        "meaning": "(Mereka) diberi minum dari sumber mata air yang sangat panas."
+    },
+    {
+        "id": 6,
+        "ayat": 6,
+        "arabic": "لَيْسَ لَهُمْ طَعَامٌ اِلَّا مِنْ ضَرِيْعٍۙ",
+        "translate": "Laisa lahum ṭa‘āmun illā min ḍarī‘(in).",
+        "meaning": "Tidak ada makanan bagi mereka selain dari pohon yang berduri,"
+    },
+    {
+        "id": 7,
+        "ayat": 7,
+        "arabic": "لَّا يُسْمِنُ وَلَا يُغْنِيْ مِنْ جُوْعٍۗ",
+        "translate": "Lā yusminu wa lā yugnī min jū‘(in).",
+        "meaning": "yang tidak menggemukkan dan tidak pula menghilangkan lapar."
+    },
+    {
+        "id": 8,
+        "ayat": 8,
+        "arabic": "وُجُوْهٌ يَّوْمَىِٕذٍ نَّاعِمَةٌ ۙ",
+        "translate": "Wujūhuy yauma'iżin nā‘imah(tun).",
+        "meaning": "Pada hari itu banyak (pula) wajah yang berseri-seri,"
+    },
+    {
+        "id": 9,
+        "ayat": 9,
+        "arabic": "لِّسَعْيِهَا رَاضِيَةٌ ۙ",
+        "translate": "Lisa‘yihā rāḍiyah(tun).",
+        "meaning": "merasa puas karena usahanya."
+    },
+    {
+        "id": 10,
+        "ayat": 10,
+        "arabic": "فِيْ جَنَّةٍ عَالِيَةٍۙ",
+        "translate": "Fī jannatin ‘āliyah(tin).",
+        "meaning": "(Mereka) dalam surga yang tinggi."
+    },
+    {
+        "id": 11,
+        "ayat": 11,
+        "arabic": "لَّا تَسْمَعُ فِيْهَا لَاغِيَةً ۗ",
+        "translate": "Lā tasama‘u fīhā lāgiyah(tan).",
+        "meaning": "Di sana kamu tidak mendengar (perkataan) yang tidak berguna."
+    },
+    {
+        "id": 12,
+        "ayat": 12,
+        "arabic": "فِيْهَا عَيْنٌ جَارِيَةٌ ۘ",
+        "translate": "Fīhā ‘ainun jāriyah(tun).",
+        "meaning": "Di sana ada mata air yang mengalir."
+    },
+    {
+        "id": 13,
+        "ayat": 13,
+        "arabic": "فِيْهَا سُرُرٌ مَّرْفُوْعَةٌ ۙ",
+        "translate": "Fīhā sururum marfū‘ah(tun).",
+        "meaning": "Di sana ada (pula) dipan-dipan yang ditinggikan,"
+    },
+    {
+        "id": 14,
+        "ayat": 14,
+        "arabic": "وَّاَكْوَابٌ مَّوْضُوْعَةٌ ۙ",
+        "translate": "Wa akwābum mauḍū‘ah(tun).",
+        "meaning": "gelas-gelas yang tersedia (di dekatnya),"
+    },
+    {
+        "id": 15,
+        "ayat": 15,
+        "arabic": "وَّنَمَارِقُ مَصْفُوْفَةٌ ۙ",
+        "translate": "Wa namāriqu maṣfūfah(tun).",
+        "meaning": "bantal-bantal sandaran yang tersusun,"
+    },
+    {
+        "id": 16,
+        "ayat": 16,
+        "arabic": "وَّزَرَابِيُّ مَبْثُوْثَةٌ ۗ",
+        "translate": "Wa zarābiyyu mabṡūṡah(tun).",
+        "meaning": "dan permadani-permadani yang terhampar."
+    },
+    {
+        "id": 17,
+        "ayat": 17,
+        "arabic": "اَفَلَا يَنْظُرُوْنَ اِلَى الْاِبِلِ كَيْفَ خُلِقَتْۗ",
+        "translate": "Afalā yanẓurūna ilal-ibili kaifa khuliqat.",
+        "meaning": "Tidakkah mereka memperhatikan unta, bagaimana ia diciptakan?"
+    },
+    {
+        "id": 18,
+        "ayat": 18,
+        "arabic": "وَاِلَى السَّمَاۤءِ كَيْفَ رُفِعَتْۗ",
+        "translate": "Wa ilas-samā'i kaifa rufi‘at.",
+        "meaning": "Bagaimana langit ditinggikan?"
+    },
+    {
+        "id": 19,
+        "ayat": 19,
+        "arabic": "وَاِلَى الْجِبَالِ كَيْفَ نُصِبَتْۗ",
+        "translate": "Wa ilal-jibāli kaifa nuṣibat.",
+        "meaning": "Bagaimana gunung-gunung ditegakkan?"
+    },
+    {
+        "id": 20,
+        "ayat": 20,
+        "arabic": "وَاِلَى الْاَرْضِ كَيْفَ سُطِحَتْۗ",
+        "translate": "Wa ilal-arḍi kaifa suṭiḥat.",
+        "meaning": "Bagaimana pula bumi dihamparkan?"
+    },
+    {
+        "id": 21,
+        "ayat": 21,
+        "arabic": "فَذَكِّرْۗ اِنَّمَآ اَنْتَ مُذَكِّرٌۙ",
+        "translate": "Fa żakkir, innamā anta mużakkir(un).",
+        "meaning": "Maka, berilah peringatan karena sesungguhnya engkau (Nabi Muhammad) hanyalah pemberi peringatan."
+    },
+    {
+        "id": 22,
+        "ayat": 22,
+        "arabic": "لَّسْتَ عَلَيْهِمْ بِمُصَيْطِرٍۙ",
+        "translate": "Lasta ‘alaihim bimusaiṭir(in).",
+        "meaning": "Engkau bukanlah orang yang berkuasa atas mereka."
+    },
+    {
+        "id": 23,
+        "ayat": 23,
+        "arabic": "اِلَّا مَنْ تَوَلّٰى وَكَفَرَۙ",
+        "translate": "Illā man tawallā wa kafar(a).",
+        "meaning": "Akan tetapi, orang yang berpaling dan kufur,"
+    },
+    {
+        "id": 24,
+        "ayat": 24,
+        "arabic": "فَيُعَذِّبُهُ اللّٰهُ الْعَذَابَ الْاَكْبَرَۗ",
+        "translate": "Fa yu‘ażżibuhullāhul-‘ażābal-akbar(a).",
+        "meaning": "Allah akan mengazabnya dengan azab yang paling besar."
+    },
+    {
+        "id": 25,
+        "ayat": 25,
+        "arabic": "اِنَّ اِلَيْنَآ اِيَابَهُمْ",
+        "translate": "Inna ilainā iyābahum.",
+        "meaning": "Sesungguhnya kepada Kamilah mereka kembali."
+    },
+    {
+        "id": 26,
+        "ayat": 26,
+        "arabic": "ثُمَّ اِنَّ عَلَيْنَا حِسَابَهُمْ ࣖ",
+        "translate": "Ṡumma inna ‘alainā ḥisābahum.",
+        "meaning": "Kemudian, sesungguhnya Kamilah yang berhak melakukan hisab (perhitungan) atas mereka."
+    }
+]

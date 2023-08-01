@@ -1,0 +1,572 @@
+[
+    {
+        "id": 1,
+        "surat": "Al-fatihah",
+        "json": "alfatihah.json"
+    },
+    {
+        "id": 2,
+        "surat": "Al-baqarah",
+        "json": "albaqarah.json"
+    },
+    {
+        "id": 3,
+        "surat": "Ali-imran",
+        "json": "aliimran.json"
+    },
+    {
+        "id": 4,
+        "surat": "An-nisa",
+        "json": "annisa.json"
+    },
+    {
+        "id": 5,
+        "surat": "Al-maidah",
+        "json": "almaidah.json"
+    },
+    {
+        "id": 6,
+        "surat": "Al-anam",
+        "json": "alanam.json"
+    },
+    {
+        "id": 7,
+        "surat": "Al-araf",
+        "json": "alaraf.json"
+    },
+    {
+        "id": 8,
+        "surat": "Al-anfal",
+        "json": "alanfal.json"
+    },
+    {
+        "id": 9,
+        "surat": "At-taubah",
+        "json": "attaubah.json"
+    },
+    {
+        "id": 10,
+        "surat": "Yunus",
+        "json": "yunus.json"
+    },
+    {
+        "id": 11,
+        "surat": "Hud",
+        "json": "hud.json"
+    },
+    {
+        "id": 12,
+        "surat": "Yusuf",
+        "json": "yusuf.json"
+    },
+    {
+        "id": 13,
+        "surat": "Ar-rad",
+        "json": "arrad.json"
+    },
+    {
+        "id": 14,
+        "surat": "Ibrahim",
+        "json": "ibrahim.json"
+    },
+    {
+        "id": 15,
+        "surat": "Al-hijr",
+        "json": "alhijr.json"
+    },
+    {
+        "id": 16,
+        "surat": "An-nahl",
+        "json": "annahl.json"
+    },
+    {
+        "id": 17,
+        "surat": "Al-isra",
+        "json": "alisra.json"
+    },
+    {
+        "id": 18,
+        "surat": "Al-kahfi",
+        "json": "alkahfi.json"
+    },
+    {
+        "id": 19,
+        "surat": "Maryam",
+        "json": "maryam.json"
+    },
+    {
+        "id": 20,
+        "surat": "Taha",
+        "json": "taha.json"
+    },
+    {
+        "id": 21,
+        "surat": "Al-anbiya",
+        "json": "alanbiya.json"
+    },
+    {
+        "id": 22,
+        "surat": "Al-hajj",
+        "json": "alhajj.json"
+    },
+    {
+        "id": 23,
+        "surat": "Al-muminun",
+        "json": "almuminun.json"
+    },
+    {
+        "id": 24,
+        "surat": "An-nur",
+        "json": "annur.json"
+    },
+    {
+        "id": 25,
+        "surat": "Al-furqan",
+        "json": "alfurqan.json"
+    },
+    {
+        "id": 26,
+        "surat": "Asy-syuara",
+        "json": "asysyuara.json"
+    },
+    {
+        "id": 27,
+        "surat": "An-naml",
+        "json": "annaml.json"
+    },
+    {
+        "id": 28,
+        "surat": "Al-qasas",
+        "json": "alqasas.json"
+    },
+    {
+        "id": 29,
+        "surat": "Al-ankabut",
+        "json": "alankabut.json"
+    },
+    {
+        "id": 30,
+        "surat": "Ar-rum",
+        "json": "arrum.json"
+    },
+    {
+        "id": 31,
+        "surat": "Luqman",
+        "json": "luqman.json"
+    },
+    {
+        "id": 32,
+        "surat": "As-sajdah",
+        "json": "assajdah.json"
+    },
+    {
+        "id": 33,
+        "surat": "Al-ahzab",
+        "json": "alahzab.json"
+    },
+    {
+        "id": 34,
+        "surat": "Saba",
+        "json": "saba.json"
+    },
+    {
+        "id": 35,
+        "surat": "Fatir",
+        "json": "fatir.json"
+    },
+    {
+        "id": 36,
+        "surat": "Yasin",
+        "json": "yasin.json"
+    },
+    {
+        "id": 37,
+        "surat": "As-saffat",
+        "json": "assaffat.json"
+    },
+    {
+        "id": 38,
+        "surat": "Sad",
+        "json": "sad.json"
+    },
+    {
+        "id": 39,
+        "surat": "Az-zumar",
+        "json": "azzumar.json"
+    },
+    {
+        "id": 40,
+        "surat": "Gafir",
+        "json": "gafir.json"
+    },
+    {
+        "id": 41,
+        "surat": "Fussilat",
+        "json": "fussilat.json"
+    },
+    {
+        "id": 42,
+        "surat": "Asy-syura",
+        "json": "asysyura.json"
+    },
+    {
+        "id": 43,
+        "surat": "Az-zukhruf",
+        "json": "azzukhruf.json"
+    },
+    {
+        "id": 44,
+        "surat": "Ad-dukhan",
+        "json": "addukhan.json"
+    },
+    {
+        "id": 45,
+        "surat": "Al-jasiyah",
+        "json": "aljasiyah.json"
+    },
+    {
+        "id": 46,
+        "surat": "Al-ahqaf",
+        "json": "alahqaf.json"
+    },
+    {
+        "id": 47,
+        "surat": "Muhammad",
+        "json": "muhammad.json"
+    },
+    {
+        "id": 48,
+        "surat": "Al-fath",
+        "json": "alfath.json"
+    },
+    {
+        "id": 49,
+        "surat": "Al-hujurat",
+        "json": "alhujurat.json"
+    },
+    {
+        "id": 50,
+        "surat": "Qaf",
+        "json": "qaf.json"
+    },
+    {
+        "id": 51,
+        "surat": "Az-zariyat",
+        "json": "azzariyat.json"
+    },
+    {
+        "id": 52,
+        "surat": "At-tur",
+        "json": "attur.json"
+    },
+    {
+        "id": 53,
+        "surat": "An-najm",
+        "json": "annajm.json"
+    },
+    {
+        "id": 54,
+        "surat": "Al-qamar",
+        "json": "alqamar.json"
+    },
+    {
+        "id": 55,
+        "surat": "Ar-rahman",
+        "json": "arrahman.json"
+    },
+    {
+        "id": 56,
+        "surat": "Al-waqiah",
+        "json": "alwaqiah.json"
+    },
+    {
+        "id": 57,
+        "surat": "Al-hadid",
+        "json": "alhadid.json"
+    },
+    {
+        "id": 58,
+        "surat": "Al-mujadilah",
+        "json": "almujadilah.json"
+    },
+    {
+        "id": 59,
+        "surat": "Al-hasyr",
+        "json": "alhasyr.json"
+    },
+    {
+        "id": 60,
+        "surat": "Al-mumtahanah",
+        "json": "almumtahanah.json"
+    },
+    {
+        "id": 61,
+        "surat": "As-saff",
+        "json": "assaff.json"
+    },
+    {
+        "id": 62,
+        "surat": "Al-jumuah",
+        "json": "aljumuah.json"
+    },
+    {
+        "id": 63,
+        "surat": "Al-munafiqun",
+        "json": "almunafiqun.json"
+    },
+    {
+        "id": 64,
+        "surat": "At-tagabun",
+        "json": "attagabun.json"
+    },
+    {
+        "id": 65,
+        "surat": "At-talaq",
+        "json": "attalaq.json"
+    },
+    {
+        "id": 66,
+        "surat": "At-tahrim",
+        "json": "attahrim.json"
+    },
+    {
+        "id": 67,
+        "surat": "Al-mulk",
+        "json": "almulk.json"
+    },
+    {
+        "id": 68,
+        "surat": "Al-qalam",
+        "json": "alqalam.json"
+    },
+    {
+        "id": 69,
+        "surat": "Al-haqqah",
+        "json": "alhaqqah.json"
+    },
+    {
+        "id": 70,
+        "surat": "Al-maarij",
+        "json": "almaarij.json"
+    },
+    {
+        "id": 71,
+        "surat": "Nuh",
+        "json": "nuh.json"
+    },
+    {
+        "id": 72,
+        "surat": "Al-jinn",
+        "json": "aljinn.json"
+    },
+    {
+        "id": 73,
+        "surat": "Al-muzzammil",
+        "json": "almuzzammil.json"
+    },
+    {
+        "id": 74,
+        "surat": "Al-muddassir",
+        "json": "almuddassir.json"
+    },
+    {
+        "id": 75,
+        "surat": "Al-qiyamah",
+        "json": "alqiyamah.json"
+    },
+    {
+        "id": 76,
+        "surat": "Al-insan",
+        "json": "alinsan.json"
+    },
+    {
+        "id": 77,
+        "surat": "Al-mursalat",
+        "json": "almursalat.json"
+    },
+    {
+        "id": 78,
+        "surat": "An-naba",
+        "json": "annaba.json"
+    },
+    {
+        "id": 79,
+        "surat": "An-naziat",
+        "json": "annaziat.json"
+    },
+    {
+        "id": 80,
+        "surat": "Abasa",
+        "json": "abasa.json"
+    },
+    {
+        "id": 81,
+        "surat": "At-takwir",
+        "json": "attakwir.json"
+    },
+    {
+        "id": 82,
+        "surat": "Al-infitar",
+        "json": "alinfitar.json"
+    },
+    {
+        "id": 83,
+        "surat": "Al-mutaffifin",
+        "json": "almutaffifin.json"
+    },
+    {
+        "id": 84,
+        "surat": "Al-insyiqaq",
+        "json": "alinsyiqaq.json"
+    },
+    {
+        "id": 85,
+        "surat": "Al-buruj",
+        "json": "alburuj.json"
+    },
+    {
+        "id": 86,
+        "surat": "At-tariq",
+        "json": "attariq.json"
+    },
+    {
+        "id": 87,
+        "surat": "Al-ala",
+        "json": "alala.json"
+    },
+    {
+        "id": 88,
+        "surat": "Al-gasyiyah",
+        "json": "algasyiyah.json"
+    },
+    {
+        "id": 89,
+        "surat": "Al-fajr",
+        "json": "alfajr.json"
+    },
+    {
+        "id": 90,
+        "surat": "Al-balad",
+        "json": "albalad.json"
+    },
+    {
+        "id": 91,
+        "surat": "Asy-syams",
+        "json": "asysyams.json"
+    },
+    {
+        "id": 92,
+        "surat": "Al-lail",
+        "json": "allail.json"
+    },
+    {
+        "id": 93,
+        "surat": "Ad-duha",
+        "json": "adduha.json"
+    },
+    {
+        "id": 94,
+        "surat": "Asy-syarh",
+        "json": "asysyarh.json"
+    },
+    {
+        "id": 95,
+        "surat": "At-tin",
+        "json": "attin.json"
+    },
+    {
+        "id": 96,
+        "surat": "Al-alaq",
+        "json": "alalaq.json"
+    },
+    {
+        "id": 97,
+        "surat": "Al-qadr",
+        "json": "alqadr.json"
+    },
+    {
+        "id": 98,
+        "surat": "Al-bayyinah",
+        "json": "albayyinah.json"
+    },
+    {
+        "id": 99,
+        "surat": "Al-zalzalah",
+        "json": "alzalzalah.json"
+    },
+    {
+        "id": 100,
+        "surat": "Al-adiyat",
+        "json": "aladiyat.json"
+    },
+    {
+        "id": 101,
+        "surat": "Al-qariah",
+        "json": "alqariah.json"
+    },
+    {
+        "id": 102,
+        "surat": "At-takasur",
+        "json": "attakasur.json"
+    },
+    {
+        "id": 103,
+        "surat": "Al-asr",
+        "json": "alasr.json"
+    },
+    {
+        "id": 104,
+        "surat": "Al-humazah",
+        "json": "alhumazah.json"
+    },
+    {
+        "id": 105,
+        "surat": "Al-fil",
+        "json": "alfil.json"
+    },
+    {
+        "id": 106,
+        "surat": "Quraisy",
+        "json": "quraisy.json"
+    },
+    {
+        "id": 107,
+        "surat": "Al-maun",
+        "json": "almaun.json"
+    },
+    {
+        "id": 108,
+        "surat": "Al-kausar",
+        "json": "alkausar.json"
+    },
+    {
+        "id": 109,
+        "surat": "Al-kafirun",
+        "json": "alkafirun.json"
+    },
+    {
+        "id": 110,
+        "surat": "An-nasr",
+        "json": "annasr.json"
+    },
+    {
+        "id": 111,
+        "surat": "Al-lahab",
+        "json": "allahab.json"
+    },
+    {
+        "id": 112,
+        "surat": "Al-ikhlas",
+        "json": "alikhlas.json"
+    },
+    {
+        "id": 113,
+        "surat": "Al-falaq",
+        "json": "alfalaq.json"
+    },
+    {
+        "id": 114,
+        "surat": "An-nas",
+        "json": "annas.json"
+    }
+]

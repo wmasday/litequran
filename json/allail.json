@@ -1,0 +1,149 @@
+[
+    {
+        "id": 1,
+        "ayat": 1,
+        "arabic": "وَالَّيْلِ اِذَا يَغْشٰىۙ",
+        "translate": "Wal-laili iżā yagsyā.",
+        "meaning": "Demi malam apabila menutupi (cahaya siang),"
+    },
+    {
+        "id": 2,
+        "ayat": 2,
+        "arabic": "وَالنَّهَارِ اِذَا تَجَلّٰىۙ",
+        "translate": "Wan-nahāri iżā tajallā.",
+        "meaning": "demi siang apabila terang benderang,"
+    },
+    {
+        "id": 3,
+        "ayat": 3,
+        "arabic": "وَمَا خَلَقَ الذَّكَرَ وَالْاُنْثٰىٓ ۙ",
+        "translate": "Wa mā khalaqaż-żakara wal-unṡā.",
+        "meaning": "dan demi penciptaan laki-laki dan perempuan,"
+    },
+    {
+        "id": 4,
+        "ayat": 4,
+        "arabic": "اِنَّ سَعْيَكُمْ لَشَتّٰىۗ",
+        "translate": "Inna sa‘yakum lasyattā.",
+        "meaning": "sesungguhnya usahamu benar-benar beraneka ragam."
+    },
+    {
+        "id": 5,
+        "ayat": 5,
+        "arabic": "فَاَمَّا مَنْ اَعْطٰى وَاتَّقٰىۙ",
+        "translate": "Fa ammā man a‘ṭā wattaqā.",
+        "meaning": "Siapa yang memberikan (hartanya di jalan Allah) dan bertakwa"
+    },
+    {
+        "id": 6,
+        "ayat": 6,
+        "arabic": "وَصَدَّقَ بِالْحُسْنٰىۙ",
+        "translate": "Wa ṣaddaqa bil-ḥusnā.",
+        "meaning": "serta membenarkan adanya (balasan) yang terbaik (surga),"
+    },
+    {
+        "id": 7,
+        "ayat": 7,
+        "arabic": "فَسَنُيَسِّرُهٗ لِلْيُسْرٰىۗ",
+        "translate": "Fa sanuyassiruhū lil-yusrā.",
+        "meaning": "Kami akan melapangkan baginya jalan kemudahan (kebahagiaan)."
+    },
+    {
+        "id": 8,
+        "ayat": 8,
+        "arabic": "وَاَمَّا مَنْۢ بَخِلَ وَاسْتَغْنٰىۙ",
+        "translate": "Wa ammā man bakhila wastagnā.",
+        "meaning": "Adapun orang yang kikir dan merasa dirinya cukup (tidak perlu pertolongan Allah)"
+    },
+    {
+        "id": 9,
+        "ayat": 9,
+        "arabic": "وَكَذَّبَ بِالْحُسْنٰىۙ",
+        "translate": "Wa każżaba bil-ḥusnā.",
+        "meaning": "serta mendustakan (balasan) yang terbaik,"
+    },
+    {
+        "id": 10,
+        "ayat": 10,
+        "arabic": "فَسَنُيَسِّرُهٗ لِلْعُسْرٰىۗ",
+        "translate": "Fa sanuyassiruhū lil-‘usrā.",
+        "meaning": "Kami akan memudahkannya menuju jalan kesengsaraan."
+    },
+    {
+        "id": 11,
+        "ayat": 11,
+        "arabic": "وَمَا يُغْنِيْ عَنْهُ مَالُهٗٓ اِذَا تَرَدّٰىٓۙ",
+        "translate": "Wa mā yugnī ‘anhu māluhū iżā taraddā.",
+        "meaning": "Hartanya tidak bermanfaat baginya apabila dia telah binasa."
+    },
+    {
+        "id": 12,
+        "ayat": 12,
+        "arabic": "اِنَّ عَلَيْنَا لَلْهُدٰىۖ",
+        "translate": "Inna ‘alainā lal-hudā.",
+        "meaning": "Sesungguhnya Kamilah yang (berhak) memberi petunjuk."
+    },
+    {
+        "id": 13,
+        "ayat": 13,
+        "arabic": "وَاِنَّ لَنَا لَلْاٰخِرَةَ وَالْاُوْلٰىۗ",
+        "translate": "Wa inna lanā lal-ākhirata wal-ūlā.",
+        "meaning": "Sesungguhnya milik Kamilah akhirat dan dunia."
+    },
+    {
+        "id": 14,
+        "ayat": 14,
+        "arabic": "فَاَنْذَرْتُكُمْ نَارًا تَلَظّٰىۚ",
+        "translate": "Fa anżartukum nāran talaẓẓā.",
+        "meaning": "Aku memperingatkanmu dengan neraka yang menyala-nyala."
+    },
+    {
+        "id": 15,
+        "ayat": 15,
+        "arabic": "لَا يَصْلٰىهَآ اِلَّا الْاَشْقَىۙ",
+        "translate": "Lā yaṣlāhā illal-asyqā.",
+        "meaning": "Tidak masuk ke dalamnya kecuali orang yang paling celaka,"
+    },
+    {
+        "id": 16,
+        "ayat": 16,
+        "arabic": "الَّذِيْ كَذَّبَ وَتَوَلّٰىۗ",
+        "translate": "Allażī każżaba wa tawallā.",
+        "meaning": "yang mendustakan (kebenaran) dan berpaling (dari keimanan)."
+    },
+    {
+        "id": 17,
+        "ayat": 17,
+        "arabic": "وَسَيُجَنَّبُهَا الْاَتْقَىۙ",
+        "translate": "Wa sayujannabuhal-atqā.",
+        "meaning": "Akan dijauhkan darinya (neraka) orang yang paling bertakwa,"
+    },
+    {
+        "id": 18,
+        "ayat": 18,
+        "arabic": "الَّذِيْ يُؤْتِيْ مَالَهٗ يَتَزَكّٰىۚ",
+        "translate": "Allażī yu'tī mālahū yatazakkā.",
+        "meaning": "yang menginfakkan hartanya (di jalan Allah) untuk membersihkan (diri dari sifat kikir dan tamak)."
+    },
+    {
+        "id": 19,
+        "ayat": 19,
+        "arabic": "وَمَا لِاَحَدٍ عِنْدَهٗ مِنْ نِّعْمَةٍ تُجْزٰىٓۙ",
+        "translate": "Wa mā li'aḥadin ‘indahū min ni‘matin tujzā.",
+        "meaning": "Tidak ada suatu nikmat pun yang diberikan seseorang kepadanya yang harus dibalas,"
+    },
+    {
+        "id": 20,
+        "ayat": 20,
+        "arabic": "اِلَّا ابْتِغَاۤءَ وَجْهِ رَبِّهِ الْاَعْلٰىۚ",
+        "translate": "Illabtigā'a wajhi rabbihil-a‘lā.",
+        "meaning": "kecuali (dia memberikannya semata-mata) karena mencari keridaan Tuhannya Yang Mahatinggi."
+    },
+    {
+        "id": 21,
+        "ayat": 21,
+        "arabic": "وَلَسَوْفَ يَرْضٰى ࣖ",
+        "translate": "Wa lasaufa yarḍā.",
+        "meaning": "Sungguh, kelak dia akan mendapatkan kepuasan (menerima balasan amalnya)."
+    }
+]

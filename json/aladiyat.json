@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "ayat": 1,
+        "arabic": "وَالْعٰدِيٰتِ ضَبْحًاۙ",
+        "translate": "Wal-‘ādiyāti ḍabḥā(n).",
+        "meaning": "Demi kuda-kuda perang yang berlari kencang terengah-engah,"
+    },
+    {
+        "id": 2,
+        "ayat": 2,
+        "arabic": "فَالْمُوْرِيٰتِ قَدْحًاۙ",
+        "translate": "Fal-mūriyāti qadḥā(n).",
+        "meaning": "yang memercikkan bunga api (dengan entakan kakinya),"
+    },
+    {
+        "id": 3,
+        "ayat": 3,
+        "arabic": "فَالْمُغِيْرٰتِ صُبْحًاۙ",
+        "translate": "Fal-mugīrāti ṣubḥā(n).",
+        "meaning": "yang menyerang (dengan tiba-tiba) pada waktu pagi"
+    },
+    {
+        "id": 4,
+        "ayat": 4,
+        "arabic": "فَاَثَرْنَ بِهٖ نَقْعًاۙ",
+        "translate": "Fa'aṡarna bihī naq‘ā(n).",
+        "meaning": "sehingga menerbangkan debu,"
+    },
+    {
+        "id": 5,
+        "ayat": 5,
+        "arabic": "فَوَسَطْنَ بِهٖ جَمْعًاۙ",
+        "translate": "Fawasaṭna bihī jam‘ā(n).",
+        "meaning": "lalu menyerbu ke tengah-tengah kumpulan musuh,"
+    },
+    {
+        "id": 6,
+        "ayat": 6,
+        "arabic": "اِنَّ الْاِنْسَانَ لِرَبِّهٖ لَكَنُوْدٌ ۚ",
+        "translate": "Innal-insāna lirabbihī lakanūd(un).",
+        "meaning": "sesungguhnya manusia itu sangatlah ingkar kepada Tuhannya."
+    },
+    {
+        "id": 7,
+        "ayat": 7,
+        "arabic": "وَاِنَّهٗ عَلٰى ذٰلِكَ لَشَهِيْدٌۚ",
+        "translate": "Wa innahū ‘alā żālika lasyahīd(un).",
+        "meaning": "Sesungguhnya dia benar-benar menjadi saksi atas hal itu (keingkarannya)."
+    },
+    {
+        "id": 8,
+        "ayat": 8,
+        "arabic": "وَاِنَّهٗ لِحُبِّ الْخَيْرِ لَشَدِيْدٌ ۗ",
+        "translate": "Wa innahū liḥubbil-khairi lasyadīd(un).",
+        "meaning": "Sesungguhnya cintanya pada harta benar-benar berlebihan."
+    },
+    {
+        "id": 9,
+        "ayat": 9,
+        "arabic": "۞ اَفَلَا يَعْلَمُ اِذَا بُعْثِرَ مَا فِى الْقُبُوْرِۙ",
+        "translate": "Afalā ya‘lamu iżā bu‘ṡira mā fil-qubūr(i).",
+        "meaning": "Maka, tidakkah dia mengetahui (apa yang akan dialaminya) apabila dikeluarkan apa yang ada di dalam kubur"
+    },
+    {
+        "id": 10,
+        "ayat": 10,
+        "arabic": "وَحُصِّلَ مَا فِى الصُّدُوْرِۙ",
+        "translate": "Wa ḥuṣṣila mā fiṣ-ṣudūr(i).",
+        "meaning": "dan ditampakkan apa yang tersimpan di dalam dada?"
+    },
+    {
+        "id": 11,
+        "ayat": 11,
+        "arabic": "اِنَّ رَبَّهُمْ بِهِمْ يَوْمَىِٕذٍ لَّخَبِيْرٌ ࣖ",
+        "translate": "Inna rabbahum bihim yauma'iżil lakhabīr(un).",
+        "meaning": "Sesungguhnya Tuhan mereka pada hari itu benar-benar Mahateliti terhadap (keadaan) mereka."
+    }
+]

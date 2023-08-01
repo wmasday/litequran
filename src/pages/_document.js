@@ -7,6 +7,7 @@ export default function Document() {
       <body>
         <Main />
         <NextScript />
+        <footer className='text-center text-secondary mt-3 mb-5'>Build With 	&#10084; by masday</footer>
       </body>
     </Html>
   )

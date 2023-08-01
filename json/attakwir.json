@@ -1,0 +1,205 @@
+[
+    {
+        "id": 1,
+        "ayat": 1,
+        "arabic": "اِذَا الشَّمْسُ كُوِّرَتْۖ",
+        "translate": "Iżasy-syamsu kuwwirat.",
+        "meaning": "Apabila matahari digulung,"
+    },
+    {
+        "id": 2,
+        "ayat": 2,
+        "arabic": "وَاِذَا النُّجُوْمُ انْكَدَرَتْۖ",
+        "translate": "Wa iżan-nujūmunkadarat.",
+        "meaning": "apabila bintang-bintang berjatuhan,"
+    },
+    {
+        "id": 3,
+        "ayat": 3,
+        "arabic": "وَاِذَا الْجِبَالُ سُيِّرَتْۖ",
+        "translate": "Wa iżal-jibālu suyyirat.",
+        "meaning": "apabila gunung-gunung dihancurkan,"
+    },
+    {
+        "id": 4,
+        "ayat": 4,
+        "arabic": "وَاِذَا الْعِشَارُ عُطِّلَتْۖ",
+        "translate": "Wa iżal-‘isyāru ‘uṭṭilat.",
+        "meaning": "apabila unta-unta yang bunting ditinggalkan (tidak terurus),"
+    },
+    {
+        "id": 5,
+        "ayat": 5,
+        "arabic": "وَاِذَا الْوُحُوْشُ حُشِرَتْۖ",
+        "translate": "Wa iżal-wuḥūsy ḥusyirat.",
+        "meaning": "apabila binatang-binatang liar dikumpulkan,"
+    },
+    {
+        "id": 6,
+        "ayat": 6,
+        "arabic": "وَاِذَا الْبِحَارُ سُجِّرَتْۖ",
+        "translate": "Wa iżal-biḥāru sujjirat.",
+        "meaning": "apabila lautan dipanaskan,"
+    },
+    {
+        "id": 7,
+        "ayat": 7,
+        "arabic": "وَاِذَا النُّفُوْسُ زُوِّجَتْۖ",
+        "translate": "Wa iżan-nufūsu zuwwijat.",
+        "meaning": "apabila roh-roh dipertemukan (dengan tubuh),"
+    },
+    {
+        "id": 8,
+        "ayat": 8,
+        "arabic": "وَاِذَا الْمَوْءٗدَةُ سُىِٕلَتْۖ",
+        "translate": "Wa iżal-mau'ūdatu su'ilat.",
+        "meaning": "apabila bayi-bayi perempuan yang dikubur hidup-hidup ditanya,"
+    },
+    {
+        "id": 9,
+        "ayat": 9,
+        "arabic": "بِاَيِّ ذَنْۢبٍ قُتِلَتْۚ",
+        "translate": "Bi'ayyi żambin qutilat.",
+        "meaning": "“Karena dosa apa dia dibunuh,”"
+    },
+    {
+        "id": 10,
+        "ayat": 10,
+        "arabic": "وَاِذَا الصُّحُفُ نُشِرَتْۖ",
+        "translate": "Wa iżaṣ-ṣuḥufu nusyirat.",
+        "meaning": "apabila lembaran-lembaran (catatan amal) telah dibuka lebar-lebar,"
+    },
+    {
+        "id": 11,
+        "ayat": 11,
+        "arabic": "وَاِذَا السَّمَاۤءُ كُشِطَتْۖ",
+        "translate": "Wa iżas-samā'u kusyiṭat.",
+        "meaning": "apabila langit dilenyapkan,"
+    },
+    {
+        "id": 12,
+        "ayat": 12,
+        "arabic": "وَاِذَا الْجَحِيْمُ سُعِّرَتْۖ",
+        "translate": "Wa iżal-jaḥīmu su‘‘irat.",
+        "meaning": "apabila (neraka) Jahim dinyalakan,"
+    },
+    {
+        "id": 13,
+        "ayat": 13,
+        "arabic": "وَاِذَا الْجَنَّةُ اُزْلِفَتْۖ",
+        "translate": "Wa iżal-jannatu uzlifat.",
+        "meaning": "dan apabila surga didekatkan,"
+    },
+    {
+        "id": 14,
+        "ayat": 14,
+        "arabic": "عَلِمَتْ نَفْسٌ مَّآ اَحْضَرَتْۗ",
+        "translate": "‘Alimat nafsum mā aḥḍarat.",
+        "meaning": "setiap jiwa akan mengetahui apa yang telah dikerjakannya."
+    },
+    {
+        "id": 15,
+        "ayat": 15,
+        "arabic": "فَلَآ اُقْسِمُ بِالْخُنَّسِۙ",
+        "translate": "Falā uqsimu bil-khunnas(i).",
+        "meaning": "Aku bersumpah demi bintang-bintang"
+    },
+    {
+        "id": 16,
+        "ayat": 16,
+        "arabic": "الْجَوَارِ الْكُنَّسِۙ",
+        "translate": "Al-jawāril-kunnas(i).",
+        "meaning": "yang beredar lagi terbenam,"
+    },
+    {
+        "id": 17,
+        "ayat": 17,
+        "arabic": "وَالَّيْلِ اِذَا عَسْعَسَۙ",
+        "translate": "Wal-laili iżā ‘as‘as(a).",
+        "meaning": "demi malam apabila telah larut,"
+    },
+    {
+        "id": 18,
+        "ayat": 18,
+        "arabic": "وَالصُّبْحِ اِذَا تَنَفَّسَۙ",
+        "translate": "Waṣ-ṣubḥi iżā tanaffas(a).",
+        "meaning": "demi subuh apabila (fajar) telah menyingsing,"
+    },
+    {
+        "id": 19,
+        "ayat": 19,
+        "arabic": "اِنَّهٗ لَقَوْلُ رَسُوْلٍ كَرِيْمٍۙ",
+        "translate": "Innahū laqaulu rasūlin karīm(in).",
+        "meaning": "sesungguhnya (Al-Qur’an) itu benar-benar firman (Allah yang dibawa oleh) utusan yang mulia (Jibril)"
+    },
+    {
+        "id": 20,
+        "ayat": 20,
+        "arabic": "ذِيْ قُوَّةٍ عِنْدَ ذِى الْعَرْشِ مَكِيْنٍۙ",
+        "translate": "Żī quwwatin ‘inda żil-‘arsyi makīn(in).",
+        "meaning": "yang memiliki kekuatan dan kedudukan tinggi di sisi (Allah) yang memiliki ʻArasy,"
+    },
+    {
+        "id": 21,
+        "ayat": 21,
+        "arabic": "مُّطَاعٍ ثَمَّ اَمِيْنٍۗ",
+        "translate": "Muṭā‘in ṡamma amīn(in).",
+        "meaning": "yang di sana (Jibril) ditaati lagi dipercaya."
+    },
+    {
+        "id": 22,
+        "ayat": 22,
+        "arabic": "وَمَا صَاحِبُكُمْ بِمَجْنُوْنٍۚ",
+        "translate": "Wa mā ṣāḥibukum bimajnūn(in).",
+        "meaning": "Temanmu (Nabi Muhammad) itu bukanlah orang gila."
+    },
+    {
+        "id": 23,
+        "ayat": 23,
+        "arabic": "وَلَقَدْ رَاٰهُ بِالْاُفُقِ الْمُبِيْنِۚ",
+        "translate": "Wa laqad ra'āhu bil-ufuqil-mubīn(i).",
+        "meaning": "Sungguh, dia (Nabi Muhammad) benar-benar telah melihatnya (Jibril) di ufuk yang terang."
+    },
+    {
+        "id": 24,
+        "ayat": 24,
+        "arabic": "وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِيْنٍۚ",
+        "translate": "Wa mā huwa ‘alal-gaibi biḍanīn(in).",
+        "meaning": "Dia (Nabi Muhammad) bukanlah seorang yang kikir (enggan) untuk menerangkan yang gaib."
+    },
+    {
+        "id": 25,
+        "ayat": 25,
+        "arabic": "وَمَا هُوَ بِقَوْلِ شَيْطٰنٍ رَّجِيْمٍۚ",
+        "translate": "Wa mā huwa biqauli syaiṭānir rajīm(in).",
+        "meaning": "(Al-Qur’an) itu bukanlah perkataan setan yang terkutuk."
+    },
+    {
+        "id": 26,
+        "ayat": 26,
+        "arabic": "فَاَيْنَ تَذْهَبُوْنَۗ",
+        "translate": "Fa aina tażhabūn(a).",
+        "meaning": "Maka, ke manakah kamu akan pergi?"
+    },
+    {
+        "id": 27,
+        "ayat": 27,
+        "arabic": "اِنْ هُوَ اِلَّا ذِكْرٌ لِّلْعٰلَمِيْنَۙ",
+        "translate": "In huwa illā żikrul lil-‘ālamīn(a).",
+        "meaning": "(Al-Qur’an) itu tidak lain, kecuali peringatan bagi semesta alam,"
+    },
+    {
+        "id": 28,
+        "ayat": 28,
+        "arabic": "لِمَنْ شَاۤءَ مِنْكُمْ اَنْ يَّسْتَقِيْمَۗ",
+        "translate": "Liman syā'a minkum ay yastaqīm(a).",
+        "meaning": "(yaitu) bagi siapa di antaramu yang hendak menempuh jalan yang lurus."
+    },
+    {
+        "id": 29,
+        "ayat": 29,
+        "arabic": "وَمَا تَشَاۤءُوْنَ اِلَّآ اَنْ يَّشَاۤءَ اللّٰهُ رَبُّ الْعٰلَمِيْنَ ࣖ",
+        "translate": "Wa mā tasyā'ūna illā ay yasyā'allāhu rabbul-‘ālamīn(a).",
+        "meaning": "Kamu tidak dapat berkehendak, kecuali apabila dikehendaki Allah, Tuhan semesta alam."
+    }
+]

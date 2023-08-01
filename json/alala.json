@@ -1,0 +1,135 @@
+[
+    {
+        "id": 1,
+        "ayat": 1,
+        "arabic": "سَبِّحِ اسْمَ رَبِّكَ الْاَعْلَىۙ",
+        "translate": "Sabbiḥisma rabbikal-a‘lā.",
+        "meaning": "Sucikanlah nama Tuhanmu Yang Mahatinggi,"
+    },
+    {
+        "id": 2,
+        "ayat": 2,
+        "arabic": "الَّذِيْ خَلَقَ فَسَوّٰىۖ",
+        "translate": "Allażī khalaqa fasawwā.",
+        "meaning": "yang menciptakan, lalu menyempurnakan (ciptaan-Nya),"
+    },
+    {
+        "id": 3,
+        "ayat": 3,
+        "arabic": "وَالَّذِيْ قَدَّرَ فَهَدٰىۖ",
+        "translate": "Wal-lażī qaddara fahadā.",
+        "meaning": "yang menentukan kadar (masing-masing) dan memberi petunjuk,"
+    },
+    {
+        "id": 4,
+        "ayat": 4,
+        "arabic": "وَالَّذِيْٓ اَخْرَجَ الْمَرْعٰىۖ",
+        "translate": "Wal-lażī akhrajal-mar‘ā.",
+        "meaning": "dan yang menumbuhkan (rerumputan) padang gembala,"
+    },
+    {
+        "id": 5,
+        "ayat": 5,
+        "arabic": "فَجَعَلَهٗ غُثَاۤءً اَحْوٰىۖ",
+        "translate": "Fa ja‘alahū guṡā'an aḥwā.",
+        "meaning": "lalu menjadikannya kering kehitam-hitaman."
+    },
+    {
+        "id": 6,
+        "ayat": 6,
+        "arabic": "سَنُقْرِئُكَ فَلَا تَنْسٰىٓ ۖ",
+        "translate": "Sanuqri'uka falā tansā.",
+        "meaning": "Kami akan membacakan (Al-Qur’an) kepadamu (Nabi Muhammad) sehingga engkau tidak akan lupa,"
+    },
+    {
+        "id": 7,
+        "ayat": 7,
+        "arabic": "اِلَّا مَا شَاۤءَ اللّٰهُ ۗاِنَّهٗ يَعْلَمُ الْجَهْرَ وَمَا يَخْفٰىۗ",
+        "translate": "Illā mā syā'allāh(u), innahū ya‘lamul-jahra wa mā yakhfā.",
+        "meaning": "kecuali jika Allah menghendaki. Sesungguhnya Dia mengetahui yang terang dan yang tersembunyi."
+    },
+    {
+        "id": 8,
+        "ayat": 8,
+        "arabic": "وَنُيَسِّرُكَ لِلْيُسْرٰىۖ",
+        "translate": "Wa nuyassiruka lil-yusrā.",
+        "meaning": "Kami akan melapangkan bagimu jalan kemudahan (dalam segala urusan)."
+    },
+    {
+        "id": 9,
+        "ayat": 9,
+        "arabic": "فَذَكِّرْ اِنْ نَّفَعَتِ الذِّكْرٰىۗ",
+        "translate": "Fa żakkir in nafa‘atiż-żikrā.",
+        "meaning": "Maka, sampaikanlah peringatan jika peringatan itu bermanfaat."
+    },
+    {
+        "id": 10,
+        "ayat": 10,
+        "arabic": "سَيَذَّكَّرُ مَنْ يَّخْشٰىۙ",
+        "translate": "Sayażżakkaru may yakhsyā.",
+        "meaning": "Orang yang takut (kepada Allah) akan mengambil pelajaran,"
+    },
+    {
+        "id": 11,
+        "ayat": 11,
+        "arabic": "وَيَتَجَنَّبُهَا الْاَشْقَىۙ",
+        "translate": "Wa yatajannabuhal-asyqā.",
+        "meaning": "sedangkan orang-orang yang celaka (kafir) akan menjauhinya,"
+    },
+    {
+        "id": 12,
+        "ayat": 12,
+        "arabic": "الَّذِيْ يَصْلَى النَّارَ الْكُبْرٰىۚ",
+        "translate": "Allażī yaṣlan-nāral-kubrā.",
+        "meaning": "(yaitu) orang yang akan memasuki api (neraka) yang besar."
+    },
+    {
+        "id": 13,
+        "ayat": 13,
+        "arabic": "ثُمَّ لَا يَمُوْتُ فِيْهَا وَلَا يَحْيٰىۗ",
+        "translate": "Ṡumma lā yamūtu fīhā wa lā yaḥyā.",
+        "meaning": "Selanjutnya, dia tidak mati dan tidak (pula) hidup di sana."
+    },
+    {
+        "id": 14,
+        "ayat": 14,
+        "arabic": "قَدْ اَفْلَحَ مَنْ تَزَكّٰىۙ",
+        "translate": "Qad aflaḥa man tazakkā.",
+        "meaning": "Sungguh, beruntung orang yang menyucikan diri (dari kekafiran)"
+    },
+    {
+        "id": 15,
+        "ayat": 15,
+        "arabic": "وَذَكَرَ اسْمَ رَبِّهٖ فَصَلّٰىۗ",
+        "translate": "Wa żakarasma rabbihī fa ṣallā.",
+        "meaning": "dan mengingat nama Tuhannya, lalu dia salat."
+    },
+    {
+        "id": 16,
+        "ayat": 16,
+        "arabic": "بَلْ تُؤْثِرُوْنَ الْحَيٰوةَ الدُّنْيَاۖ",
+        "translate": "Bal tu'ṡirvnal-ḥayātad-dun-yā.",
+        "meaning": "Adapun kamu (orang-orang kafir) mengutamakan kehidupan dunia,"
+    },
+    {
+        "id": 17,
+        "ayat": 17,
+        "arabic": "وَالْاٰخِرَةُ خَيْرٌ وَّاَبْقٰىۗ",
+        "translate": "Wal-ākhiratu khairuw wa abqā.",
+        "meaning": "padahal kehidupan akhirat itu lebih baik dan lebih kekal."
+    },
+    {
+        "id": 18,
+        "ayat": 18,
+        "arabic": "اِنَّ هٰذَا لَفِى الصُّحُفِ الْاُوْلٰىۙ",
+        "translate": "Inna hāżā lafiṣ-ṣuḥufil-ūlā.",
+        "meaning": "Sesungguhnya (penjelasan) ini terdapat dalam suhuf (lembaran-lembaran) yang terdahulu,"
+    },
+    {
+        "id": 19,
+        "ayat": 19,
+        "arabic": "صُحُفِ اِبْرٰهِيْمَ وَمُوْسٰى ࣖ",
+        "translate": "Ṣuḥufi ibrāhīma wa mūsā.",
+        "meaning": "(yaitu) suhuf (yang diturunkan kepada) Ibrahim dan Musa."
+    }
+]

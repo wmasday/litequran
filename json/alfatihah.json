@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "ayat": 1,
+        "arabic": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+        "translate": "Bismillāhir-raḥmānir-raḥīm(i).",
+        "meaning": "Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang."
+    },
+    {
+        "id": 2,
+        "ayat": 2,
+        "arabic": "اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَۙ",
+        "translate": "Al-ḥamdu lillāhi rabbil-‘ālamīn(a).",
+        "meaning": "Segala puji bagi Allah, Tuhan semesta alam"
+    },
+    {
+        "id": 3,
+        "ayat": 3,
+        "arabic": "الرَّحْمٰنِ الرَّحِيْمِۙ",
+        "translate": "Ar-raḥmānir-raḥīm(i).",
+        "meaning": "Yang Maha Pengasih lagi Maha Penyayang,"
+    },
+    {
+        "id": 4,
+        "ayat": 4,
+        "arabic": "مٰلِكِ يَوْمِ الدِّيْنِۗ",
+        "translate": "Māliki yaumid-dīn(i).",
+        "meaning": "Pemilik hari Pembalasan."
+    },
+    {
+        "id": 5,
+        "ayat": 5,
+        "arabic": "اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُۗ",
+        "translate": "Iyyāka na‘budu wa iyyāka nasta‘īn(u),",
+        "meaning": "Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami memohon pertolongan."
+    },
+    {
+        "id": 6,
+        "ayat": 6,
+        "arabic": "اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَۙ",
+        "translate": "Ihdinaṣ-ṣirāṭal-mustaqīm(a).",
+        "meaning": "Bimbinglah kami ke jalan yang lurus,"
+    },
+    {
+        "id": 7,
+        "ayat": 7,
+        "arabic": "صِرَاطَ الَّذِيْنَ اَنْعَمْتَ عَلَيْهِمْ ەۙ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّاۤلِّيْنَ ࣖ",
+        "translate": "Ṣirāṭal-lażīna an‘amta ‘alaihim, gairil-magḍūbi ‘alaihim wa laḍ-ḍāllīn(a).",
+        "meaning": "(yaitu) jalan orang-orang yang telah Engkau beri nikmat, bukan (jalan) mereka yang dimurkai dan bukan (pula jalan) orang-orang yang sesat."
+    }
+]

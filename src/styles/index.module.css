@@ -1,0 +1,69 @@
+.fw-700 {
+    font-weight: 700;
+}
+
+.anchor {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.name {
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.anchor-surat {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.gradient {
+    cursor: pointer;
+    border-radius: 10px;
+    padding-top: 25px !important;
+    transition: 0.5s;
+}
+
+.gradient:hover {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+
+.ayat {
+    font-weight: 300;
+    font-size: 12px;
+}
+
+.arabic {
+    font-weight: 400;
+    font-size: 30px;
+    padding-bottom: 30px;
+}
+
+.translate {
+    font-weight: 400;
+    font-size: 17px;
+}
+
+.meaning {
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.btn-back {
+    font-weight: 500;
+    font-size: 13px;
+    border-style: none !important;
+    box-shadow: none !important;
+}
+
+@media only screen and (max-width: 767px) {
+    .translate {
+        font-weight: 400;
+        font-size: 14px;
+    }
+    
+    .meaning {
+        font-weight: 400;
+        font-size: 13px;
+    }
+}

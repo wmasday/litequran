@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "ayat": 1,
+        "arabic": "وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍۙ",
+        "translate": "Wailul likulli humazatil-lumazah(tin).",
+        "meaning": "Celakalah setiap pengumpat lagi pencela"
+    },
+    {
+        "id": 2,
+        "ayat": 2,
+        "arabic": "ۨالَّذِيْ جَمَعَ مَالًا وَّعَدَّدَهٗۙ",
+        "translate": "Allażī jama‘a mālaw wa ‘addadah(ū).",
+        "meaning": "yang mengumpulkan harta dan menghitung-hitungnya."
+    },
+    {
+        "id": 3,
+        "ayat": 3,
+        "arabic": "يَحْسَبُ اَنَّ مَالَهٗٓ اَخْلَدَهٗۚ",
+        "translate": "Yaḥsabu anna mālahū akhladah(ū).",
+        "meaning": "Dia (manusia) mengira bahwa hartanya dapat mengekalkannya."
+    },
+    {
+        "id": 4,
+        "ayat": 4,
+        "arabic": "كَلَّا لَيُنْۢبَذَنَّ فِى الْحُطَمَةِۖ",
+        "translate": "Kallā layumbażanna fil-ḥuṭamah(ti).",
+        "meaning": "Sekali-kali tidak! Pasti dia akan dilemparkan ke dalam (neraka) Hutamah."
+    },
+    {
+        "id": 5,
+        "ayat": 5,
+        "arabic": "وَمَآ اَدْرٰىكَ مَا الْحُطَمَةُ ۗ",
+        "translate": "Wa mā adrāka mal-ḥuṭamah(tu).",
+        "meaning": "Tahukah kamu apakah (neraka) Hutamah?"
+    },
+    {
+        "id": 6,
+        "ayat": 6,
+        "arabic": "نَارُ اللّٰهِ الْمُوْقَدَةُۙ",
+        "translate": "Nārullāhil-mūqadah(tu).",
+        "meaning": "(Ia adalah) api (azab) Allah yang dinyalakan"
+    },
+    {
+        "id": 7,
+        "ayat": 7,
+        "arabic": "الَّتِيْ تَطَّلِعُ عَلَى الْاَفْـِٕدَةِۗ",
+        "translate": "Allatī taṭṭali‘u ‘alal-af'idah(ti).",
+        "meaning": "yang (membakar) naik sampai ke hati."
+    },
+    {
+        "id": 8,
+        "ayat": 8,
+        "arabic": "اِنَّهَا عَلَيْهِمْ مُّؤْصَدَةٌۙ",
+        "translate": "Innahā ‘alaihim mu'ṣadah(tun).",
+        "meaning": "Sesungguhnya dia (api itu) tertutup rapat (sebagai hukuman) atas mereka,"
+    },
+    {
+        "id": 9,
+        "ayat": 9,
+        "arabic": "فِيْ عَمَدٍ مُّمَدَّدَةٍ ࣖ",
+        "translate": "Fī ‘amadim mumaddadah(tin).",
+        "meaning": "(sedangkan mereka) diikat pada tiang-tiang yang panjang."
+    }
+]

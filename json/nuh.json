@@ -1,0 +1,198 @@
+[
+    {
+        "id": 1,
+        "ayat": 1,
+        "arabic": "اِنَّآ اَرْسَلْنَا نُوْحًا اِلٰى قَوْمِهٖٓ اَنْ اَنْذِرْ قَوْمَكَ مِنْ قَبْلِ اَنْ يَّأْتِيَهُمْ عَذَابٌ اَلِيْمٌ",
+        "translate": "Innā arsalnā nūḥan ilā qaumihī an anżir qaumaka min qabli ay ya'tiyahum ‘ażābun alīm(un).",
+        "meaning": "Sesungguhnya Kami telah mengutus Nuh kepada kaumnya (dengan perintah), “Berilah peringatan kepada kaummu sebelum datang azab yang pedih kepadanya!”"
+    },
+    {
+        "id": 2,
+        "ayat": 2,
+        "arabic": "قَالَ يٰقَوْمِ اِنِّيْ لَكُمْ نَذِيْرٌ مُّبِيْنٌۙ",
+        "translate": "Qāla yā qaumi innī lakum nażīrum mubīn(un).",
+        "meaning": "Dia (Nuh) berkata, “Wahai kaumku, sesungguhnya aku ini adalah seorang pemberi peringatan yang menjelaskan kepadamu,"
+    },
+    {
+        "id": 3,
+        "ayat": 3,
+        "arabic": "اَنِ اعْبُدُوا اللّٰهَ وَاتَّقُوْهُ وَاَطِيْعُوْنِۙ",
+        "translate": "Ani‘budullāha wattaqūhu wa aṭī‘ūn(i).",
+        "meaning": "(yaitu) sembahlah Allah, bertakwalah kepada-Nya, dan taatlah kepadaku,"
+    },
+    {
+        "id": 4,
+        "ayat": 4,
+        "arabic": "يَغْفِرْ لَكُمْ مِّنْ ذُنُوْبِكُمْ وَيُؤَخِّرْكُمْ اِلٰٓى اَجَلٍ مُّسَمًّىۗ اِنَّ اَجَلَ اللّٰهِ اِذَا جَاۤءَ لَا يُؤَخَّرُۘ لَوْ كُنْتُمْ تَعْلَمُوْنَ",
+        "translate": "Yagfir lakum min żunūbikum wa yu'akhkhirkum ilā ajalim musammā(n), inna ajalallāhi iżā jā'a lā yu'akhkhar(u), lau kuntum ta‘lamūn(a).",
+        "meaning": "niscaya Dia akan mengampuni sebagian dosa-dosamu dan menangguhkanmu (memanjangkan umurmu) sampai pada batas waktu yang ditentukan. Sesungguhnya ketetapan Allah itu, apabila telah datang, tidak dapat ditunda. Seandainya kamu mengetahui(-nya).”"
+    },
+    {
+        "id": 5,
+        "ayat": 5,
+        "arabic": "قَالَ رَبِّ اِنِّيْ دَعَوْتُ قَوْمِيْ لَيْلًا وَّنَهَارًاۙ",
+        "translate": "Qāla rabbi innī da‘atu qaumī lailaw wa nahārā(n).",
+        "meaning": "Dia (Nuh) berkata, “Ya Tuhanku, sesungguhnya aku telah menyeru kaumku siang dan malam,"
+    },
+    {
+        "id": 6,
+        "ayat": 6,
+        "arabic": "فَلَمْ يَزِدْهُمْ دُعَاۤءِيْٓ اِلَّا فِرَارًا",
+        "translate": "Falam yazidhum du‘ā'ī illā firārā(n).",
+        "meaning": "tetapi seruanku itu tidak menambah (iman) mereka, melainkan mereka (makin) lari (dari kebenaran)."
+    },
+    {
+        "id": 7,
+        "ayat": 7,
+        "arabic": "وَاِنِّيْ كُلَّمَا دَعَوْتُهُمْ لِتَغْفِرَ لَهُمْ جَعَلُوْٓا اَصَابِعَهُمْ فِيْٓ اٰذَانِهِمْ وَاسْتَغْشَوْا ثِيَابَهُمْ وَاَصَرُّوْا وَاسْتَكْبَرُوا اسْتِكْبَارًاۚ",
+        "translate": "Wa innī kullamā da‘autuhum litagfira lahum ja‘alū aṣābi‘ahum fī āżānihim wastagsyau ṡiyābahum wa aṣarrū wastakbarustikbārā(n).",
+        "meaning": "Sesungguhnya setiap kali aku menyeru mereka (untuk beriman) agar Engkau mengampuni mereka, mereka memasukkan anak jarinya ke telinganya dan menutupkan bajunya (ke wajahnya). Mereka pun tetap (mengingkari) dan sangat menyombongkan diri."
+    },
+    {
+        "id": 8,
+        "ayat": 8,
+        "arabic": "ثُمَّ اِنِّيْ دَعَوْتُهُمْ جِهَارًاۙ",
+        "translate": "Ṡumma innī da‘autuhum jihārā(n).",
+        "meaning": "Kemudian, sesungguhnya aku menyeru mereka dengan cara terang-terangan."
+    },
+    {
+        "id": 9,
+        "ayat": 9,
+        "arabic": "ثُمَّ اِنِّيْٓ اَعْلَنْتُ لَهُمْ وَاَسْرَرْتُ لَهُمْ اِسْرَارًاۙ",
+        "translate": "Ṡumma innī a‘lantu lahum wa asrartu lahum isrārā(n).",
+        "meaning": "Lalu, aku menyeru mereka secara terbuka dan diam-diam."
+    },
+    {
+        "id": 10,
+        "ayat": 10,
+        "arabic": "فَقُلْتُ اسْتَغْفِرُوْا رَبَّكُمْ اِنَّهٗ كَانَ غَفَّارًاۙ",
+        "translate": "Faqultustagfirū rabbakum innahū kāna gaffārā(n).",
+        "meaning": "Lalu, aku berkata (kepada mereka), “Mohonlah ampun kepada Tuhanmu. Sesungguhnya Dia Maha Pengampun."
+    },
+    {
+        "id": 11,
+        "ayat": 11,
+        "arabic": "يُّرْسِلِ السَّمَاۤءَ عَلَيْكُمْ مِّدْرَارًاۙ",
+        "translate": "Yursilis-samā'a ‘alaikum midrārā(n).",
+        "meaning": "(Jika kamu memohon ampun,) niscaya Dia akan menurunkan hujan yang lebat dari langit kepadamu,"
+    },
+    {
+        "id": 12,
+        "ayat": 12,
+        "arabic": "وَّيُمْدِدْكُمْ بِاَمْوَالٍ وَّبَنِيْنَ وَيَجْعَلْ لَّكُمْ جَنّٰتٍ وَّيَجْعَلْ لَّكُمْ اَنْهٰرًاۗ",
+        "translate": "Wa yumdidkum bi'amwāliw wa banīna wa yaj‘al lakum jannātiw wa yaj‘al lakum anhārā(n).",
+        "meaning": "memperbanyak harta dan anak-anakmu, serta mengadakan kebun-kebun dan sungai-sungai untukmu.”"
+    },
+    {
+        "id": 13,
+        "ayat": 13,
+        "arabic": "مَا لَكُمْ لَا تَرْجُوْنَ لِلّٰهِ وَقَارًاۚ",
+        "translate": "Mā lakum lā tarjūna lillāhi waqārā(n).",
+        "meaning": "Mengapa kamu tidak takut akan kebesaran Allah?"
+    },
+    {
+        "id": 14,
+        "ayat": 14,
+        "arabic": "وَقَدْ خَلَقَكُمْ اَطْوَارًا",
+        "translate": "Wa qad khalaqakum aṭwārā(n).",
+        "meaning": "Padahal, sungguh, Dia telah menciptakanmu dalam beberapa tahapan (penciptaan)."
+    },
+    {
+        "id": 15,
+        "ayat": 15,
+        "arabic": "اَلَمْ تَرَوْا كَيْفَ خَلَقَ اللّٰهُ سَبْعَ سَمٰوٰتٍ طِبَاقًاۙ",
+        "translate": "Alam tara kaifa khalaqallāhu sab‘a samāwātin ṭibāqā(n).",
+        "meaning": "Tidakkah kamu memperhatikan bagaimana Allah telah menciptakan tujuh langit berlapis-lapis?"
+    },
+    {
+        "id": 16,
+        "ayat": 16,
+        "arabic": "وَّجَعَلَ الْقَمَرَ فِيْهِنَّ نُوْرًا وَّجَعَلَ الشَّمْسَ سِرَاجًا",
+        "translate": "Wa ja‘alal-qamara fīhinna nūraw wa ja‘alasy-syamsa sirājā(n).",
+        "meaning": "Di sana Dia menjadikan bulan bercahaya dan matahari sebagai pelita (yang cemerlang)."
+    },
+    {
+        "id": 17,
+        "ayat": 17,
+        "arabic": "وَاللّٰهُ اَنْۢبَتَكُمْ مِّنَ الْاَرْضِ نَبَاتًاۙ",
+        "translate": "Wallāhu ambatakum minal-arḍi nabātā(n).",
+        "meaning": "Allah benar-benar menciptakanmu dari tanah."
+    },
+    {
+        "id": 18,
+        "ayat": 18,
+        "arabic": "ثُمَّ يُعِيْدُكُمْ فِيْهَا وَيُخْرِجُكُمْ اِخْرَاجًا",
+        "translate": "Ṡumma yu‘īdukum fīhā wa yukhrijukum ikhrājā(n).",
+        "meaning": "Kemudian, dia akan mengembalikanmu ke dalamnya (tanah) dan mengeluarkanmu (pada hari Kiamat) dengan pasti."
+    },
+    {
+        "id": 19,
+        "ayat": 19,
+        "arabic": "وَاللّٰهُ جَعَلَ لَكُمُ الْاَرْضَ بِسَاطًاۙ",
+        "translate": "Wallāhu ja‘ala lakumul-arḍa bisāṭā(n).",
+        "meaning": "Allah menjadikan bumi untukmu sebagai hamparan"
+    },
+    {
+        "id": 20,
+        "ayat": 20,
+        "arabic": "لِّتَسْلُكُوْا مِنْهَا سُبُلًا فِجَاجًا ࣖ",
+        "translate": "Litaslukū minhā subulan fijājā(n).",
+        "meaning": "agar kamu dapat pergi dengan leluasa di jalan-jalan yang luas."
+    },
+    {
+        "id": 21,
+        "ayat": 21,
+        "arabic": "قَالَ نُوْحٌ رَّبِّ اِنَّهُمْ عَصَوْنِيْ وَاتَّبَعُوْا مَنْ لَّمْ يَزِدْهُ مَالُهٗ وَوَلَدُهٗٓ اِلَّا خَسَارًاۚ",
+        "translate": "Qāla nūḥur rabbi innahum ‘aṣaunī wattaba‘ū mal lam yazidhu māluhū wa waladuhū illā khasārā(n).",
+        "meaning": "Nuh berkata, “Ya Tuhanku, sesungguhnya mereka durhaka kepadaku dan mengikuti orang-orang yang harta dan anak-anaknya hanya menambah kerugian baginya."
+    },
+    {
+        "id": 22,
+        "ayat": 22,
+        "arabic": "وَمَكَرُوْا مَكْرًا كُبَّارًاۚ",
+        "translate": "Wa makarū makran kubbārā(n).",
+        "meaning": "Mereka pun melakukan tipu daya yang sangat besar."
+    },
+    {
+        "id": 23,
+        "ayat": 23,
+        "arabic": "وَقَالُوْا لَا تَذَرُنَّ اٰلِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّا وَّلَا سُوَاعًا ەۙ وَّلَا يَغُوْثَ وَيَعُوْقَ وَنَسْرًاۚ",
+        "translate": "Wa qālū lā tażarunna ālihatakum wa lā tażarunna waddaw wa lā suwā‘ā(n), wa lā yagūṡa wa ya‘ūqa wa nasrā(n).",
+        "meaning": "Mereka berkata, ‘Jangan sekali-kali kamu meninggalkan tuhan-tuhanmu dan jangan pula sekali-kali kamu meninggalkan Wadd, Suwā‘, Yagūṡ, Ya‘ūq, dan Nasr.’"
+    },
+    {
+        "id": 24,
+        "ayat": 24,
+        "arabic": "وَقَدْ اَضَلُّوْا كَثِيْرًا ەۚ وَلَا تَزِدِ الظّٰلِمِيْنَ اِلَّا ضَلٰلًا",
+        "translate": "Wa qad aḍallū kaṡīrā(n), wa lā tazidiẓ-ẓālimīna illā ḍalālā(n).",
+        "meaning": "Sungguh, mereka telah menyesatkan banyak orang. Janganlah Engkau tambahkan bagi orang-orang zalim itu selain kesesatan.”"
+    },
+    {
+        "id": 25,
+        "ayat": 25,
+        "arabic": "مِمَّا خَطِيْۤـٰٔتِهِمْ اُغْرِقُوْا فَاُدْخِلُوْا نَارًا ەۙ فَلَمْ يَجِدُوْا لَهُمْ مِّنْ دُوْنِ اللّٰهِ اَنْصَارًا",
+        "translate": "Mimmā khaṭī'ātihim ugriqū fa'udkhilū nārā(n), falam yajidū lahum min dūnillāhi anṣārā(n).",
+        "meaning": "Disebabkan kesalahan-kesalahan mereka, mereka ditenggelamkan, lalu dimasukkan ke neraka. Mereka tidak mendapat penolong selain Allah."
+    },
+    {
+        "id": 26,
+        "ayat": 26,
+        "arabic": "وَقَالَ نُوْحٌ رَّبِّ لَا تَذَرْ عَلَى الْاَرْضِ مِنَ الْكٰفِرِيْنَ دَيَّارًا",
+        "translate": "Wa qāla nūḥur rabbi lā tażar ‘alal-arḍi minal-kāfirīna dayyārā(n).",
+        "meaning": "Nuh berkata, “Ya Tuhanku, janganlah Engkau biarkan seorang pun di antara orang-orang kafir itu tinggal di atas bumi."
+    },
+    {
+        "id": 27,
+        "ayat": 27,
+        "arabic": "اِنَّكَ اِنْ تَذَرْهُمْ يُضِلُّوْا عِبَادَكَ وَلَا يَلِدُوْٓا اِلَّا فَاجِرًا كَفَّارًا",
+        "translate": "Innaka in tażarhum yuḍillū ‘ibādaka wa lā yalidū illā fājiran kaffārā(n).",
+        "meaning": "Sesungguhnya jika Engkau biarkan mereka tinggal, niscaya mereka akan menyesatkan hamba-hamba-Mu. Mereka pun hanya akan melahirkan anak-anak yang jahat dan tidak tahu bersyukur."
+    },
+    {
+        "id": 28,
+        "ayat": 28,
+        "arabic": "رَبِّ اغْفِرْ لِيْ وَلِوَالِدَيَّ وَلِمَنْ دَخَلَ بَيْتِيَ مُؤْمِنًا وَّلِلْمُؤْمِنِيْنَ وَالْمُؤْمِنٰتِۗ وَلَا تَزِدِ الظّٰلِمِيْنَ اِلَّا تَبَارًا ࣖ",
+        "translate": "Rabbigfir lī wa liwālidayya wa liman dakhala baitiya mu'minaw wa lil-mu'minīna wal-mu'mināt(i), wa lā tazidiẓ-ẓālimīna illā tabārā(n).",
+        "meaning": "Ya Tuhanku, ampunilah aku, ibu bapakku, dan siapa pun yang memasuki rumahku dengan beriman dan semua orang yang beriman laki-laki dan perempuan. Janganlah Engkau tambahkan bagi orang-orang zalim itu selain kehancuran.”"
+    }
+]

@@ -1,0 +1,282 @@
+[
+    {
+        "id": 1,
+        "ayat": 1,
+        "arabic": "لَآ اُقْسِمُ بِيَوْمِ الْقِيٰمَةِۙ",
+        "translate": "Lā uqsimu biyaumil-qiyāmah(ti).",
+        "meaning": "Aku bersumpah demi hari Kiamat."
+    },
+    {
+        "id": 2,
+        "ayat": 2,
+        "arabic": "وَلَآ اُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ",
+        "translate": "Wa lā uqsimu bin nafsil-lawwāmah(ti).",
+        "meaning": "Aku bersumpah demi jiwa yang sangat menyesali (dirinya sendiri)."
+    },
+    {
+        "id": 3,
+        "ayat": 3,
+        "arabic": "اَيَحْسَبُ الْاِنْسَانُ اَلَّنْ نَّجْمَعَ عِظَامَهٗ ۗ",
+        "translate": "Ayaḥsabul-insānu allan najma‘a ‘iẓāmah(ū).",
+        "meaning": "Apakah manusia mengira bahwa Kami tidak akan mengumpulkan (kembali) tulang-belulangnya?"
+    },
+    {
+        "id": 4,
+        "ayat": 4,
+        "arabic": "بَلٰى قٰدِرِيْنَ عَلٰٓى اَنْ نُّسَوِّيَ بَنَانَهٗ",
+        "translate": "Balā qādirīna ‘alā an nusawwiya banānah(ū).",
+        "meaning": "Tentu, (bahkan) Kami mampu menyusun (kembali) jari-jemarinya dengan sempurna."
+    },
+    {
+        "id": 5,
+        "ayat": 5,
+        "arabic": "بَلْ يُرِيْدُ الْاِنْسَانُ لِيَفْجُرَ اَمَامَهٗۚ",
+        "translate": "Bal yurīdul-insānu liyafjura amāmah(ū).",
+        "meaning": "Akan tetapi, manusia hendak berbuat maksiat terus-menerus."
+    },
+    {
+        "id": 6,
+        "ayat": 6,
+        "arabic": "يَسْـَٔلُ اَيَّانَ يَوْمُ الْقِيٰمَةِۗ",
+        "translate": "Yas'alu ayyāna yaumul-qiyāmah(ti).",
+        "meaning": "Dia bertanya, “Kapankah hari Kiamat itu?”"
+    },
+    {
+        "id": 7,
+        "ayat": 7,
+        "arabic": "فَاِذَا بَرِقَ الْبَصَرُۙ",
+        "translate": "Fa iżā bariqal-baṣar(u).",
+        "meaning": "Apabila mata terbelalak (ketakutan),"
+    },
+    {
+        "id": 8,
+        "ayat": 8,
+        "arabic": "وَخَسَفَ الْقَمَرُۙ",
+        "translate": "Wa khasafal-qamar(u).",
+        "meaning": "bulan pun telah hilang cahayanya,"
+    },
+    {
+        "id": 9,
+        "ayat": 9,
+        "arabic": "وَجُمِعَ الشَّمْسُ وَالْقَمَرُۙ",
+        "translate": "Wa jumi‘asy-syamsu wal-qamar(u).",
+        "meaning": "serta matahari dan bulan dikumpulkan,"
+    },
+    {
+        "id": 10,
+        "ayat": 10,
+        "arabic": "يَقُوْلُ الْاِنْسَانُ يَوْمَىِٕذٍ اَيْنَ الْمَفَرُّۚ",
+        "translate": "Yaqūlul-insānu yauma'iżin ainal-mafarr(u).",
+        "meaning": "pada hari itu manusia berkata, “Ke mana tempat lari?”"
+    },
+    {
+        "id": 11,
+        "ayat": 11,
+        "arabic": "كَلَّا لَا وَزَرَۗ",
+        "translate": "Kallā lā wazar(a).",
+        "meaning": "Sekali-kali tidak! Tidak ada tempat berlindung."
+    },
+    {
+        "id": 12,
+        "ayat": 12,
+        "arabic": "اِلٰى رَبِّكَ يَوْمَىِٕذِ ِۨالْمُسْتَقَرُّۗ",
+        "translate": "Ilā rabbika yauma'iżinil-mustaqarr(u).",
+        "meaning": "(Hanya) kepada Tuhanmu tempat kembali pada hari itu."
+    },
+    {
+        "id": 13,
+        "ayat": 13,
+        "arabic": "يُنَبَّؤُا الْاِنْسَانُ يَوْمَىِٕذٍۢ بِمَا قَدَّمَ وَاَخَّرَۗ",
+        "translate": "Yunabba'ul-insānu yauma'iżim bimā qaddama wa akhkhar(a).",
+        "meaning": "Pada hari itu diberitakan kepada manusia apa yang telah dia kerjakan dan apa yang telah dia lalaikan."
+    },
+    {
+        "id": 14,
+        "ayat": 14,
+        "arabic": "بَلِ الْاِنْسَانُ عَلٰى نَفْسِهٖ بَصِيْرَةٌۙ",
+        "translate": "Balil-insānu ‘alā nafsihī baṣīrah(tun).",
+        "meaning": "Bahkan, manusia menjadi saksi atas dirinya sendiri"
+    },
+    {
+        "id": 15,
+        "ayat": 15,
+        "arabic": "وَّلَوْ اَلْقٰى مَعَاذِيْرَهٗۗ",
+        "translate": "Wa lau alqā ma‘āżīrah(ū).",
+        "meaning": "walaupun dia mengemukakan alasan-alasan(-nya)."
+    },
+    {
+        "id": 16,
+        "ayat": 16,
+        "arabic": "لَا تُحَرِّكْ بِهٖ لِسَانَكَ لِتَعْجَلَ بِهٖۗ",
+        "translate": "Lā tuḥarrik bihī lisānaka lita‘jala bih(ī).",
+        "meaning": "Jangan engkau (Nabi Muhammad) gerakkan lidahmu (untuk membaca Al-Qur’an) karena hendak tergesa-gesa (menguasai)-nya."
+    },
+    {
+        "id": 17,
+        "ayat": 17,
+        "arabic": "اِنَّ عَلَيْنَا جَمْعَهٗ وَقُرْاٰنَهٗ ۚ",
+        "translate": "Inna ‘alainā jam‘ahū wa qur'ānah(ū).",
+        "meaning": "Sesungguhnya tugas Kamilah untuk mengumpulkan (dalam hatimu) dan membacakannya."
+    },
+    {
+        "id": 18,
+        "ayat": 18,
+        "arabic": "فَاِذَا قَرَأْنٰهُ فَاتَّبِعْ قُرْاٰنَهٗ ۚ",
+        "translate": "Fa iżā qara'nāhu fattabi‘ qur'ānah(ū).",
+        "meaning": "Maka, apabila Kami telah selesai membacakannya, ikutilah bacaannya itu."
+    },
+    {
+        "id": 19,
+        "ayat": 19,
+        "arabic": "ثُمَّ اِنَّ عَلَيْنَا بَيَانَهٗ ۗ",
+        "translate": "Ṡumma inna ‘alainā bayānah(ū).",
+        "meaning": "Kemudian, sesungguhnya tugas Kami (pula)-lah (untuk) menjelaskannya."
+    },
+    {
+        "id": 20,
+        "ayat": 20,
+        "arabic": "كَلَّا بَلْ تُحِبُّوْنَ الْعَاجِلَةَۙ",
+        "translate": "Kallā bal tuḥibbūnal-‘ājilah(ta).",
+        "meaning": "Sekali-kali tidak! Bahkan, kamu mencintai kehidupan dunia,"
+    },
+    {
+        "id": 21,
+        "ayat": 21,
+        "arabic": "وَتَذَرُوْنَ الْاٰخِرَةَۗ",
+        "translate": "Wa tażarūnal-‘ākhirah(ta).",
+        "meaning": "dan mengabaikan (kehidupan) akhirat."
+    },
+    {
+        "id": 22,
+        "ayat": 22,
+        "arabic": "وُجُوْهٌ يَّوْمَىِٕذٍ نَّاضِرَةٌۙ",
+        "translate": "Wujūhuy yauma'iżin nāḍirah(tun).",
+        "meaning": "Wajah-wajah (orang mukmin) pada hari itu berseri-seri"
+    },
+    {
+        "id": 23,
+        "ayat": 23,
+        "arabic": "اِلٰى رَبِّهَا نَاظِرَةٌ ۚ",
+        "translate": "Ilā rabbihā nāẓirah(tun).",
+        "meaning": "(karena) memandang Tuhannya."
+    },
+    {
+        "id": 24,
+        "ayat": 24,
+        "arabic": "وَوُجُوْهٌ يَّوْمَىِٕذٍۢ بَاسِرَةٌۙ",
+        "translate": "Wa wujūhuy yauma'iżim bāsirah(tun).",
+        "meaning": "Wajah-wajah (orang kafir) pada hari itu muram"
+    },
+    {
+        "id": 25,
+        "ayat": 25,
+        "arabic": "تَظُنُّ اَنْ يُّفْعَلَ بِهَا فَاقِرَةٌ ۗ",
+        "translate": "Taẓunnu ay yuf‘ala bihā fāqirah(tun).",
+        "meaning": "(karena) mereka yakin akan ditimpakan kepadanya malapetaka yang sangat dahsyat."
+    },
+    {
+        "id": 26,
+        "ayat": 26,
+        "arabic": "كَلَّآ اِذَا بَلَغَتِ التَّرَاقِيَۙ",
+        "translate": "Kallā iżā balagatit-tarāqiy(a).",
+        "meaning": "Sekali-kali tidak! Apabila (nyawa) telah sampai di kerongkongan,"
+    },
+    {
+        "id": 27,
+        "ayat": 27,
+        "arabic": "وَقِيْلَ مَنْ ۜرَاقٍۙ",
+        "translate": "Wa qīla man…rāq(in).",
+        "meaning": "dan dikatakan (kepadanya), “Siapa yang (dapat) menyembuhkan?”"
+    },
+    {
+        "id": 28,
+        "ayat": 28,
+        "arabic": "وَّظَنَّ اَنَّهُ الْفِرَاقُۙ",
+        "translate": "Wa ẓanna annahul-firāq(u).",
+        "meaning": "Dia pun yakin bahwa itulah waktu perpisahan (dengan dunia),"
+    },
+    {
+        "id": 29,
+        "ayat": 29,
+        "arabic": "وَالْتَفَّتِ السَّاقُ بِالسَّاقِۙ",
+        "translate": "Waltaffatis-sāqu bis-sāq(i).",
+        "meaning": "dan bertautlah betis (kiri) dengan betis (kanan)."
+    },
+    {
+        "id": 30,
+        "ayat": 30,
+        "arabic": "اِلٰى رَبِّكَ يَوْمَىِٕذِ ِۨالْمَسَاقُ ۗ ࣖ",
+        "translate": "Ilā rabbika yauma'iżinil-masāq(u).",
+        "meaning": "Kepada Tuhanmulah pada hari itu (manusia) digiring."
+    },
+    {
+        "id": 31,
+        "ayat": 31,
+        "arabic": "فَلَا صَدَّقَ وَلَا صَلّٰىۙ",
+        "translate": "Falā ṣaddaqa wa lā ṣallā.",
+        "meaning": "Dia tidak membenarkan (Al-Qur’an dan Rasul) dan tidak melaksanakan salat."
+    },
+    {
+        "id": 32,
+        "ayat": 32,
+        "arabic": "وَلٰكِنْ كَذَّبَ وَتَوَلّٰىۙ",
+        "translate": "Wa lākin każżaba wa tawallā.",
+        "meaning": "Akan tetapi, dia mendustakan (Al-Qur’an) dan berpaling (dari kebenaran)."
+    },
+    {
+        "id": 33,
+        "ayat": 33,
+        "arabic": "ثُمَّ ذَهَبَ اِلٰٓى اَهْلِهٖ يَتَمَطّٰىۗ",
+        "translate": "Ṡumma żahaba ilā ahlihī yatamaṭṭā.",
+        "meaning": "Kemudian, dia pergi kepada keluarganya dengan menyombongkan diri."
+    },
+    {
+        "id": 34,
+        "ayat": 34,
+        "arabic": "اَوْلٰى لَكَ فَاَوْلٰىۙ",
+        "translate": "Aulā laka fa'aulā.",
+        "meaning": "Celakalah kamu! Maka, celakalah!"
+    },
+    {
+        "id": 35,
+        "ayat": 35,
+        "arabic": "ثُمَّ اَوْلٰى لَكَ فَاَوْلٰىۗ",
+        "translate": "Ṡumma aulā laka fa'aulā.",
+        "meaning": "Kemudian, celakalah kamu! Maka, celakalah!"
+    },
+    {
+        "id": 36,
+        "ayat": 36,
+        "arabic": "اَيَحْسَبُ الْاِنْسَانُ اَنْ يُّتْرَكَ سُدًىۗ",
+        "translate": "Ayaḥsabul-insānu ay yutraka sudā(n).",
+        "meaning": "Apakah manusia mengira akan dibiarkan begitu saja (tanpa pertanggungjawaban)?"
+    },
+    {
+        "id": 37,
+        "ayat": 37,
+        "arabic": "اَلَمْ يَكُ نُطْفَةً مِّنْ مَّنِيٍّ يُّمْنٰى",
+        "translate": "Alam yaku nuṭfatam mim maniyyiy yumnā.",
+        "meaning": "Bukankah dia dahulu setetes mani yang ditumpahkan (ke dalam rahim)?"
+    },
+    {
+        "id": 38,
+        "ayat": 38,
+        "arabic": "ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوّٰىۙ",
+        "translate": "Ṡumma kāna ‘alaqatan fa khalaqa fa sawwā.",
+        "meaning": "Kemudian, (mani itu) menjadi sesuatu yang melekat, lalu Dia menciptakan dan menyempurnakannya."
+    },
+    {
+        "id": 39,
+        "ayat": 39,
+        "arabic": "فَجَعَلَ مِنْهُ الزَّوْجَيْنِ الذَّكَرَ وَالْاُنْثٰىۗ",
+        "translate": "Fa ja‘ala minhuz-zaujainiż-żakara wal-unṡā.",
+        "meaning": "Lalu, Dia menjadikan darinya sepasang laki-laki dan perempuan."
+    },
+    {
+        "id": 40,
+        "ayat": 40,
+        "arabic": "اَلَيْسَ ذٰلِكَ بِقٰدِرٍ عَلٰٓى اَنْ يُّحْيِ َۧ الْمَوْتٰى ࣖ",
+        "translate": "Alaisa żālika biqādirin ‘alā ay yuḥyiyal-mautā.",
+        "meaning": "Bukankah (Allah) itu kuasa (pula) menghidupkan orang mati?"
+    }
+]

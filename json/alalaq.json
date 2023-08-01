@@ -1,0 +1,135 @@
+[
+    {
+        "id": 1,
+        "ayat": 1,
+        "arabic": "اِقْرَأْ بِاسْمِ رَبِّكَ الَّذِيْ خَلَقَۚ",
+        "translate": "Iqra' bismi rabbikal-lażī khalaq(a).",
+        "meaning": "Bacalah dengan (menyebut) nama Tuhanmu yang menciptakan!"
+    },
+    {
+        "id": 2,
+        "ayat": 2,
+        "arabic": "خَلَقَ الْاِنْسَانَ مِنْ عَلَقٍۚ",
+        "translate": "Khalaqal-insāna min ‘alaq(in).",
+        "meaning": "Dia menciptakan manusia dari segumpal darah."
+    },
+    {
+        "id": 3,
+        "ayat": 3,
+        "arabic": "اِقْرَأْ وَرَبُّكَ الْاَكْرَمُۙ",
+        "translate": "Iqra' wa rabbukal-akram(u).",
+        "meaning": "Bacalah! Tuhanmulah Yang Mahamulia,"
+    },
+    {
+        "id": 4,
+        "ayat": 4,
+        "arabic": "الَّذِيْ عَلَّمَ بِالْقَلَمِۙ",
+        "translate": "Allażī ‘allama bil-qalam(i).",
+        "meaning": "yang mengajar (manusia) dengan pena."
+    },
+    {
+        "id": 5,
+        "ayat": 5,
+        "arabic": "عَلَّمَ الْاِنْسَانَ مَا لَمْ يَعْلَمْۗ",
+        "translate": "‘Allamal-insāna mā lam ya‘lam.",
+        "meaning": "Dia mengajarkan manusia apa yang tidak diketahuinya."
+    },
+    {
+        "id": 6,
+        "ayat": 6,
+        "arabic": "كَلَّآ اِنَّ الْاِنْسَانَ لَيَطْغٰىٓ ۙ",
+        "translate": "Kallā innal-insāna layaṭgā.",
+        "meaning": "Sekali-kali tidak! Sesungguhnya manusia itu benar-benar melampaui batas"
+    },
+    {
+        "id": 7,
+        "ayat": 7,
+        "arabic": "اَنْ رَّاٰهُ اسْتَغْنٰىۗ",
+        "translate": "Ar ra'āhustagnā.",
+        "meaning": "ketika melihat dirinya serba berkecukupan."
+    },
+    {
+        "id": 8,
+        "ayat": 8,
+        "arabic": "اِنَّ اِلٰى رَبِّكَ الرُّجْعٰىۗ",
+        "translate": "Inna ilā rabbikar-ruj‘ā.",
+        "meaning": "Sesungguhnya hanya kepada Tuhanmulah tempat kembali(-mu)."
+    },
+    {
+        "id": 9,
+        "ayat": 9,
+        "arabic": "اَرَاَيْتَ الَّذِيْ يَنْهٰىۙ",
+        "translate": "Ara'aital-lażī yanhā.",
+        "meaning": "Tahukah kamu tentang orang yang melarang"
+    },
+    {
+        "id": 10,
+        "ayat": 10,
+        "arabic": "عَبْدًا اِذَا صَلّٰىۗ",
+        "translate": "‘Abdan iżā ṣallā.",
+        "meaning": "seorang hamba ketika dia melaksanakan salat?"
+    },
+    {
+        "id": 11,
+        "ayat": 11,
+        "arabic": "اَرَاَيْتَ اِنْ كَانَ عَلَى الْهُدٰىٓۙ",
+        "translate": "Ara'aita in kāna ‘alal-hudā.",
+        "meaning": "Bagaimana pendapatmu kalau terbukti dia berada di dalam kebenaran"
+    },
+    {
+        "id": 12,
+        "ayat": 12,
+        "arabic": "اَوْ اَمَرَ بِالتَّقْوٰىۗ",
+        "translate": "Au amara bit-taqwā.",
+        "meaning": "atau dia menyuruh bertakwa (kepada Allah)?"
+    },
+    {
+        "id": 13,
+        "ayat": 13,
+        "arabic": "اَرَاَيْتَ اِنْ كَذَّبَ وَتَوَلّٰىۗ",
+        "translate": "Ara'aita in każżaba wa tawallā.",
+        "meaning": "Bagaimana pendapatmu kalau dia mendustakan (kebenaran) dan berpaling (dari keimanan)?"
+    },
+    {
+        "id": 14,
+        "ayat": 14,
+        "arabic": "اَلَمْ يَعْلَمْ بِاَنَّ اللّٰهَ يَرٰىۗ",
+        "translate": "Alam ya‘lam bi'annallāha yarā.",
+        "meaning": "Tidakkah dia mengetahui bahwa sesungguhnya Allah melihat (segala perbuatannya)?"
+    },
+    {
+        "id": 15,
+        "ayat": 15,
+        "arabic": "كَلَّا لَىِٕنْ لَّمْ يَنْتَهِ ەۙ لَنَسْفَعًاۢ بِالنَّاصِيَةِۙ",
+        "translate": "Kallā la'il lam yantah(i), lanasfa‘am bin-nāṣiyah(ti).",
+        "meaning": "Sekali-kali tidak! Sungguh, jika dia tidak berhenti (berbuat demikian), niscaya Kami tarik ubun-ubunnya (ke dalam neraka),"
+    },
+    {
+        "id": 16,
+        "ayat": 16,
+        "arabic": "نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍۚ",
+        "translate": "Nāṣiyatin kāżibatin khāṭi'ah(tin).",
+        "meaning": "(yaitu) ubun-ubun orang yang mendustakan (kebenaran) dan durhaka."
+    },
+    {
+        "id": 17,
+        "ayat": 17,
+        "arabic": "فَلْيَدْعُ نَادِيَهٗۙ",
+        "translate": "Falyad‘u nādiyah(ū).",
+        "meaning": "Biarlah dia memanggil golongannya (untuk menolongnya)."
+    },
+    {
+        "id": 18,
+        "ayat": 18,
+        "arabic": "سَنَدْعُ الزَّبَانِيَةَۙ",
+        "translate": "Sanad‘uz-zabāniyah(ta).",
+        "meaning": "Kelak Kami akan memanggil (Malaikat) Zabaniah (penyiksa orang-orang yang berdosa)."
+    },
+    {
+        "id": 19,
+        "ayat": 19,
+        "arabic": "كَلَّاۗ لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِبْ ۩ ࣖ",
+        "translate": "Kallā, lā tuṭi‘hu wasjud waqtarib.",
+        "meaning": "Sekali-kali tidak! Janganlah patuh kepadanya, (tetapi) sujud dan mendekatlah (kepada Allah)."
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "ayat": 1,
+        "arabic": "وَالْفَجْرِۙ",
+        "translate": "Wal-fajr(i).",
+        "meaning": "Demi waktu fajar,"
+    },
+    {
+        "id": 2,
+        "ayat": 2,
+        "arabic": "وَلَيَالٍ عَشْرٍۙ",
+        "translate": "Wa layālin ‘asyr(in).",
+        "meaning": "demi malam yang sepuluh,"
+    },
+    {
+        "id": 3,
+        "ayat": 3,
+        "arabic": "وَّالشَّفْعِ وَالْوَتْرِۙ",
+        "translate": "Wasy-syaf‘i wal-watr(i).",
+        "meaning": "demi yang genap dan yang ganjil,"
+    },
+    {
+        "id": 4,
+        "ayat": 4,
+        "arabic": "وَالَّيْلِ اِذَا يَسْرِۚ",
+        "translate": "Wal-laili iżā yasr(i).",
+        "meaning": "dan demi malam apabila berlalu."
+    },
+    {
+        "id": 5,
+        "ayat": 5,
+        "arabic": "هَلْ فِيْ ذٰلِكَ قَسَمٌ لِّذِيْ حِجْرٍۗ",
+        "translate": "Hal fī żālika qasamul liżī ḥijr(in).",
+        "meaning": "Apakah pada yang demikian itu terdapat sumpah (yang dapat diterima) oleh (orang) yang berakal?"
+    },
+    {
+        "id": 6,
+        "ayat": 6,
+        "arabic": "اَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍۖ",
+        "translate": "Alam tara kaifa fa‘ala rabbuka bi‘ād(in).",
+        "meaning": "Tidakkah engkau (Nabi Muhammad) memperhatikan bagaimana Tuhanmu berbuat terhadap (kaum) ‘Ad,"
+    },
+    {
+        "id": 7,
+        "ayat": 7,
+        "arabic": "اِرَمَ ذَاتِ الْعِمَادِۖ",
+        "translate": "Irama żātil-‘imād(i).",
+        "meaning": "(yaitu) penduduk Iram (ibu kota kaum ‘Ad) yang mempunyai bangunan-bangunan yang tinggi"
+    },
+    {
+        "id": 8,
+        "ayat": 8,
+        "arabic": "الَّتِيْ لَمْ يُخْلَقْ مِثْلُهَا فِى الْبِلَادِۖ",
+        "translate": "Allatī lam yukhlaq miṡluhā fil-bilād(i).",
+        "meaning": "yang sebelumnya tidak pernah dibangun (suatu kota pun) seperti itu di negeri-negeri (lain)?"
+    },
+    {
+        "id": 9,
+        "ayat": 9,
+        "arabic": "وَثَمُوْدَ الَّذِيْنَ جَابُوا الصَّخْرَ بِالْوَادِۖ",
+        "translate": "Wa ṡamūdal-lażīna jābuṣ-ṣakhra bil-wād(i).",
+        "meaning": "(Tidakkah engkau perhatikan pula kaum) Samud yang memotong batu-batu besar di lembah"
+    },
+    {
+        "id": 10,
+        "ayat": 10,
+        "arabic": "وَفِرْعَوْنَ ذِى الْاَوْتَادِۖ",
+        "translate": "Wa fir‘auna żil-autād(i).",
+        "meaning": "dan Fir‘aun yang mempunyai pasak-pasak (bangunan yang besar)"
+    },
+    {
+        "id": 11,
+        "ayat": 11,
+        "arabic": "الَّذِيْنَ طَغَوْا فِى الْبِلَادِۖ",
+        "translate": "Allażīna ṭagau fil-bilād(i).",
+        "meaning": "yang berbuat sewenang-wenang dalam negeri,"
+    },
+    {
+        "id": 12,
+        "ayat": 12,
+        "arabic": "فَاَكْثَرُوْا فِيْهَا الْفَسَادَۖ",
+        "translate": "Fa akṡarū fīhal-fasād(a).",
+        "meaning": "lalu banyak berbuat kerusakan di dalamnya (negeri itu),"
+    },
+    {
+        "id": 13,
+        "ayat": 13,
+        "arabic": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍۖ",
+        "translate": "Fa ṣabba ‘alaihim rabbuka sauṭa ‘ażāb(in).",
+        "meaning": "maka Tuhanmu menimpakan cemeti azab (yang dahsyat) kepada mereka?"
+    },
+    {
+        "id": 14,
+        "ayat": 14,
+        "arabic": "اِنَّ رَبَّكَ لَبِالْمِرْصَادِۗ",
+        "translate": "Inna rabbaka labil-mirṣād(i).",
+        "meaning": "Sesungguhnya Tuhanmu benar-benar mengawasi."
+    },
+    {
+        "id": 15,
+        "ayat": 15,
+        "arabic": "فَاَمَّا الْاِنْسَانُ اِذَا مَا ابْتَلٰىهُ رَبُّهٗ فَاَكْرَمَهٗ وَنَعَّمَهٗۙ فَيَقُوْلُ رَبِّيْٓ اَكْرَمَنِۗ",
+        "translate": "Fa ammal-insānu iżā mabtalāhu rabbuhū fa akramahū wa na‘‘amah(ū), fa yaqūlu rabbī akraman(i).",
+        "meaning": "Adapun manusia, apabila Tuhan mengujinya lalu memuliakannya dan memberinya kenikmatan, berkatalah dia, “Tuhanku telah memuliakanku.”"
+    },
+    {
+        "id": 16,
+        "ayat": 16,
+        "arabic": "وَاَمَّآ اِذَا مَا ابْتَلٰىهُ فَقَدَرَ عَلَيْهِ رِزْقَهٗ ەۙ فَيَقُوْلُ رَبِّيْٓ اَهَانَنِۚ",
+        "translate": "Wa ammā iżā mabtalāhu fa qadara ‘alaihi rizqah(ū), fa yaqūlu rabbī ahānan(i).",
+        "meaning": "Sementara itu, apabila Dia mengujinya lalu membatasi rezekinya, berkatalah dia, “Tuhanku telah menghinaku.”"
+    },
+    {
+        "id": 17,
+        "ayat": 17,
+        "arabic": "كَلَّا بَلْ لَّا تُكْرِمُوْنَ الْيَتِيْمَۙ",
+        "translate": "Kallā bal lā tukrimūnal-yatīm(a).",
+        "meaning": "Sekali-kali tidak! Sebaliknya, kamu tidak memuliakan anak yatim,"
+    },
+    {
+        "id": 18,
+        "ayat": 18,
+        "arabic": "وَلَا تَحٰۤضُّوْنَ عَلٰى طَعَامِ الْمِسْكِيْنِۙ",
+        "translate": "Wa lā taḥāḍḍūna ‘alā ṭa‘āmil-miskīn(i).",
+        "meaning": "tidak saling mengajak memberi makan orang miskin,"
+    },
+    {
+        "id": 19,
+        "ayat": 19,
+        "arabic": "وَتَأْكُلُوْنَ التُّرَاثَ اَكْلًا لَّمًّاۙ",
+        "translate": "Wa ta'kulūnat-turāṡa aklal lammā(n).",
+        "meaning": "memakan harta warisan dengan cara mencampurbaurkan (yang halal dan yang haram),"
+    },
+    {
+        "id": 20,
+        "ayat": 20,
+        "arabic": "وَّتُحِبُّوْنَ الْمَالَ حُبًّا جَمًّاۗ",
+        "translate": "Wa tuḥibbūnal-māla ḥubban jammā(n).",
+        "meaning": "dan mencintai harta dengan kecintaan yang berlebihan."
+    },
+    {
+        "id": 21,
+        "ayat": 21,
+        "arabic": "كَلَّآ اِذَا دُكَّتِ الْاَرْضُ دَكًّا دَكًّاۙ",
+        "translate": "Kallā iżā dukkatil-arḍu dakkan dakkā(n).",
+        "meaning": "Jangan sekali-kali begitu! Apabila bumi diguncangkan berturut-turut (berbenturan),"
+    },
+    {
+        "id": 22,
+        "ayat": 22,
+        "arabic": "وَّجَاۤءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّاۚ",
+        "translate": "Wa jā'a rabbuka wal-malaku ṣaffan ṣaffā(n).",
+        "meaning": "Tuhanmu datang, begitu pula para malaikat (yang datang) berbaris-baris,"
+    },
+    {
+        "id": 23,
+        "ayat": 23,
+        "arabic": "وَجِايْۤءَ يَوْمَىِٕذٍۢ بِجَهَنَّمَۙ يَوْمَىِٕذٍ يَّتَذَكَّرُ الْاِنْسَانُ وَاَنّٰى لَهُ الذِّكْرٰىۗ",
+        "translate": "Wa jī'a yauma'iżim bijahannam(a), yauma'iżiy yatażakkarul-insānu wa annā lahuż-żikrā.",
+        "meaning": "dan pada hari itu (neraka) Jahanam didatangkan, sadarlah manusia pada hari itu juga. Akan tetapi, bagaimana bisa kesadaran itu bermanfaat baginya?"
+    },
+    {
+        "id": 24,
+        "ayat": 24,
+        "arabic": "يَقُوْلُ يٰلَيْتَنِيْ قَدَّمْتُ لِحَيَاتِيْۚ",
+        "translate": "Yaqūlu yā laitanī qaddamtu liḥayātī.",
+        "meaning": "Dia berkata, “Oh, seandainya dahulu aku mengerjakan (kebajikan) untuk hidupku ini!”"
+    },
+    {
+        "id": 25,
+        "ayat": 25,
+        "arabic": "فَيَوْمَىِٕذٍ لَّا يُعَذِّبُ عَذَابَهٗٓ اَحَدٌ ۙ",
+        "translate": "Fa yauma'iżil lā yu‘ażżibu ‘ażābahū aḥad(un).",
+        "meaning": "Pada hari itu tidak ada seorang pun yang mampu mengazab (seadil) azab-Nya."
+    },
+    {
+        "id": 26,
+        "ayat": 26,
+        "arabic": "وَّلَا يُوْثِقُ وَثَاقَهٗٓ اَحَدٌ ۗ",
+        "translate": "Wa lā yūṡiqu waṡāqahū aḥad(un).",
+        "meaning": "Tidak ada seorang pun juga yang mampu mengikat (sekuat) ikatan-Nya."
+    },
+    {
+        "id": 27,
+        "ayat": 27,
+        "arabic": "يٰٓاَيَّتُهَا النَّفْسُ الْمُطْمَىِٕنَّةُۙ",
+        "translate": "Yā ayyatuhan-nafsul-muṭma'innah(tu).",
+        "meaning": "Wahai jiwa yang tenang,"
+    },
+    {
+        "id": 28,
+        "ayat": 28,
+        "arabic": "ارْجِعِيْٓ اِلٰى رَبِّكِ رَاضِيَةً مَّرْضِيَّةً ۚ",
+        "translate": "Irji‘ī ilā rabbiki rāḍiyatam marḍiyyah(tan).",
+        "meaning": "kembalilah kepada Tuhanmu dengan rida dan diridai."
+    },
+    {
+        "id": 29,
+        "ayat": 29,
+        "arabic": "فَادْخُلِيْ فِيْ عِبٰدِيْۙ",
+        "translate": "Fadkhuli fī ‘ibādī.",
+        "meaning": "Lalu, masuklah ke dalam golongan hamba-hamba-Ku"
+    },
+    {
+        "id": 30,
+        "ayat": 30,
+        "arabic": "وَادْخُلِيْ جَنَّتِيْ ࣖࣖ",
+        "translate": "Wadkhulī jannatī.",
+        "meaning": "dan masuklah ke dalam surga-Ku!"
+    }
+]

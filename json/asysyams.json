@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "ayat": 1,
+        "arabic": "وَالشَّمْسِ وَضُحٰىهَاۖ",
+        "translate": "Wasy-syamsi wa ḍuḥāhā.",
+        "meaning": "Demi matahari dan sinarnya pada waktu duha (ketika matahari naik sepenggalah),"
+    },
+    {
+        "id": 2,
+        "ayat": 2,
+        "arabic": "وَالْقَمَرِ اِذَا تَلٰىهَاۖ",
+        "translate": "Wal-qamari iżā talāhā.",
+        "meaning": "demi bulan saat mengiringinya,"
+    },
+    {
+        "id": 3,
+        "ayat": 3,
+        "arabic": "وَالنَّهَارِ اِذَا جَلّٰىهَاۖ",
+        "translate": "Wan-nahāri iżā jallāhā.",
+        "meaning": "demi siang saat menampakkannya,"
+    },
+    {
+        "id": 4,
+        "ayat": 4,
+        "arabic": "وَالَّيْلِ اِذَا يَغْشٰىهَاۖ",
+        "translate": "Wal-laili iżā yagsyāhā.",
+        "meaning": "demi malam saat menutupinya (gelap gulita),"
+    },
+    {
+        "id": 5,
+        "ayat": 5,
+        "arabic": "وَالسَّمَاۤءِ وَمَا بَنٰىهَاۖ",
+        "translate": "Was-samā'i wa mā banāhā.",
+        "meaning": "demi langit serta pembuatannya,"
+    },
+    {
+        "id": 6,
+        "ayat": 6,
+        "arabic": "وَالْاَرْضِ وَمَا طَحٰىهَاۖ",
+        "translate": "Wal-arḍi wa mā ṭaḥāhā.",
+        "meaning": "demi bumi serta penghamparannya,"
+    },
+    {
+        "id": 7,
+        "ayat": 7,
+        "arabic": "وَنَفْسٍ وَّمَا سَوّٰىهَاۖ",
+        "translate": "Wa nafsiw wa mā sawwāhā.",
+        "meaning": "dan demi jiwa serta penyempurnaan (ciptaan)-nya,"
+    },
+    {
+        "id": 8,
+        "ayat": 8,
+        "arabic": "فَاَلْهَمَهَا فُجُوْرَهَا وَتَقْوٰىهَاۖ",
+        "translate": "Fa alhamahā fujūrahā wa taqwāhā.",
+        "meaning": "lalu Dia mengilhamkan kepadanya (jalan) kejahatan dan ketakwaannya,"
+    },
+    {
+        "id": 9,
+        "ayat": 9,
+        "arabic": "قَدْ اَفْلَحَ مَنْ زَكّٰىهَاۖ",
+        "translate": "Qad aflaḥa man zakkāhā.",
+        "meaning": "sungguh beruntung orang yang menyucikannya (jiwa itu)"
+    },
+    {
+        "id": 10,
+        "ayat": 10,
+        "arabic": "وَقَدْ خَابَ مَنْ دَسّٰىهَاۗ",
+        "translate": "Wa qad khāba man dassāhā.",
+        "meaning": "dan sungguh rugi orang yang mengotorinya."
+    },
+    {
+        "id": 11,
+        "ayat": 11,
+        "arabic": "كَذَّبَتْ ثَمُوْدُ بِطَغْوٰىهَآ ۖ",
+        "translate": "Każżabat ṡamūdu biṭagwāhā.",
+        "meaning": "(Kaum) Samud telah mendustakan (rasulnya) karena mereka melampaui batas"
+    },
+    {
+        "id": 12,
+        "ayat": 12,
+        "arabic": "اِذِ انْۢبَعَثَ اَشْقٰىهَاۖ",
+        "translate": "Iżimba‘aṡa asyqāhā.",
+        "meaning": "ketika orang yang paling celaka di antara mereka bangkit (untuk menyembelih unta betina Allah)."
+    },
+    {
+        "id": 13,
+        "ayat": 13,
+        "arabic": "فَقَالَ لَهُمْ رَسُوْلُ اللّٰهِ نَاقَةَ اللّٰهِ وَسُقْيٰهَاۗ",
+        "translate": "Fa qāla lahum rasūlullāhi nāqatallāhi wa suqyāhā.",
+        "meaning": "Rasul Allah (Saleh) lalu berkata kepada mereka, “(Biarkanlah) unta betina Allah ini beserta minumannya.”"
+    },
+    {
+        "id": 14,
+        "ayat": 14,
+        "arabic": "فَكَذَّبُوْهُ فَعَقَرُوْهَاۖ فَدَمْدَمَ عَلَيْهِمْ رَبُّهُمْ بِذَنْۢبِهِمْ فَسَوّٰىهَاۖ",
+        "translate": "Fa każżabūhu fa ‘aqarūhā fa damdama ‘alaihim rabbuhum biżambihim fa sawwāhā.",
+        "meaning": "Namun, mereka kemudian mendustakannya (Saleh) dan menyembelih (unta betina) itu. Maka, Tuhan membinasakan mereka karena dosa-dosanya, lalu meratakan mereka (dengan tanah)."
+    },
+    {
+        "id": 15,
+        "ayat": 15,
+        "arabic": "وَلَا يَخَافُ عُقْبٰهَا ࣖ",
+        "translate": "Wa lā yakhāfu ‘uqbāhā.",
+        "meaning": "Dia tidak takut terhadap akibatnya."
+    }
+]

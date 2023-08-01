@@ -1,0 +1,135 @@
+[
+    {
+        "id": 1,
+        "ayat": 1,
+        "arabic": "اِذَا السَّمَاۤءُ انْفَطَرَتْۙ",
+        "translate": "Iżas-samā'unfaṭarat.",
+        "meaning": "Apabila langit terbelah,"
+    },
+    {
+        "id": 2,
+        "ayat": 2,
+        "arabic": "وَاِذَا الْكَوَاكِبُ انْتَثَرَتْۙ",
+        "translate": "Wa iżal-kawākibuntaṡarat.",
+        "meaning": "apabila bintang-bintang jatuh berserakan,"
+    },
+    {
+        "id": 3,
+        "ayat": 3,
+        "arabic": "وَاِذَا الْبِحَارُ فُجِّرَتْۙ",
+        "translate": "Wa iżal-biḥāru fujjirat.",
+        "meaning": "apabila lautan diluapkan,"
+    },
+    {
+        "id": 4,
+        "ayat": 4,
+        "arabic": "وَاِذَا الْقُبُوْرُ بُعْثِرَتْۙ",
+        "translate": "Wa iżal-qubūru bu‘ṡirat.",
+        "meaning": "dan apabila kuburan-kuburan dibongkar,"
+    },
+    {
+        "id": 5,
+        "ayat": 5,
+        "arabic": "عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَاَخَّرَتْۗ",
+        "translate": "‘Alimat nafsum mā qaddamat wa akhkharat.",
+        "meaning": "setiap jiwa akan mengetahui apa yang telah dikerjakan dan yang dilalaikan(-nya)."
+    },
+    {
+        "id": 6,
+        "ayat": 6,
+        "arabic": "يٰٓاَيُّهَا الْاِنْسَانُ مَا غَرَّكَ بِرَبِّكَ الْكَرِيْمِۙ",
+        "translate": "Yā ayyuhal-insānu mā garraka birabbikal-karīm(i).",
+        "meaning": "Wahai manusia, apakah yang telah memperdayakanmu (berbuat durhaka) terhadap Tuhanmu Yang Mahamulia,"
+    },
+    {
+        "id": 7,
+        "ayat": 7,
+        "arabic": "الَّذِيْ خَلَقَكَ فَسَوّٰىكَ فَعَدَلَكَۙ",
+        "translate": "Allażī khalaqaka fa sawwāka fa ‘adalak(a).",
+        "meaning": "yang telah menciptakanmu lalu menyempurnakan kejadianmu dan menjadikan (susunan tubuh)-mu seimbang?"
+    },
+    {
+        "id": 8,
+        "ayat": 8,
+        "arabic": "فِيْٓ اَيِّ صُوْرَةٍ مَّا شَاۤءَ رَكَّبَكَۗ",
+        "translate": "Fī ayyi ṣūratim mā syā'a rakkabak(a).",
+        "meaning": "Dalam bentuk apa saja yang dikehendaki, Dia menyusun (tubuh)-mu."
+    },
+    {
+        "id": 9,
+        "ayat": 9,
+        "arabic": "كَلَّا بَلْ تُكَذِّبُوْنَ بِالدِّيْنِۙ",
+        "translate": "Kallā bal tukażżibūna bid-dīn(i).",
+        "meaning": "Jangan sekali-kali begitu! Bahkan, kamu mendustakan hari Pembalasan."
+    },
+    {
+        "id": 10,
+        "ayat": 10,
+        "arabic": "وَاِنَّ عَلَيْكُمْ لَحٰفِظِيْنَۙ",
+        "translate": "Wa inna ‘alaikum laḥāfiẓīn(a).",
+        "meaning": "Sesungguhnya bagi kamu ada (malaikat-malaikat) pengawas"
+    },
+    {
+        "id": 11,
+        "ayat": 11,
+        "arabic": "كِرَامًا كٰتِبِيْنَۙ",
+        "translate": "Kirāman kātibīn(a).",
+        "meaning": "yang mulia (di sisi Allah) dan mencatat (amal perbuatanmu)."
+    },
+    {
+        "id": 12,
+        "ayat": 12,
+        "arabic": "يَعْلَمُوْنَ مَا تَفْعَلُوْنَ",
+        "translate": "Ya‘lamūna mā taf‘alūn(a).",
+        "meaning": "Mereka mengetahui apa yang kamu kerjakan."
+    },
+    {
+        "id": 13,
+        "ayat": 13,
+        "arabic": "اِنَّ الْاَبْرَارَ لَفِيْ نَعِيْمٍۙ",
+        "translate": "Innal-abrāra lafī na‘īm(in).",
+        "meaning": "Sesungguhnya orang-orang yang berbakti benar-benar berada dalam (surga yang penuh) kenikmatan."
+    },
+    {
+        "id": 14,
+        "ayat": 14,
+        "arabic": "وَّاِنَّ الْفُجَّارَ لَفِيْ جَحِيْمٍ",
+        "translate": "Wa innal-fujjāra lafī jaḥīm(in).",
+        "meaning": "Sesungguhnya orang-orang yang durhaka benar-benar berada dalam (neraka) Jahim."
+    },
+    {
+        "id": 15,
+        "ayat": 15,
+        "arabic": "يَصْلَوْنَهَا يَوْمَ الدِّيْنِ",
+        "translate": "Yaṣlaunahā yaumad-dīn(i).",
+        "meaning": "Mereka memasukinya pada hari Pembalasan."
+    },
+    {
+        "id": 16,
+        "ayat": 16,
+        "arabic": "وَمَا هُمْ عَنْهَا بِغَاۤىِٕبِيْنَۗ",
+        "translate": "Wa mā hum ‘anhā bigā'ibīn(a).",
+        "meaning": "Mereka tidak mungkin keluar dari (neraka) itu."
+    },
+    {
+        "id": 17,
+        "ayat": 17,
+        "arabic": "وَمَآ اَدْرٰىكَ مَا يَوْمُ الدِّيْنِۙ",
+        "translate": "Wa mā adrāka mā yaumud-dīn(i).",
+        "meaning": "Tahukah engkau apakah hari Pembalasan itu?"
+    },
+    {
+        "id": 18,
+        "ayat": 18,
+        "arabic": "ثُمَّ مَآ اَدْرٰىكَ مَا يَوْمُ الدِّيْنِۗ",
+        "translate": "Ṡumma mā adrāka mā yaumud-dīn(i).",
+        "meaning": "Kemudian, tahukah engkau apakah hari Pembalasan itu?"
+    },
+    {
+        "id": 19,
+        "ayat": 19,
+        "arabic": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْـًٔا ۗوَالْاَمْرُ يَوْمَىِٕذٍ لِّلّٰهِ ࣖ",
+        "translate": "Yauma lā tamliku nafsul linafsin syai'ā(n), wal-amru yauma'iżil lillāh(i).",
+        "meaning": "(Itulah) hari (ketika) seseorang tidak berdaya (menolong) orang lain sedikit pun. Segala urusan pada hari itu adalah milik Allah."
+    }
+]

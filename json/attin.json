@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "ayat": 1,
+        "arabic": "وَالتِّيْنِ وَالزَّيْتُوْنِۙ",
+        "translate": "Wat-tīni waz-zaitūn(i).",
+        "meaning": "Demi (buah) tin dan (buah) zaitun,"
+    },
+    {
+        "id": 2,
+        "ayat": 2,
+        "arabic": "وَطُوْرِ سِيْنِيْنَۙ",
+        "translate": "Wa ṭūri sīnīn(a).",
+        "meaning": "demi gunung Sinai,"
+    },
+    {
+        "id": 3,
+        "ayat": 3,
+        "arabic": "وَهٰذَا الْبَلَدِ الْاَمِيْنِۙ",
+        "translate": "Wa hāżal-baladil-amīn(i).",
+        "meaning": "dan demi negeri (Makkah) yang aman ini,"
+    },
+    {
+        "id": 4,
+        "ayat": 4,
+        "arabic": "لَقَدْ خَلَقْنَا الْاِنْسَانَ فِيْٓ اَحْسَنِ تَقْوِيْمٍۖ",
+        "translate": "Laqad khalaqnal-insāna fī aḥsani taqwīm(in).",
+        "meaning": "sungguh, Kami benar-benar telah menciptakan manusia dalam bentuk yang sebaik-baiknya."
+    },
+    {
+        "id": 5,
+        "ayat": 5,
+        "arabic": "ثُمَّ رَدَدْنٰهُ اَسْفَلَ سٰفِلِيْنَۙ",
+        "translate": "Ṡumma radadnāhu asfala sāfilīn(a).",
+        "meaning": "Kemudian, kami kembalikan dia ke tempat yang serendah-rendahnya,"
+    },
+    {
+        "id": 6,
+        "ayat": 6,
+        "arabic": "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ فَلَهُمْ اَجْرٌ غَيْرُ مَمْنُوْنٍۗ",
+        "translate": "Illal-lażīna āmanū wa ‘amiluṣ-ṣāliḥāti falahum ajrun gairu mamnūn(in).",
+        "meaning": "kecuali orang-orang yang beriman dan mengerjakan kebajikan. Maka, mereka akan mendapat pahala yang tidak putus-putusnya."
+    },
+    {
+        "id": 7,
+        "ayat": 7,
+        "arabic": "فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّيْنِۗ",
+        "translate": "Famā yukażżibuka ba‘du bid-dīn(i).",
+        "meaning": "Maka, apa alasanmu (wahai orang kafir) mendustakan hari Pembalasan setelah (adanya bukti-bukti) itu?"
+    },
+    {
+        "id": 8,
+        "ayat": 8,
+        "arabic": "اَلَيْسَ اللّٰهُ بِاَحْكَمِ الْحٰكِمِيْنَ ࣖ",
+        "translate": "Alaisallāhu bi'aḥkamil-ḥākimīn(a).",
+        "meaning": "Bukankah Allah hakim yang paling adil?"
+    }
+]
