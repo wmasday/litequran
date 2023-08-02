@@ -4,6 +4,7 @@ import process from 'process';
 import { useState, useEffect } from 'react';
 import style from '@/styles/index.module.css'
 import Link from 'next/link';
+import { NextSeo } from 'next-seo';
 
 function Home(props) {
   const { surat } = props;
@@ -17,6 +18,10 @@ function Home(props) {
 
   return (
     <main className='container'>
+      <NextSeo
+        title={"LiteQuran NextJS"}
+        description="LiteQuran.net Rebuild With NextJS"
+      />
       <h1 className={style['fw-700'] + ' text-center mt-5'}>LiteQuran | NextJS</h1>
       <div className='row justify-content-center'>
         <div className='col-sm-3 text-center'>
