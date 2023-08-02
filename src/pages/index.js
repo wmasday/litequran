@@ -3,6 +3,7 @@ import path from 'path';
 import process from 'process';
 import { useState, useEffect } from 'react';
 import style from '@/styles/index.module.css'
+import Link from 'next/link';
 
 function Home(props) {
   const { surat } = props;
@@ -34,7 +35,7 @@ function Home(props) {
         {dataSurat.map((data, key) =>
           <div className={style['gradient'] + ' col-sm-3 m-1 mb-3 p-3 text-center'} key={key}>
             <h4 className={style['name']}>
-              <a href={'/surat/' + data.surat} className={style['anchor-surat'] + ' text-secondary'}>{data.surat}</a>
+              <Link href={'/surat/' + data.surat} className={style['anchor-surat'] + ' text-secondary'}>{data.surat}</Link>
             </h4>
           </div>
         )}

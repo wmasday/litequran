@@ -4,6 +4,7 @@ import process from 'process';
 import { useRouter } from "next/router";
 import { NextSeo } from 'next-seo';
 import style from '@/styles/index.module.css'
+import Link from 'next/link';
 
 function SuratDetail(props) {
     const { surat, detail } = props;
@@ -38,7 +39,7 @@ function SuratDetail(props) {
                 )}
             </section>
 
-            <a href='../../' className={style['btn-back'] + ' btn btn-light bg-white text-secondary mt-3 mb-5'}>Kembali</a>
+            <Link href='../../' className={style['btn-back'] + ' btn btn-light bg-white text-secondary mt-3 mb-5'}>Kembali</Link>
         </div>
     );
 }
